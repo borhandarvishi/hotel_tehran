@@ -1,0 +1,974 @@
+{
+  "status": "success",
+  "error": false,
+  "result": {
+    "hotel": {
+      "accomodation": {
+        "id": 204
+      },
+      "address": "تهران، میدان محمدیه، ابتدای مولوی غربی، رو‌به‌روی بانک ملی، کوچه اخوت‌نیا",
+      "badges": [],
+      "checkinTime": "14:00",
+      "checkoutTime": "12:00",
+      "city": {
+        "id": 0,
+        "_id": "7101534970300072022",
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": {
+        "code": "IR",
+        "id": "7094321840323039334",
+        "fa": "ایران",
+        "en": "Iran"
+      },
+      "description": {
+        "fa": "معرفی مهمانپذیر گلها تهران\nمهمانپذیر گلها تهران نگینی ساده و اقتصادی در دل شلوغی بازار مولوی است؛ اقامتی بی‌پیرایه که با قیمت مناسب، امکان دسترسی آسان به مترو و بازار را فراهم می‌کند. همین که قدم به پذیرش می‌گذارید، حس آرامش و کاربردی بودن فضا شما را در آغوش می‌گیرد؛ اتاق‌هایی که شاید چشم‌گیر نباشند، اما همه چیز‌هایی که برای خواب و استراحت نیاز دارید را کنار هم دارند. کافی است چند قدم بردارید تا خود را در درون دالان بازار بزرگ ببینید، یا با اتوبوس و مترو به جادوی کاخ گلستان یا موزه ملی برسید. مهمانپذیر گلها، ساده و بی‌تکلف است، اما دقیقا همان‌جایی است که برای یک اقامت اقتصادی و هوشمندانه در تهران به آن نیاز دارید.\nآدرس مهمانپذیر گلها تهران\nمهمانپذیر گلها در میدان محمدیه و قلب محله مولوی واقع شده است؛ جایی که با یک نگاه به نقشه می‌توانید ببینید اقامت در این مهمانپذیر، دسترسی کامل به بازار بزرگ تهران را برایتان فراهم می‌کند. برای کسانی که به منظور کار یا خرید به این محدوده سفر می‌کنند، سکونت در گلها به معنی کاهش دغدغه‌های رفت‌وآمد، به‌ویژه در منطقه‌ای که در طرح ترافیک قرار دارد، است.\nدسترسی به وسایل حمل‌ونقل عمومی نیز بسیار ساده است. ایستگاه مترو میدان محمدیه و میدان خیام تنها چند قدم با شما فاصله دارند و ایستگاه اتوبوس درست روبه‌روی کوچه اخوت‌نیا قرار گرفته است. با وجود تاکسی‌ها و خطوط BRT، می‌توانید به راحتی به تمامی نقاط تهران دسترسی داشته باشید.\nعلاوه بر بازار بزرگ که قلب تپنده کسب‌وکار در تهران و حتی ایران است، این محدوده پر از جاذبه‌های تاریخی و فرهنگی نیز هست. با حدود بیست دقیقه پیاده‌روی، می‌توانید از کاخ گلستان بازدید کنید یا به موزه ملی، موزه آبگینه، سردر باغ ملی و حتی پارک شهر سری بزنید. این محله همچنین میزبان رستوران‌ها و غذاخوری‌های محبوب تهران است؛ برای مثال رستوران مسلم، یکی از بهترین‌ها، درست در همین حوالی قرار دارد.\nاقامت در مهمانپذیر گلها نه تنها سفر اقتصادی شما را راحت می‌کند، بلکه شما را در قلب فعالیت‌های تجاری، فرهنگی و تاریخی تهران قرار می‌دهد، جایی که همه چیز در چند قدمی شماست.\nانواع اتاق های مهمانپذیر گلها تهران\nمهمانپذیر گلها تهران حدود هجده اتاق ساده و کاربردی دارد که شامل اتاق‌های یک ‌نفره، دو ‌نفره، سه ‌نفره و چهار ‌نفره می‌شود. این تنوع باعث می‌شود چه سفر مجردی و تک نفره داشته باشید و چه همراه خانواده یا گروه دوستان، اتاق مناسب خود را پیدا کنید.\nامکانات اتاق‌ها برای رفع نیازهای اولیه طراحی شده و شامل یخچال، تلویزیون، میز و صندلی، سرویس بهداشتی ایرانی و کف‌پوش موکت یا فرش است. برای گرمایش در زمستان نیز بخاری در اتاق‌ها تعبیه شده است. همه چیز ساده، اما کاربردی است و با توجه به قیمت اقتصادی، همان چیزی را در اختیار شما می‌گذارد که برای یک اقامت کوتاه و راحت نیاز دارید.\nمهمانپذیر گلها تهران مناسب کسانی است که قصد ندارند زمان زیادی را در هتل سپری کنند و تنها به دنبال محلی امن و مقرون‌به‌صرفه برای استراحت و رفع خستگی هستند. اگر به دنبال یک اقامت اقتصادی و هوشمندانه در قلب تهران هستید، گلها انتخابی عملی و مطمئن است.",
+        "en": ""
+      },
+      "disabled": false,
+      "email": "",
+      "facilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1041,
+          "name": {
+            "fa": "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+            "en": "Internet in lobby"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 91,
+          "name": {
+            "fa": "انبارنگهداری چمدان",
+            "en": "Luggage storage"
+          },
+          "priority": 3,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 8,
+          "name": {
+            "fa": "پذیرش شبانه‌روزی",
+            "en": "24-hour front desk"
+          },
+          "priority": 4,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 4,
+          "name": {
+            "fa": "ورود حیوانات ممنوع",
+            "en": "Pets not allowed"
+          },
+          "priority": 19,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 80,
+          "name": {
+            "fa": "سیستم گرمایشی",
+            "en": "Heating"
+          },
+          "priority": 22,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1047,
+          "name": {
+            "fa": "سرویس بهداشتی ایرانی",
+            "en": "Squat toilet"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1050,
+          "name": {
+            "fa": "تلویزیون",
+            "en": "Television"
+          },
+          "priority": 3,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1053,
+          "name": {
+            "fa": "یخچال",
+            "en": "Refrigerator"
+          },
+          "priority": 4,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1018,
+          "name": {
+            "fa": "میز ناهارخوری",
+            "en": "Dining table"
+          },
+          "priority": 10,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1068,
+          "name": {
+            "fa": "بخاری برقی",
+            "en": "Electrical heater"
+          },
+          "priority": 26,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1069,
+          "name": {
+            "fa": "بخاری گازی",
+            "en": "Gas heater"
+          },
+          "priority": 27,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1006,
+          "name": {
+            "fa": "کولر گازی",
+            "en": "Gas cooler"
+          },
+          "priority": 33,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "facilityGroups": [
+        {
+          "id": 1,
+          "name": {
+            "fa": "خدمات و امکانات کلی",
+            "en": "General Services"
+          },
+          "priority": 1,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1041,
+              "name": {
+                "fa": "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+                "en": "Internet in lobby"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 91,
+              "name": {
+                "fa": "انبارنگهداری چمدان",
+                "en": "Luggage storage"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 8,
+              "name": {
+                "fa": "پذیرش شبانه‌روزی",
+                "en": "24-hour front desk"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 4,
+              "name": {
+                "fa": "ورود حیوانات ممنوع",
+                "en": "Pets not allowed"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 80,
+              "name": {
+                "fa": "سیستم گرمایشی",
+                "en": "Heating"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": {
+            "fa": "امکانات اتاق‌ها",
+            "en": "Room Facilities"
+          },
+          "priority": 2,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1047,
+              "name": {
+                "fa": "سرویس بهداشتی ایرانی",
+                "en": "Squat toilet"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1050,
+              "name": {
+                "fa": "تلویزیون",
+                "en": "Television"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1053,
+              "name": {
+                "fa": "یخچال",
+                "en": "Refrigerator"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1018,
+              "name": {
+                "fa": "میز ناهارخوری",
+                "en": "Dining table"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1045,
+              "name": {
+                "fa": "حمام",
+                "en": "Bathroom"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1068,
+              "name": {
+                "fa": "بخاری برقی",
+                "en": "Electrical heater"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1069,
+              "name": {
+                "fa": "بخاری گازی",
+                "en": "Gas heater"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1006,
+              "name": {
+                "fa": "کولر گازی",
+                "en": "Gas cooler"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        }
+      ],
+      "popularFacilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 8,
+          "name": {
+            "fa": "پذیرش شبانه‌روزی",
+            "en": "24-hour front desk"
+          },
+          "priority": 4,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "faq": [],
+      "fax": "",
+      "hotelId": "dh-70fdfd51fd5c3f",
+      "image": {
+        "sourceUrl": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705287a906add960f28e419_2023-11-29-858174e7-abf6-40a0-ace8-27fc544b037f.webp"
+      },
+      "images": [
+        {
+          "imageId": "7155623956286799898",
+          "isPrimary": true,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705287a906add960f28e419_2023-11-29-858174e7-abf6-40a0-ace8-27fc544b037f.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623956286799899",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705287a299de7a7748d2743_2023-11-29-2cdd4579-b819-4b7c-9c31-4481f50b7c08.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [
+            {
+              "id": "1751165445626400768",
+              "title": "اتاق دو تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956286799900",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705287bab97af821191226c_2023-11-29-8c7e4d0e-3245-4e3c-b69d-8432954ea500.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [
+            {
+              "id": "1751165486994821120",
+              "title": "اتاق یک تخته (سرمایش پنکه)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956286799901",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705287c0fe27c5a5df8f5d3_2023-11-29-cfc8101f-bb61-4af6-9c25-5e07bb71e70f.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [
+            {
+              "id": "1751165336868098048",
+              "title": "اتاق چهار تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956286799902",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705287c359857c3c5f4a8e6_2023-11-29-7f9fd4e0-3afb-4115-85db-7a404936bae7.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [
+            {
+              "id": "1751165336868098048",
+              "title": "اتاق چهار تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956286799903",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705287d76f5bf0b3af63524_2023-11-29-22aea6be-09da-408e-a9c5-8eef5e32f301.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [
+            {
+              "id": "1751165445626400768",
+              "title": "اتاق دو تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956286799906",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705287e299de7a7748d2744_2023-11-29-fb947d1f-36bd-49f4-8661-75a4bbf6aee0.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "yard"
+          ]
+        },
+        {
+          "imageId": "7155623956286799907",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705287e906add960f28e41a_2023-11-29-b1b37c64-62c5-4ea0-bb45-4bc8d72d691e.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [
+            {
+              "id": "1751165486994821120",
+              "title": "اتاق یک تخته (سرمایش پنکه)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        }
+      ],
+      "totalImagesCount": 8,
+      "instruction": {
+        "fa": "نرخ مهمان خارجی با ایرانی، متفاوت است.\nگرمایش در اتاق‌های دو تخته، سه تخته و چهار تخته، بخاری گازی است.",
+        "en": ""
+      },
+      "mandatoryFee": {
+        "fa": "شرایط اقامت کودک و امکان استفاده از تخت اضافه در هر اتاق، بر اساس «نشان» نمایش داده شده مشخص می‌شود. در صورتی که نشان «محاسبه آنلاین نرخ کودک» را مشاهده می‌کنید، هزینه اقامت کودک در قیمت نهایی رزرو لحاظ شده است. اما اگر نشان «هزینه کودک به صورت حضوری» نمایش داده شود، هزینه اقامت کودک مطابق قوانین هتل و در زمان پذیرش از مسافر دریافت خواهد شد.",
+        "en": ""
+      },
+      "messages": [],
+      "metaDescription": "رزرو مهمانپذیر گلها تهران در علی بابا، معتبرترین سامانه رزرو هتل در ایران - رزرو هتل های تهران با تخفیف - گارانتی بهترین قیمت و پشتیبانی  24 ساعته- مشاهده آنلاین مشخصات، امکانات، تصاویر مهمانپذیر گلها تهران",
+      "link": "ir-tehran/golha-tehran",
+      "location": {
+        "coordinates": [
+          51.41342779524372,
+          35.66851772887261
+        ],
+        "type": "Point"
+      },
+      "name": {
+        "fa": "مهمانپذیر گلها",
+        "en": "Golha Tehran"
+      },
+      "phone": "",
+      "places": [],
+      "score": {
+        "score": 2.3,
+        "count": 23
+      },
+      "seoLinks": [],
+      "seoTitle": "رزرو مهمانپذیر گلها در تهران | علی بابا",
+      "special": false,
+      "isStrategic": false,
+      "star": 0,
+      "state": {
+        "fa": "",
+        "en": "Tehran"
+      },
+      "_id": "656711d8590a040023249910",
+      "newHotelId": "7155623956286799897",
+      "type": "hotel",
+      "title": {
+        "fa": "هتل مهمانپذیر گلها تهران",
+        "en": "Hotel Golha Tehran Tehran"
+      },
+      "video": null,
+      "rooms": [
+        {
+          "id": "1751165336868098048",
+          "capacity": 4,
+          "extraBed": 0,
+          "name_en": "اتاق چهار تخته",
+          "name": "اتاق چهار تخته"
+        },
+        {
+          "id": "1751165411304411136",
+          "capacity": 3,
+          "extraBed": 0,
+          "name_en": "اتاق سه تخته",
+          "name": "اتاق سه تخته"
+        },
+        {
+          "id": "1751165445626400768",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "اتاق دو تخته",
+          "name": "اتاق دو تخته"
+        },
+        {
+          "id": "1751165486994821120",
+          "capacity": 1,
+          "extraBed": 0,
+          "name_en": "اتاق یک تخته (سرمایش پنکه)",
+          "name": "اتاق یک تخته (سرمایش پنکه)"
+        }
+      ],
+      "childAgeRanges": {
+        "infantFromAge": 0,
+        "noBedFromAge": 0,
+        "withBedFromAge": 0,
+        "withBedToAge": 0,
+        "adultFromAge": 1
+      },
+      "tehranZone": {
+        "code": "south",
+        "fa": "جنوب",
+        "en": "south"
+      },
+      "facilitiesAggregate": "خدمات اينترنت بی‌سیم در قسمت پذیرش، انبارنگهداری چمدان، پذیرش شبانه‌روزی، ورود حیوانات ممنوع، سیستم گرمایشی، سرویس بهداشتی ایرانی، تلویزیون، یخچال، میز ناهارخوری، حمام، بخاری برقی، بخاری گازی، کولر گازی"
+    },
+    "filterablePois": [
+      {
+        "id": "2293763928",
+        "title": "فرودگاه بین المللی امام خمینی",
+        "coordinate": [
+          51.15562974,
+          35.40961946
+        ],
+        "category": "airportTower",
+        "boundingBox": [
+          35.402619460000004,
+          51.148629740000004,
+          35.41661946,
+          51.16262974
+        ]
+      },
+      {
+        "id": "4422152047",
+        "title": "برج آزادی",
+        "coordinate": [
+          51.33806665,
+          35.69973509
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.69273509,
+          51.331066650000004,
+          35.706735089999995,
+          51.34506665
+        ]
+      },
+      {
+        "id": "7995498706",
+        "title": "بازار بزرگ تهران",
+        "coordinate": [
+          51.42337293,
+          35.676776
+        ],
+        "category": "shoppingBag",
+        "boundingBox": [
+          35.669776,
+          51.41637293,
+          35.683775999999995,
+          51.43037293
+        ]
+      },
+      {
+        "id": "9264896876",
+        "title": "برج میلاد",
+        "coordinate": [
+          51.37552463,
+          35.74481373
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.73781373,
+          51.36852463,
+          35.751813729999995,
+          51.38252463
+        ]
+      }
+    ],
+    "nextPurchaseCashback": {
+      "currency": "IRR",
+      "amount": 0
+    },
+    "groupLinks": [
+      {
+        "name": "هتل اسپیناس پالاس",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+      },
+      {
+        "name": "هتل لاله تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-laleh"
+      },
+      {
+        "name": "هتل استقلال تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-esteghlal"
+      },
+      {
+        "name": "هتل اسپیناس بلوار کشاورز",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas"
+      },
+      {
+        "name": "هتل پارسیان آزادی",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-azadi"
+      },
+      {
+        "name": "هتل هما تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-homa"
+      },
+      {
+        "name": "هتل المپیک تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-olympic"
+      },
+      {
+        "name": "هتل پرشین پلازا",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-persianpelaza"
+      },
+      {
+        "name": "هتل اوین تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-evin"
+      },
+      {
+        "name": "هتل توچال",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-tochal"
+      },
+      {
+        "name": "هتل فردوسی تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-ferdowsi"
+      },
+      {
+        "name": "هتل هویزه تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-howeyzeh"
+      },
+      {
+        "name": "هتل بزرگ تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-grand"
+      },
+      {
+        "name": "هتل انقلاب تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-enghelab"
+      },
+      {
+        "name": "هتل های تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran"
+      }
+    ]
+  }
+}

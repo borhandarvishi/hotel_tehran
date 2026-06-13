@@ -1,0 +1,1285 @@
+{
+  "status": "success",
+  "error": false,
+  "result": {
+    "hotel": {
+      "accomodation": {
+        "id": 204
+      },
+      "address": "تهران، خیابان مرتضی مطهری، نرسیده به تقاطع سهروردی، پلاک 126",
+      "badges": [],
+      "checkinTime": "14:00",
+      "checkoutTime": "12:00",
+      "city": {
+        "id": 0,
+        "_id": "7101534970300072022",
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": {
+        "code": "IR",
+        "id": "7094321840323039334",
+        "fa": "ایران",
+        "en": "Iran"
+      },
+      "description": {
+        "fa": "",
+        "en": ""
+      },
+      "disabled": false,
+      "email": "",
+      "facilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1038,
+          "name": {
+            "fa": "خدمات اينترنت بی‌سیم (Wifi)",
+            "en": "Internet"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 8,
+          "name": {
+            "fa": "پذیرش شبانه‌روزی",
+            "en": "24-hour front desk"
+          },
+          "priority": 4,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 80,
+          "name": {
+            "fa": "سیستم گرمایشی",
+            "en": "Heating"
+          },
+          "priority": 22,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 109,
+          "name": {
+            "fa": "تهویه مطبوع",
+            "en": "Air conditioning"
+          },
+          "priority": 23,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1047,
+          "name": {
+            "fa": "سرویس بهداشتی ایرانی",
+            "en": "Squat toilet"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1046,
+          "name": {
+            "fa": "سرویس بهداشتی فرنگی",
+            "en": "Toilet"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1050,
+          "name": {
+            "fa": "تلویزیون",
+            "en": "Television"
+          },
+          "priority": 3,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1053,
+          "name": {
+            "fa": "یخچال",
+            "en": "Refrigerator"
+          },
+          "priority": 4,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1029,
+          "name": {
+            "fa": "چای‌ساز",
+            "en": "Tea maker"
+          },
+          "priority": 5,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1013,
+          "name": {
+            "fa": "گیرنده دیجیتال",
+            "en": "Digital Receiver"
+          },
+          "priority": 8,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1018,
+          "name": {
+            "fa": "میز ناهارخوری",
+            "en": "Dining table"
+          },
+          "priority": 10,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1042,
+          "name": {
+            "fa": "مبلمان راحتی",
+            "en": "Furniture"
+          },
+          "priority": 11,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1043,
+          "name": {
+            "fa": "آشپزخانه",
+            "en": "Kitchen"
+          },
+          "priority": 12,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1015,
+          "name": {
+            "fa": "اجاق گاز",
+            "en": "Oven"
+          },
+          "priority": 17,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1016,
+          "name": {
+            "fa": "لوازم آشپزی و پذیرایی",
+            "en": "Cooking Accessories"
+          },
+          "priority": 18,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1005,
+          "name": {
+            "fa": "کولر آبی",
+            "en": "Water Cooler"
+          },
+          "priority": 32,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "سایر امکانات",
+              "en": ""
+            },
+            "priority": 11
+          },
+          "groupId": 10,
+          "id": 49,
+          "name": {
+            "fa": "چک‌این (ورود) و چک‌اوت (خروج) سریع",
+            "en": "Express check-in/check-out"
+          },
+          "priority": 9,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "facilityGroups": [
+        {
+          "id": 1,
+          "name": {
+            "fa": "خدمات و امکانات کلی",
+            "en": "General Services"
+          },
+          "priority": 1,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1038,
+              "name": {
+                "fa": "خدمات اينترنت بی‌سیم (Wifi)",
+                "en": "Internet"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 8,
+              "name": {
+                "fa": "پذیرش شبانه‌روزی",
+                "en": "24-hour front desk"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 80,
+              "name": {
+                "fa": "سیستم گرمایشی",
+                "en": "Heating"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 109,
+              "name": {
+                "fa": "تهویه مطبوع",
+                "en": "Air conditioning"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": {
+            "fa": "امکانات اتاق‌ها",
+            "en": "Room Facilities"
+          },
+          "priority": 2,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1047,
+              "name": {
+                "fa": "سرویس بهداشتی ایرانی",
+                "en": "Squat toilet"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1046,
+              "name": {
+                "fa": "سرویس بهداشتی فرنگی",
+                "en": "Toilet"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1050,
+              "name": {
+                "fa": "تلویزیون",
+                "en": "Television"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1053,
+              "name": {
+                "fa": "یخچال",
+                "en": "Refrigerator"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1029,
+              "name": {
+                "fa": "چای‌ساز",
+                "en": "Tea maker"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1013,
+              "name": {
+                "fa": "گیرنده دیجیتال",
+                "en": "Digital Receiver"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1018,
+              "name": {
+                "fa": "میز ناهارخوری",
+                "en": "Dining table"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1042,
+              "name": {
+                "fa": "مبلمان راحتی",
+                "en": "Furniture"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1043,
+              "name": {
+                "fa": "آشپزخانه",
+                "en": "Kitchen"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1045,
+              "name": {
+                "fa": "حمام",
+                "en": "Bathroom"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1015,
+              "name": {
+                "fa": "اجاق گاز",
+                "en": "Oven"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1016,
+              "name": {
+                "fa": "لوازم آشپزی و پذیرایی",
+                "en": "Cooking Accessories"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1005,
+              "name": {
+                "fa": "کولر آبی",
+                "en": "Water Cooler"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": {
+            "fa": "سایر امکانات",
+            "en": ""
+          },
+          "priority": 11,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 49,
+              "name": {
+                "fa": "چک‌این (ورود) و چک‌اوت (خروج) سریع",
+                "en": "Express check-in/check-out"
+              },
+              "priority": 11,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        }
+      ],
+      "popularFacilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 1038,
+          "name": {
+            "fa": "خدمات اينترنت بی‌سیم (Wifi)",
+            "en": "Internet"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 8,
+          "name": {
+            "fa": "پذیرش شبانه‌روزی",
+            "en": "24-hour front desk"
+          },
+          "priority": 4,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "faq": [],
+      "fax": "",
+      "hotelId": "1787810293208846336",
+      "image": {
+        "sourceUrl": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267ba5fd9a8c17ee3bed1_9c2c86c5-a68b-4a26-8b73-f4dc6aaabcdc_Persian Plaza accomodation Tehran (3).webp"
+      },
+      "images": [
+        {
+          "imageId": "1787810367162814464",
+          "isPrimary": true,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267ba5fd9a8c17ee3bed1_9c2c86c5-a68b-4a26-8b73-f4dc6aaabcdc_Persian Plaza accomodation Tehran (3).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "1787810416278114304",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267bb5fd9a8c17ee3bed2_3ae4ecdf-4a97-450b-bded-e88e5a613d53_Persian Plaza accomodation Tehran (10).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1787810700236689408",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267bb4d8a318d22c5cee3_1f70b031-4686-4458-bf57-26edf4db469e_Persian Plaza accomodation Tehran (9).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1787810738853646336",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267bc5fd9a8c17ee3bed3_76d1ff7e-6a82-4a40-ba95-b2ee1fa1a7b8_Persian Plaza accomodation Tehran (7).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1787810761704214528",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267bc26def3e848858c7c_83d209e1-402e-49b0-95ba-90ab7154f2e9_Persian Plaza accomodation Tehran (17).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1787811253318586368",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267bc26def3e848858c7d_b97c1cae-50df-46fa-91e2-c63c54935d6e_Persian Plaza accomodation Tehran (1).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1787811253410861056",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267bd4d8a318d22c5cee4_11341bf3-ea78-4a94-a331-516591d29216_Persian Plaza accomodation Tehran (2).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1787811255810002944",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267be79e696602f42e6a0_4c100248-fc93-4f96-937a-9aa5f0d47c5e_Persian Plaza accomodation Tehran (4).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1787811255906471936",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267bedf008c145c7c72cd_e96076da-d843-4567-92d6-f8994b54607e_Persian Plaza accomodation Tehran (5).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1787811256023912448",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267bf26def3e848858c7e_7d5f5aa5-752e-445f-974a-341349333d59_Persian Plaza accomodation Tehran (6).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1787811253847068672",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267be4d8a318d22c5cee5_c0a6dc16-c008-4af0-8f2c-1ba0b7950192_Persian Plaza accomodation Tehran (11).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1787811711244308480",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267c05fd9a8c17ee3bed4_079fc3d7-db02-4d86-a100-2264a476b740_Persian Plaza accomodation Tehran (12).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1787811713630867456",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267c05fd9a8c17ee3bed5_3960abf3-02ba-45de-875d-c2e45b50e5e6_Persian Plaza accomodation Tehran (13).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1787811713735725056",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267c179e696602f42e6a1_4ac77a6f-5a66-4b8e-a086-3296cf87cadf_Persian Plaza accomodation Tehran (14).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1787811713848971264",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670267c179e696602f42e6a2_f13bac66-47a5-4f06-805c-80534dcca19f_Persian Plaza accomodation Tehran (18).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        }
+      ],
+      "totalImagesCount": 15,
+      "instruction": {
+        "fa": "",
+        "en": ""
+      },
+      "mandatoryFee": {
+        "fa": "شرایط اقامت کودک و امکان استفاده از تخت اضافه در هر اتاق، بر اساس «نشان» نمایش داده شده مشخص میشود. در صورتی که نشان «محاسبه آنلاین نرخ کودک» را مشاهده میکنید، هزینه اقامت کودک در قیمت نهایی رزرو لحاظ شده است. اما اگر نشان «هزینه کودک به صورت حضوری» نمایش داده شود، هزینه اقامت کودک مطابق قوانین هتل و در زمان پذیرش از مسافر دریافت خواهد شد.",
+        "en": ""
+      },
+      "messages": [],
+      "metaDescription": "رزرو اقامتگاه پرشین پلازا مطهری تهران تخفیف ویژه از علی بابا رتبه یک سفر - امکان مشاهده عکس ها، قیمت و امکانات اتاق های پرشین پلازا مطهری همراه با پشتیبانی 24 ساعته",
+      "link": "ir-tehran/tehran-persianpelaza-motahari",
+      "location": {
+        "coordinates": [
+          51.43451240450991,
+          35.724470005265
+        ],
+        "type": "Point"
+      },
+      "name": {
+        "fa": "اقامتگاه پرشین پلازا مطهری",
+        "en": "persian-pelaza-motahari"
+      },
+      "phone": "",
+      "places": [],
+      "score": {
+        "score": 0,
+        "count": 0
+      },
+      "seoLinks": [],
+      "seoTitle": "رزرو اقامتگاه پرشین پلازا مطهری تهران، قیمت ، عکس ها | علی بابا",
+      "special": false,
+      "isStrategic": false,
+      "star": 0,
+      "state": {
+        "fa": "",
+        "en": "Tehran"
+      },
+      "_id": "1787810293208846336",
+      "newHotelId": "1787810293208846336",
+      "type": "hotel",
+      "title": {
+        "fa": "هتل اقامتگاه پرشین پلازا مطهری تهران",
+        "en": "Hotel persian-pelaza-motahari Tehran"
+      },
+      "video": null,
+      "rooms": [
+        {
+          "id": "1787824257011552256",
+          "capacity": 4,
+          "extraBed": 0,
+          "name_en": "آپارتمان دو خوابه چهار تخته",
+          "name": "آپارتمان دو خوابه چهار تخته"
+        },
+        {
+          "id": "1787824313164894208",
+          "capacity": 5,
+          "extraBed": 0,
+          "name_en": "آپارتمان دو خوابه پنج تخته",
+          "name": "آپارتمان دو خوابه پنج تخته"
+        },
+        {
+          "id": "1787824351903485952",
+          "capacity": 6,
+          "extraBed": 0,
+          "name_en": "آپارتمان دو خوابه شش تخته",
+          "name": "آپارتمان دو خوابه شش تخته"
+        },
+        {
+          "id": "1787824409055072256",
+          "capacity": 3,
+          "extraBed": 0,
+          "name_en": "آپارتمان دو خوابه سه تخته",
+          "name": "آپارتمان دو خوابه سه تخته"
+        },
+        {
+          "id": "1787824456995966976",
+          "capacity": 8,
+          "extraBed": 0,
+          "name_en": "آپارتمان دو خوابه هشت تخته",
+          "name": "آپارتمان دو خوابه هشت تخته"
+        },
+        {
+          "id": "1820471826191486976",
+          "capacity": 1,
+          "extraBed": 0,
+          "name_en": "سوئیت یک تخته ",
+          "name": "سوئیت یک تخته "
+        },
+        {
+          "id": "1820471989022756864",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "آپارتمان دوخوابه دو تخته",
+          "name": "آپارتمان دوخوابه دو تخته"
+        }
+      ],
+      "childAgeRanges": {
+        "infantFromAge": 0,
+        "noBedFromAge": 0,
+        "withBedFromAge": 0,
+        "withBedToAge": 0,
+        "adultFromAge": 0
+      },
+      "tehranZone": {
+        "code": "east",
+        "fa": "شرق",
+        "en": "east"
+      },
+      "facilitiesAggregate": "خدمات اينترنت بی‌سیم (Wifi)، پذیرش شبانه‌روزی، سیستم گرمایشی، تهویه مطبوع، سرویس بهداشتی ایرانی، سرویس بهداشتی فرنگی، تلویزیون، یخچال، چای‌ساز، گیرنده دیجیتال، میز ناهارخوری، مبلمان راحتی، آشپزخانه، حمام، اجاق گاز، لوازم آشپزی و پذیرایی، کولر آبی، چک‌این (ورود) و چک‌اوت (خروج) سریع"
+    },
+    "filterablePois": [
+      {
+        "id": "2293763928",
+        "title": "فرودگاه بین المللی امام خمینی",
+        "coordinate": [
+          51.15562974,
+          35.40961946
+        ],
+        "category": "airportTower",
+        "boundingBox": [
+          35.402619460000004,
+          51.148629740000004,
+          35.41661946,
+          51.16262974
+        ]
+      },
+      {
+        "id": "4422152047",
+        "title": "برج آزادی",
+        "coordinate": [
+          51.33806665,
+          35.69973509
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.69273509,
+          51.331066650000004,
+          35.706735089999995,
+          51.34506665
+        ]
+      },
+      {
+        "id": "7995498706",
+        "title": "بازار بزرگ تهران",
+        "coordinate": [
+          51.42337293,
+          35.676776
+        ],
+        "category": "shoppingBag",
+        "boundingBox": [
+          35.669776,
+          51.41637293,
+          35.683775999999995,
+          51.43037293
+        ]
+      },
+      {
+        "id": "9264896876",
+        "title": "برج میلاد",
+        "coordinate": [
+          51.37552463,
+          35.74481373
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.73781373,
+          51.36852463,
+          35.751813729999995,
+          51.38252463
+        ]
+      }
+    ],
+    "nextPurchaseCashback": {
+      "currency": "IRR",
+      "amount": 0
+    },
+    "groupLinks": [
+      {
+        "name": "هتل اسپیناس پالاس",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+      },
+      {
+        "name": "هتل لاله تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-laleh"
+      },
+      {
+        "name": "هتل استقلال تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-esteghlal"
+      },
+      {
+        "name": "هتل اسپیناس بلوار کشاورز",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas"
+      },
+      {
+        "name": "هتل پارسیان آزادی",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-azadi"
+      },
+      {
+        "name": "هتل هما تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-homa"
+      },
+      {
+        "name": "هتل المپیک تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-olympic"
+      },
+      {
+        "name": "هتل پرشین پلازا",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-persianpelaza"
+      },
+      {
+        "name": "هتل اوین تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-evin"
+      },
+      {
+        "name": "هتل توچال",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-tochal"
+      },
+      {
+        "name": "هتل فردوسی تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-ferdowsi"
+      },
+      {
+        "name": "هتل هویزه تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-howeyzeh"
+      },
+      {
+        "name": "هتل بزرگ تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-grand"
+      },
+      {
+        "name": "هتل انقلاب تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-enghelab"
+      },
+      {
+        "name": "هتل های تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran"
+      }
+    ]
+  }
+}

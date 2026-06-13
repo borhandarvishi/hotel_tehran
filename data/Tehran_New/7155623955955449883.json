@@ -1,0 +1,2070 @@
+{
+  "status": "success",
+  "error": false,
+  "result": {
+    "hotel": {
+      "accomodation": {
+        "id": 204
+      },
+      "address": "تهران، خیابان ولیعصر، بالاتر از دستگردی (ظفر)، خیابان ناصری، پلاک ۱۷",
+      "badges": [
+        {
+          "color": {
+            "background": "",
+            "border": "",
+            "text": "",
+            "variant": "primary"
+          },
+          "text": "شام رایگان",
+          "_id": "",
+          "variant": "PRIMARY",
+          "description": "شام رایگان برای خریداران علی بابا از نوع بوفه",
+          "icon": "forkSpoon"
+        }
+      ],
+      "checkinTime": "14:00",
+      "checkoutTime": "12:00",
+      "city": {
+        "id": 0,
+        "_id": "7101534970300072022",
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": {
+        "code": "IR",
+        "id": "7094321840323039334",
+        "fa": "ایران",
+        "en": "Iran"
+      },
+      "description": {
+        "fa": "",
+        "en": ""
+      },
+      "disabled": false,
+      "email": "",
+      "facilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1041,
+          "name": {
+            "fa": "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+            "en": "Internet in lobby"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1066,
+          "name": {
+            "fa": "آسانسور",
+            "en": "Elevator"
+          },
+          "priority": 5,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 71,
+          "name": {
+            "fa": "نمازخانه",
+            "en": "Chapel/shrine"
+          },
+          "priority": 9,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1040,
+          "name": {
+            "fa": "تاکسی سرویس",
+            "en": "Cab"
+          },
+          "priority": 12,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1046,
+          "name": {
+            "fa": "سرویس بهداشتی فرنگی",
+            "en": "Toilet"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1050,
+          "name": {
+            "fa": "تلویزیون",
+            "en": "Television"
+          },
+          "priority": 3,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1053,
+          "name": {
+            "fa": "یخچال",
+            "en": "Refrigerator"
+          },
+          "priority": 4,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1042,
+          "name": {
+            "fa": "مبلمان راحتی",
+            "en": "Furniture"
+          },
+          "priority": 11,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1048,
+          "name": {
+            "fa": "گاو صندوق",
+            "en": "Safe box"
+          },
+          "priority": 14,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1049,
+          "name": {
+            "fa": "تلفن",
+            "en": "Telephone"
+          },
+          "priority": 16,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1052,
+          "name": {
+            "fa": "سیستم تهویه هوا",
+            "en": "Air conditioning"
+          },
+          "priority": 25,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "رستوران و امکانات پذیرایی",
+              "en": "Restaurants"
+            },
+            "priority": 4
+          },
+          "groupId": 6,
+          "id": 3,
+          "name": {
+            "fa": "رستوران",
+            "en": "Restaurant"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "رستوران و امکانات پذیرایی",
+              "en": "Restaurants"
+            },
+            "priority": 4
+          },
+          "groupId": 6,
+          "id": 1057,
+          "name": {
+            "fa": "کافی‌شاپ",
+            "en": "Coffe shop"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "پارکینگ",
+              "en": "Parking"
+            },
+            "priority": 5
+          },
+          "groupId": 8,
+          "id": 2,
+          "name": {
+            "fa": "پارکینگ",
+            "en": "Parking"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "پارکینگ",
+              "en": "Parking"
+            },
+            "priority": 5
+          },
+          "groupId": 8,
+          "id": 46,
+          "name": {
+            "fa": "پارکینگ",
+            "en": "Parking"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "استخر و امکانات ورزشی",
+              "en": "Pool and Sport Services"
+            },
+            "priority": 7
+          },
+          "groupId": 2,
+          "id": 11,
+          "name": {
+            "fa": "سالن بدنسازی",
+            "en": "Fitness centre"
+          },
+          "priority": 6,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "ایمنی",
+              "en": "Safety and Security"
+            },
+            "priority": 9
+          },
+          "groupId": 9,
+          "id": 1063,
+          "name": {
+            "fa": "اعلام حریق",
+            "en": "Fire alarm"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات اتاق",
+              "en": "Room Service"
+            },
+            "priority": 10
+          },
+          "groupId": 5,
+          "id": 1044,
+          "name": {
+            "fa": "سرویس روزانه اتاق",
+            "en": "Room service"
+          },
+          "priority": 0,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات اتاق",
+              "en": "Room Service"
+            },
+            "priority": 10
+          },
+          "groupId": 5,
+          "id": 22,
+          "name": {
+            "fa": "خدمات خشکشویی",
+            "en": "Laundry"
+          },
+          "priority": 3,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "سایر امکانات",
+              "en": ""
+            },
+            "priority": 11
+          },
+          "groupId": 10,
+          "id": 1065,
+          "name": {
+            "fa": "سالن کنفرانس",
+            "en": "Conference hall"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "facilityGroups": [
+        {
+          "id": 1,
+          "name": {
+            "fa": "خدمات و امکانات کلی",
+            "en": "General Services"
+          },
+          "priority": 1,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1041,
+              "name": {
+                "fa": "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+                "en": "Internet in lobby"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1066,
+              "name": {
+                "fa": "آسانسور",
+                "en": "Elevator"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 71,
+              "name": {
+                "fa": "نمازخانه",
+                "en": "Chapel/shrine"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1040,
+              "name": {
+                "fa": "تاکسی سرویس",
+                "en": "Cab"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": {
+            "fa": "امکانات اتاق‌ها",
+            "en": "Room Facilities"
+          },
+          "priority": 2,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1046,
+              "name": {
+                "fa": "سرویس بهداشتی فرنگی",
+                "en": "Toilet"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1050,
+              "name": {
+                "fa": "تلویزیون",
+                "en": "Television"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1053,
+              "name": {
+                "fa": "یخچال",
+                "en": "Refrigerator"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1042,
+              "name": {
+                "fa": "مبلمان راحتی",
+                "en": "Furniture"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1045,
+              "name": {
+                "fa": "حمام",
+                "en": "Bathroom"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1048,
+              "name": {
+                "fa": "گاو صندوق",
+                "en": "Safe box"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1049,
+              "name": {
+                "fa": "تلفن",
+                "en": "Telephone"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1052,
+              "name": {
+                "fa": "سیستم تهویه هوا",
+                "en": "Air conditioning"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": {
+            "fa": "رستوران و امکانات پذیرایی",
+            "en": "Restaurants"
+          },
+          "priority": 4,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 3,
+              "name": {
+                "fa": "رستوران",
+                "en": "Restaurant"
+              },
+              "priority": 4,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1057,
+              "name": {
+                "fa": "کافی‌شاپ",
+                "en": "Coffe shop"
+              },
+              "priority": 4,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": {
+            "fa": "پارکینگ",
+            "en": "Parking"
+          },
+          "priority": 5,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 2,
+              "name": {
+                "fa": "پارکینگ",
+                "en": "Parking"
+              },
+              "priority": 5,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 46,
+              "name": {
+                "fa": "پارکینگ",
+                "en": "Parking"
+              },
+              "priority": 5,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": {
+            "fa": "استخر و امکانات ورزشی",
+            "en": "Pool and Sport Services"
+          },
+          "priority": 7,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 11,
+              "name": {
+                "fa": "سالن بدنسازی",
+                "en": "Fitness centre"
+              },
+              "priority": 7,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": {
+            "fa": "ایمنی",
+            "en": "Safety and Security"
+          },
+          "priority": 9,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1063,
+              "name": {
+                "fa": "اعلام حریق",
+                "en": "Fire alarm"
+              },
+              "priority": 9,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": {
+            "fa": "خدمات اتاق",
+            "en": "Room Service"
+          },
+          "priority": 10,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1044,
+              "name": {
+                "fa": "سرویس روزانه اتاق",
+                "en": "Room service"
+              },
+              "priority": 10,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 22,
+              "name": {
+                "fa": "خدمات خشکشویی",
+                "en": "Laundry"
+              },
+              "priority": 10,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": {
+            "fa": "سایر امکانات",
+            "en": ""
+          },
+          "priority": 11,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1065,
+              "name": {
+                "fa": "سالن کنفرانس",
+                "en": "Conference hall"
+              },
+              "priority": 11,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        }
+      ],
+      "popularFacilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 3,
+          "name": {
+            "fa": "رستوران",
+            "en": "Restaurant"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 1057,
+          "name": {
+            "fa": "کافی‌شاپ",
+            "en": "Coffe shop"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 2,
+          "name": {
+            "fa": "پارکینگ",
+            "en": "Parking"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "faq": [],
+      "fax": "",
+      "hotelId": "426799",
+      "image": {
+        "sourceUrl": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051150b347cc1bd8f4c02c_826308ff-b10b-4bf6-9ad3-8602c060d354_هتل طوبی - نمای هتل.webp"
+      },
+      "images": [
+        {
+          "imageId": "1754423803359793152",
+          "isPrimary": true,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051150b347cc1bd8f4c02c_826308ff-b10b-4bf6-9ad3-8602c060d354_هتل طوبی - نمای هتل.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "1754423859945148416",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051151299de7a7748d25cf_9143c2d5-06e5-4547-8dd1-a9712d123fb0_هتل طوبی - آپارتمان دوخوابه چهارتخته (9).webp",
+          "roomType": {
+            "id": "1669791167857823744",
+            "title": "آپارتمان دو خوابه برای چهار نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791167857823744",
+              "title": "آپارتمان دو خوابه برای چهار نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754452749849726976",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051152ab97af82119120e4_e0eeb6ef-97c4-49b0-9187-ab5efc99029f_هتل طوبی - استودیو رویال دبل (2).webp",
+          "roomType": {
+            "id": "1669791420258455552",
+            "title": "رویال استودیو برای 1نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791383260499968",
+              "title": "رویال استودیو برای 2نفر"
+            },
+            {
+              "id": "1669791420258455552",
+              "title": "رویال استودیو برای 1نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754452845182062592",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051152359857c3c5f4a765_7dd7a531-8b82-4ec7-8fee-f2d75f246bd6_هتل طوبی - کافی شاپ (3).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "1754452908306337792",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051153359857c3c5f4a766_a8b8e30c-56ac-40f3-8fa8-f0d0cc85efce_هتل طوبی - لابی (5).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1754453418262401024",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115676f5bf0b3af633c1_0c9ed27d-bdbb-4a9a-bf8b-cba8ecf07133_هتل طوبی - آپارتمان دوتخته سینگل (1).webp",
+          "roomType": {
+            "id": "1669791297637978112",
+            "title": "آپارتمان یک خوابه برای 2نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791297637978112",
+              "title": "آپارتمان یک خوابه برای 2نفر"
+            },
+            {
+              "id": "1669791343418806272",
+              "title": "آپارتمان یک خوابه برای 1نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453418266595328",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670511576af0f999b10abfd5_057a4e2f-d2f5-49f5-81ba-9d7585d11f4a_هتل طوبی - آپارتمان دوتخته سینگل (2).webp",
+          "roomType": {
+            "id": "1669791297637978112",
+            "title": "آپارتمان یک خوابه برای 2نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791297637978112",
+              "title": "آپارتمان یک خوابه برای 2نفر"
+            },
+            {
+              "id": "1669791343418806272",
+              "title": "آپارتمان یک خوابه برای 1نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453418279178240",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051157299de7a7748d25d0_f97d1291-b97f-499f-ae75-ab56c225c71a_هتل طوبی - آپارتمان دوتخته سینگل (4).webp",
+          "roomType": {
+            "id": "1669791297637978112",
+            "title": "آپارتمان یک خوابه برای 2نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791297637978112",
+              "title": "آپارتمان یک خوابه برای 2نفر"
+            },
+            {
+              "id": "1669791343418806272",
+              "title": "آپارتمان یک خوابه برای 1نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453418279178241",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051158359857c3c5f4a769_5d9fa3fd-820d-447f-ba33-90aa15f3405a_هتل طوبی - آپارتمان دوخوابه چهارتخته (3).webp",
+          "roomType": {
+            "id": "1669791167857823744",
+            "title": "آپارتمان دو خوابه برای چهار نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791167857823744",
+              "title": "آپارتمان دو خوابه برای چهار نفر"
+            },
+            {
+              "id": "1669791259700498432",
+              "title": "آپارتمان دوخوابه برای 2نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453407097163776",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670511532cf976539175fb90_f294ce9a-f942-4103-92d2-98dbfa2d9a0a_هتل طوبی - آپارتمان دوخوابه چهارتخته (4).webp",
+          "roomType": {
+            "id": "1669791167857823744",
+            "title": "آپارتمان دو خوابه برای چهار نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791167857823744",
+              "title": "آپارتمان دو خوابه برای چهار نفر"
+            },
+            {
+              "id": "1669791259700498432",
+              "title": "آپارتمان دوخوابه برای 2نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453418530836480",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051158b347cc1bd8f4c02d_8319f77a-a058-4697-87ca-9bb3caf5324b_هتل طوبی - آپارتمان دوخوابه چهارتخته (5).webp",
+          "roomType": {
+            "id": "1669791167857823744",
+            "title": "آپارتمان دو خوابه برای چهار نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791167857823744",
+              "title": "آپارتمان دو خوابه برای چهار نفر"
+            },
+            {
+              "id": "1669791259700498432",
+              "title": "آپارتمان دوخوابه برای 2نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453418543419392",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051159666674792fccc286_ef2097a3-a76a-42a4-9d6f-205dc388feb3_هتل طوبی - آپارتمان دوخوابه چهارتخته (6).webp",
+          "roomType": {
+            "id": "1669791167857823744",
+            "title": "آپارتمان دو خوابه برای چهار نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791167857823744",
+              "title": "آپارتمان دو خوابه برای چهار نفر"
+            },
+            {
+              "id": "1669791259700498432",
+              "title": "آپارتمان دوخوابه برای 2نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453418547613696",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115a299de7a7748d25d1_08b323c6-670c-4a0c-8494-863d681dcaeb_هتل طوبی - آپارتمان دوخوابه چهارتخته (10).webp",
+          "roomType": {
+            "id": "1669791167857823744",
+            "title": "آپارتمان دو خوابه برای چهار نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791167857823744",
+              "title": "آپارتمان دو خوابه برای چهار نفر"
+            },
+            {
+              "id": "1669791259700498432",
+              "title": "آپارتمان دوخوابه برای 2نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453407495622656",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051154359857c3c5f4a767_6506fa97-f7a0-4dcb-bdc6-6991cbc8b1d9_هتل طوبی - آپارتمان دوخوابه چهارتخته (12).webp",
+          "roomType": {
+            "id": "1669791167857823744",
+            "title": "آپارتمان دو خوابه برای چهار نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791167857823744",
+              "title": "آپارتمان دو خوابه برای چهار نفر"
+            },
+            {
+              "id": "1669791259700498432",
+              "title": "آپارتمان دوخوابه برای 2نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453407495622657",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051154359857c3c5f4a768_5e694ada-b219-4aa8-a74a-9edc153f0c4f_هتل طوبی - آپارتمان دوخوابه چهارتخته (11).webp",
+          "roomType": {
+            "id": "1669791167857823744",
+            "title": "آپارتمان دو خوابه برای چهار نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791167857823744",
+              "title": "آپارتمان دو خوابه برای چهار نفر"
+            },
+            {
+              "id": "1669791259700498432",
+              "title": "آپارتمان دوخوابه برای 2نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453407906664448",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670511550fe27c5a5df8f454_b2571269-7c05-4634-9336-56ca022393f2_هتل طوبی - استودیو رویال دبل (1).webp",
+          "roomType": {
+            "id": "1669791420258455552",
+            "title": "رویال استودیو برای 1نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791383260499968",
+              "title": "رویال استودیو برای 2نفر"
+            },
+            {
+              "id": "1669791420258455552",
+              "title": "رویال استودیو برای 1نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453407906664449",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670511556af0f999b10abfd4_b929c540-38cf-4d6a-8f9f-fc0bcb92b706_هتل طوبی - استودیو دوتخته سینگل (1).webp",
+          "roomType": {
+            "id": "1669791297637978112",
+            "title": "آپارتمان یک خوابه برای 2نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791297637978112",
+              "title": "آپارتمان یک خوابه برای 2نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453408841994240",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051156ab97af82119120e5_37926185-b9d9-4b47-96b5-cbf24d55ab59_هتل طوبی - آپارتمان دوتخته سینگل (3).webp",
+          "roomType": {
+            "id": "1669791297637978112",
+            "title": "آپارتمان یک خوابه برای 2نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791297637978112",
+              "title": "آپارتمان یک خوابه برای 2نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453946811813888",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115eb347cc1bd8f4c02e_c6307ce3-5a26-43ae-9684-68f662874487_هتل طوبی - استودیو رویال دبل (4).webp",
+          "roomType": {
+            "id": "1669791420258455552",
+            "title": "رویال استودیو برای 1نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791383260499968",
+              "title": "رویال استودیو برای 2نفر"
+            },
+            {
+              "id": "1669791420258455552",
+              "title": "رویال استودیو برای 1نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453947789086720",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115e6af0f999b10abfd8_9f03528c-a0f3-4028-9e3b-b11b9c36d103_هتل طوبی - راهروی طبقات (1).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1754453936837758976",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115a0fe27c5a5df8f455_f3519d13-72cf-4979-bf01-de66cb28f352_هتل طوبی - سرویس بهداشتی و حمام (2).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1754453936837758977",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115a76f5bf0b3af633c2_a0890a5f-2eac-4596-8bb6-ad0ba26cc333_هتل طوبی - سالن کنفرانس (1).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "halls"
+          ]
+        },
+        {
+          "imageId": "1754453948095270912",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115e359857c3c5f4a76a_a8dce963-48d2-43dc-b469-490d212bc2d2_هتل طوبی - سرویس بهداشتی و حمام (3).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1754453948145602560",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115f666674792fccc287_315a25f2-aef6-408d-bc1d-bc5fab42a69e_هتل طوبی - سرویس بهداشتی و حمام (1).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1754453948158185472",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115f6af0f999b10abfd9_c534dac7-2aee-4452-95da-e202475d3722_هتل طوبی - سرویس بهداشتی و حمام (4).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1754453948388872192",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051160906add960f28e28e_ed5a03cc-0726-4fcc-9e8f-5a7ec9c27f79_هتل طوبی - کافی شاپ (1).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "1754453948430815232",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051160906add960f28e28f_b42734f8-114d-495c-ace5-93469adee2c2_هتل طوبی - کافی شاپ (2).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "1754453948430815233",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051161b347cc1bd8f4c02f_9d49abb7-988f-4ed3-ba7f-62d36330b030_هتل طوبی - لابی (2).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1754453937252995072",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115bab97af82119120e6_b593f4b9-dbc8-42fb-816d-b97030b6c2e7_هتل طوبی - لابی (1).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1754453937257189376",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115b0fe27c5a5df8f456_f0cf421e-32c9-4c10-9732-ee9310f9fc4d_هتل طوبی - سرویس بهداشتی و حمام (5).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1754453948632141824",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705116176f5bf0b3af633c3_c3c45afb-b869-4566-a067-c537d605d9b7_هتل طوبی - لابی (4).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1754453948699250688",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670511622cf976539175fb91_634915e5-f12a-4348-8c10-1c9006cdf3df_هتل طوبی - ورودی هتل.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "exterior"
+          ]
+        },
+        {
+          "imageId": "1754453948711833600",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051162b347cc1bd8f4c030_18b14463-c6f9-4146-bf66-1d35fb41708c_هتل طوبی - محوطه و فضای سبز (3).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "exterior"
+          ]
+        },
+        {
+          "imageId": "1754453937257189377",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115c6af0f999b10abfd6_47ec3934-9ebb-4c57-af5d-c3be5330d652_هتل طوبی - کافی شاپ (5).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "1754453937638871040",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115c6af0f999b10abfd7_7dd08d6a-c24a-4391-a6a8-231fab6a2045_هتل طوبی - لابی (6).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1754453937643065344",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705115d299de7a7748d25d2_c64d02b3-7df7-45c6-bff9-db0ef095500a_هتل طوبی - محوطه و فضای سبز (1).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "exterior"
+          ]
+        },
+        {
+          "imageId": "1989698256535293952",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/69188a8142794e78685ec1ea_استودیو.webp",
+          "roomType": {
+            "id": "1669791453972271104",
+            "title": "استودیو برای 2نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791453972271104",
+              "title": "استودیو برای 2نفر"
+            },
+            {
+              "id": "1669791507193794560",
+              "title": "استودیو برای 1نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1989698984645496832",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/69188b2f42794e78685ec1eb_رويال استوديو.webp",
+          "roomType": {
+            "id": "1669791420258455552",
+            "title": "رویال استودیو برای 1نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791383260499968",
+              "title": "رویال استودیو برای 2نفر"
+            },
+            {
+              "id": "1669791420258455552",
+              "title": "رویال استودیو برای 1نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1989700269960597504",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/69188c60a1e6f83605b7eabc_آپارتمان 1 خوابه.webp",
+          "roomType": {
+            "id": "1669791297637978112",
+            "title": "آپارتمان یک خوابه برای 2نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1669791297637978112",
+              "title": "آپارتمان یک خوابه برای 2نفر"
+            },
+            {
+              "id": "1669791343418806272",
+              "title": "آپارتمان یک خوابه برای 1نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        }
+      ],
+      "totalImagesCount": 39,
+      "instruction": {
+        "fa": "نرخ مهمان خارجی با ایرانی، یکسان است.",
+        "en": ""
+      },
+      "mandatoryFee": {
+        "fa": "شرایط اقامت کودک و امکان استفاده از تخت اضافه در هر اتاق، بر اساس «نشان» نمایش داده شده مشخص میشود. در صورتی که نشان «محاسبه آنلاین نرخ کودک» را مشاهده میکنید، هزینه اقامت کودک در قیمت نهایی رزرو لحاظ شده است. اما اگر نشان «هزینه کودک به صورت حضوری» نمایش داده شود، هزینه اقامت کودک مطابق قوانین هتل و در زمان پذیرش از مسافر دریافت خواهد شد.",
+        "en": "Accommodation fee for children aged 2-6 is according to the policy of each hotel."
+      },
+      "messages": [
+        {
+          "message": "یک وعده غذایی گرم و سرد به ارزش یک میلیون تومان مهمان علی بابا ",
+          "_id": "1962479332697837568",
+          "color": {
+            "background": "#eafaee",
+            "border": "#84e199",
+            "text": "#1e7b33",
+            "variant": ""
+          }
+        },
+        {
+          "message": "آشپزخانه فقط در واحدهای دو خوابه موجود است.",
+          "_id": "7155623955955449919",
+          "color": {
+            "background": "#eafaee",
+            "border": "#84e199",
+            "text": "#1e7b33",
+            "variant": ""
+          }
+        }
+      ],
+      "metaDescription": "رزرو بوتیک هتل طوبی تهران در علی بابا، معتبرترین سامانه رزرو هتل در ایران - رزرو هتل های تهران با تخفیف - گارانتی بهترین قیمت و پشتیبانی  24 ساعته- مشاهده آنلاین مشخصات، امکانات، تصاویر بوتیک هتل طوبی تهران",
+      "link": "ir-tehran/tehran-toobaboutique",
+      "location": {
+        "coordinates": [
+          51.41883753,
+          35.76912349
+        ],
+        "type": "Point"
+      },
+      "name": {
+        "fa": "بوتیک طوبی",
+        "en": "Toobaboutique Tehran"
+      },
+      "phone": "",
+      "places": [
+        {
+          "distance": 1883.9199469398084,
+          "location": [
+            51.426004,
+            35.753461
+          ],
+          "name": "باغ‌ موزه دفاع مقدس",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 5,
+            "onFoot": 23
+          },
+          "type": "",
+          "_id": "7124410456428511261"
+        },
+        {
+          "distance": 1558.805757867361,
+          "location": [
+            51.420893,
+            35.754627
+          ],
+          "name": "پل‌‌‌‌‌ طبیعت",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 5,
+            "onFoot": 19
+          },
+          "type": "",
+          "_id": "7124410456428511275"
+        },
+        {
+          "distance": 1059.2566254129688,
+          "location": [
+            51.410185,
+            35.778278
+          ],
+          "name": "پارک ملت",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 3,
+            "onFoot": 13
+          },
+          "type": "",
+          "_id": "7124410456441094193"
+        },
+        {
+          "distance": 1423.0752412128018,
+          "location": [
+            51.418947,
+            35.755506
+          ],
+          "name": "پارک آب و آتش",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 4,
+            "onFoot": 17
+          },
+          "type": "",
+          "_id": "7124410456441094197"
+        },
+        {
+          "distance": 1557.6505203571644,
+          "location": [
+            51.422319,
+            35.755189
+          ],
+          "name": "پارک طالقانی ",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 5,
+            "onFoot": 19
+          },
+          "type": "",
+          "_id": "7124410456445288489"
+        }
+      ],
+      "score": {
+        "score": 4.3,
+        "count": 6
+      },
+      "seoLinks": [],
+      "seoTitle": "رزرو بوتیک هتل طوبی در تهران | علی بابا",
+      "special": false,
+      "isStrategic": false,
+      "star": 3,
+      "state": {
+        "fa": "",
+        "en": "Tehran"
+      },
+      "_id": "5be3ef4be9a116befc555a14",
+      "newHotelId": "7155623955955449883",
+      "type": "hotel",
+      "title": {
+        "fa": "هتل بوتیک طوبی تهران",
+        "en": "Hotel Toobaboutique Tehran Tehran"
+      },
+      "video": null,
+      "rooms": [
+        {
+          "id": "1669791167857823744",
+          "capacity": 4,
+          "extraBed": 0,
+          "name_en": "آپارتمان دو خوابه برای چهار نفر",
+          "name": "آپارتمان دو خوابه برای چهار نفر"
+        },
+        {
+          "id": "1669791219577786368",
+          "capacity": 3,
+          "extraBed": 0,
+          "name_en": "آپارتمان دوخوابه برای سه نفر",
+          "name": "آپارتمان دوخوابه برای سه نفر"
+        },
+        {
+          "id": "1669791259700498432",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "آپارتمان دوخوابه برای 2نفر",
+          "name": "آپارتمان دوخوابه برای 2نفر"
+        },
+        {
+          "id": "1669791297637978112",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "آپارتمان یک خوابه برای 2نفر",
+          "name": "آپارتمان یک خوابه برای 2نفر"
+        },
+        {
+          "id": "1669791343418806272",
+          "capacity": 1,
+          "extraBed": 0,
+          "name_en": "آپارتمان یک خوابه برای 1نفر",
+          "name": "آپارتمان یک خوابه برای 1نفر"
+        },
+        {
+          "id": "1669791383260499968",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "رویال استودیو برای 2نفر",
+          "name": "رویال استودیو برای 2نفر"
+        },
+        {
+          "id": "1669791420258455552",
+          "capacity": 1,
+          "extraBed": 0,
+          "name_en": "رویال استودیو برای 1نفر",
+          "name": "رویال استودیو برای 1نفر"
+        },
+        {
+          "id": "1669791453972271104",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "استودیو برای 2نفر",
+          "name": "استودیو برای 2نفر"
+        },
+        {
+          "id": "1669791507193794560",
+          "capacity": 1,
+          "extraBed": 0,
+          "name_en": "استودیو برای 1نفر",
+          "name": "استودیو برای 1نفر"
+        }
+      ],
+      "childAgeRanges": {
+        "infantFromAge": 0,
+        "noBedFromAge": 0,
+        "withBedFromAge": 0,
+        "withBedToAge": 0,
+        "adultFromAge": 1
+      },
+      "tehranZone": {
+        "code": "north",
+        "fa": "شمال",
+        "en": "north"
+      },
+      "facilitiesAggregate": "خدمات اينترنت بی‌سیم در قسمت پذیرش، آسانسور، نمازخانه، تاکسی سرویس، سرویس بهداشتی فرنگی، تلویزیون، یخچال، مبلمان راحتی، حمام، گاو صندوق، تلفن، سیستم تهویه هوا، رستوران، کافی‌شاپ، پارکینگ، سالن بدنسازی، اعلام حریق، سرویس روزانه اتاق، خدمات خشکشویی، سالن کنفرانس"
+    },
+    "filterablePois": [
+      {
+        "id": "2293763928",
+        "title": "فرودگاه بین المللی امام خمینی",
+        "coordinate": [
+          51.15562974,
+          35.40961946
+        ],
+        "category": "airportTower",
+        "boundingBox": [
+          35.402619460000004,
+          51.148629740000004,
+          35.41661946,
+          51.16262974
+        ]
+      },
+      {
+        "id": "4422152047",
+        "title": "برج آزادی",
+        "coordinate": [
+          51.33806665,
+          35.69973509
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.69273509,
+          51.331066650000004,
+          35.706735089999995,
+          51.34506665
+        ]
+      },
+      {
+        "id": "7995498706",
+        "title": "بازار بزرگ تهران",
+        "coordinate": [
+          51.42337293,
+          35.676776
+        ],
+        "category": "shoppingBag",
+        "boundingBox": [
+          35.669776,
+          51.41637293,
+          35.683775999999995,
+          51.43037293
+        ]
+      },
+      {
+        "id": "9264896876",
+        "title": "برج میلاد",
+        "coordinate": [
+          51.37552463,
+          35.74481373
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.73781373,
+          51.36852463,
+          35.751813729999995,
+          51.38252463
+        ]
+      }
+    ],
+    "nextPurchaseCashback": {
+      "currency": "IRR",
+      "amount": 0
+    },
+    "groupLinks": [
+      {
+        "name": "هتل اسپیناس پالاس",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+      },
+      {
+        "name": "هتل لاله تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-laleh"
+      },
+      {
+        "name": "هتل استقلال تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-esteghlal"
+      },
+      {
+        "name": "هتل اسپیناس بلوار کشاورز",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas"
+      },
+      {
+        "name": "هتل پارسیان آزادی",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-azadi"
+      },
+      {
+        "name": "هتل هما تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-homa"
+      },
+      {
+        "name": "هتل المپیک تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-olympic"
+      },
+      {
+        "name": "هتل پرشین پلازا",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-persianpelaza"
+      },
+      {
+        "name": "هتل اوین تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-evin"
+      },
+      {
+        "name": "هتل توچال",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-tochal"
+      },
+      {
+        "name": "هتل فردوسی تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-ferdowsi"
+      },
+      {
+        "name": "هتل هویزه تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-howeyzeh"
+      },
+      {
+        "name": "هتل بزرگ تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-grand"
+      },
+      {
+        "name": "هتل انقلاب تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-enghelab"
+      },
+      {
+        "name": "هتل های تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran"
+      }
+    ]
+  }
+}

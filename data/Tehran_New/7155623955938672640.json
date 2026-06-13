@@ -1,0 +1,2329 @@
+{
+  "status": "success",
+  "error": false,
+  "result": {
+    "hotel": {
+      "accomodation": {
+        "id": 204
+      },
+      "address": "تهران، میدان امام خمینی، خیابان فردوسی، خیابان کوشک مصری، شماره ۲۴، جنب کاخ وزارت خارجه",
+      "badges": [],
+      "checkinTime": "14:00",
+      "checkoutTime": "12:00",
+      "city": {
+        "id": 0,
+        "_id": "7101534970300072022",
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": {
+        "code": "IR",
+        "id": "7094321840323039334",
+        "fa": "ایران",
+        "en": "Iran"
+      },
+      "description": {
+        "fa": "معرفی هتل بزرگ فردوسی تهران\nهتل بزرگ فردوسی، در مرکز فرهنگی تاریخی تهران واقع شده است؛ یک طرفش به میدان توپخانه می‌رسد و یک طرفش به لاله‌زار. منطقه‌ای که در گذشته قلب تجاری پایتخت بوده و رد پای معماری قاجاری هنوز هم در آن دیده می‌شود. اگر مرکزی بودن اقامت‌گاه از اولویت‌های شماست و می‌خواهید به هر گوشه تهرانِ بزرگ دسترسی داشته باشید، هتل فردوسی می‌تواند انتخاب بسیار خوبی باشد. در جنب وزارت امور خارجه قرار گرفته و فاصله کوتاهش با سفارت‌های مهمی مثل آلمان و انگلستان و فرانسه، آن را به یک گزینه مطلوب برای افرادی تبدیل کرده که برای تکمیل پروسه‌های مهاجرتی یا اداری به تهران سفر می‌کنند. چهار ستاره درخشان دارد، در سال ۱۳۶۸ ساخته شده و با شش طبقه و بیش از دویست واحد اقامتی، قرار است در شهر بزرگ تهران از شما میزبانی کند.\nاتاق ها و امکانات هتل بزرگ فردوسی تهران\nاقامت شما در پایتخت، در اتاق‌های یک نفره یا دونفره (تویین و دبل)، سوییت‌های رویال یا معمولی و اتاق‌های VIP صورت می‌گیرد. سوییت رویال، لوکس‌ترین واحد اقامتی این هتل است که علاوه بر امکانات استاندارد، از جدیدترین سیستم‌های هوشمند نور، صدا، موسیقی و تهویه برخوردار است. همه اتاق‌ها مجهز به فرش، یخچال، تلویزیون، تلفن و روم سرویس ۲۴ ساعته هستند و همچنین اینترنت در همه واحدها در دسترس است. مجموعه ورزشی، استخر، سالن بدنسازی، سالن ماساژ، آرایشگاه، بوفه صبحانه و شیرینی فروشی، از سایر امکانات هتل است و امکان برگزاری مراسم رسمی و خانوادگی در سالن‌های «دیپلمات» و «عروس دریا» وجود دارد. خشک‌شویی هتل، دغدغه مسافران را بابت شستن لباس‌ها برطرف می‌کند و با وجود پارکینگ اختصاصی و تاکسی سرویس، چالشی برای رفت و آمد به نقاط مختلف شهر نخواهید داشت.\nآدرس و دسترسی های هتل بزرگ فردوسی تهران\nهتل فردوسی در خیابان فردوسی قرار دارد؛ منطقه‌ای پر از صرافی، فروشگاه چرم، سفارت‌خانه‌ و‌ موزه‌. اگر اهل پیاده‌روی باشید، می‌توانید هشت دقیقه‌ای به سفارت آلمان برسید و پنج دقیقه‌ای به خیابان لاله‌زار. سفارت انگلستان در دو کیلومتری هتل است، با موزه جواهرات ملی فقط ده دقیقه فاصله دارید و پنج دقیقه‌ای به پارک شهر می‌رسید. اگر بخواهید از خودرو استفاده کنید، تا برج میلاد ۳۵ دقیقه در راه هستید، تا میدان آزادی نیم ساعت و تا میدان ولیعصر فقط یک ربع. اگر برای خرید به تهران سفر می‌کنید، به بازار موبایل ایران، پاساژ علاء‌الدین، بازار کامپیوتر رضا، پاساژ فردوسی و بازار بزرگ تهران دسترسی راحتی خواهید داشت.\nخیابان فردوسی علاوه بر ایستگاه بی‌آر‌تی، به ایستگاه مترو هم دسترسی دارد (فاصله پانصد متری تا ایستگاه متروی امام خمینی) و با توجه به اینکه در منطقه طرح ترافیک واقع شده، استفاده از وسایل نقلیه عمومی برای مسافران راحت‌تر است. پایانه بیهقی، راه آهن و فرودگاه مهرآباد را با کمتر از نیم ساعت رانندگی خواهید دید.\nرستوران و کافی شاپ هتل بزرگ فردوسی تهران\nهتل فردوسی چند رستوران دارد تا از جستجو برای طباخی و تهیه غذا کاملا بی‌نیاز باشید. شما می‌توانید غذاهای سنتی را در رستوران «ترمه» نوش جان کنید؛ نمای آجری، تخت‌ و رومیزی‌های قلمکاری و موسیقی زنده با منوی خوش آب و رنگ ترکیب شده تا شما را به تهران قدیم ببرد. «زیتون» رستوران دیگری است که سلیقه‌های مدرن را راضی نگه می‌دارد؛ میگو سوخاری، ماهی قزل‌آلا، چلو برگ سلطانی، کباب قفقازی و بشقاب سبزیجات، فقط گوشه‌ای از منوی این رستوران را اشغال کرده‌اند. اما برای طرافداران ذائقه‌های بین‌المللی، فضای کلاسیک و دنجی تدارک دیده شده تا ضمن لذت از طعم غذاهای فرانسوی، مهمانی‌های کوچک خود را برگزار کنند. حتی اگر در طول اقامت هوس فست فود کنید، فست فود «ویولن» به اشتهای شما پاسخ می‌دهد؛ مجموعه‌ای از پیتزاهای بدون خمیر به سبک اسپانیایی و ساندویچ‌های ویژه‌ای که شاید هیچ کجا امتحان نکرده‌اید!\nبه طور کلی، تنوع رستوران‌ها و قرار گرفتن در یکی از مهم‌ترین مناطق تهران، بارزترین ویژگی‌های هتل بزرگ فردوسی است تا با انتخاب آن، اقامتی دلچسب و به یاد ماندنی را در تاریخچه سفرهایتان برجا بگذارید.",
+        "en": ""
+      },
+      "disabled": false,
+      "email": "info@ferdowsihotel.com",
+      "facilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1041,
+          "name": {
+            "fa": "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+            "en": "Internet in lobby"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1066,
+          "name": {
+            "fa": "آسانسور",
+            "en": "Elevator"
+          },
+          "priority": 5,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 71,
+          "name": {
+            "fa": "نمازخانه",
+            "en": "Chapel/shrine"
+          },
+          "priority": 9,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1040,
+          "name": {
+            "fa": "تاکسی سرویس",
+            "en": "Cab"
+          },
+          "priority": 12,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1046,
+          "name": {
+            "fa": "سرویس بهداشتی فرنگی",
+            "en": "Toilet"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1050,
+          "name": {
+            "fa": "تلویزیون",
+            "en": "Television"
+          },
+          "priority": 3,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1053,
+          "name": {
+            "fa": "یخچال",
+            "en": "Refrigerator"
+          },
+          "priority": 4,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1042,
+          "name": {
+            "fa": "مبلمان راحتی",
+            "en": "Furniture"
+          },
+          "priority": 11,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1048,
+          "name": {
+            "fa": "گاو صندوق",
+            "en": "Safe box"
+          },
+          "priority": 14,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1051,
+          "name": {
+            "fa": "سشوار",
+            "en": "Hairdryer"
+          },
+          "priority": 15,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1049,
+          "name": {
+            "fa": "تلفن",
+            "en": "Telephone"
+          },
+          "priority": 16,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1052,
+          "name": {
+            "fa": "سیستم تهویه هوا",
+            "en": "Air conditioning"
+          },
+          "priority": 25,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "رستوران و امکانات پذیرایی",
+              "en": "Restaurants"
+            },
+            "priority": 4
+          },
+          "groupId": 6,
+          "id": 3,
+          "name": {
+            "fa": "رستوران",
+            "en": "Restaurant"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "رستوران و امکانات پذیرایی",
+              "en": "Restaurants"
+            },
+            "priority": 4
+          },
+          "groupId": 6,
+          "id": 1057,
+          "name": {
+            "fa": "کافی‌شاپ",
+            "en": "Coffe shop"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "استخر و امکانات ورزشی",
+              "en": "Pool and Sport Services"
+            },
+            "priority": 7
+          },
+          "groupId": 2,
+          "id": 11,
+          "name": {
+            "fa": "سالن بدنسازی",
+            "en": "Fitness centre"
+          },
+          "priority": 6,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات تفریحی",
+              "en": "Entertainment Facilities"
+            },
+            "priority": 8
+          },
+          "groupId": 3,
+          "id": 60,
+          "name": {
+            "fa": "فروشگاه و خرید",
+            "en": "Gift shop"
+          },
+          "priority": 12,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "ایمنی",
+              "en": "Safety and Security"
+            },
+            "priority": 9
+          },
+          "groupId": 9,
+          "id": 1063,
+          "name": {
+            "fa": "اعلام حریق",
+            "en": "Fire alarm"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات اتاق",
+              "en": "Room Service"
+            },
+            "priority": 10
+          },
+          "groupId": 5,
+          "id": 1044,
+          "name": {
+            "fa": "سرویس روزانه اتاق",
+            "en": "Room service"
+          },
+          "priority": 0,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات اتاق",
+              "en": "Room Service"
+            },
+            "priority": 10
+          },
+          "groupId": 5,
+          "id": 22,
+          "name": {
+            "fa": "خدمات خشکشویی",
+            "en": "Laundry"
+          },
+          "priority": 3,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "سایر امکانات",
+              "en": ""
+            },
+            "priority": 11
+          },
+          "groupId": 10,
+          "id": 1064,
+          "name": {
+            "fa": "سالن اجتماعات",
+            "en": "Conference hall"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "سایر امکانات",
+              "en": ""
+            },
+            "priority": 11
+          },
+          "groupId": 10,
+          "id": 1065,
+          "name": {
+            "fa": "سالن کنفرانس",
+            "en": "Conference hall"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "سایر امکانات",
+              "en": ""
+            },
+            "priority": 11
+          },
+          "groupId": 10,
+          "id": 27,
+          "name": {
+            "fa": "خدمات آرایشگاه و زیبایی",
+            "en": "Barber/beauty shop"
+          },
+          "priority": 7,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "facilityGroups": [
+        {
+          "id": 1,
+          "name": {
+            "fa": "خدمات و امکانات کلی",
+            "en": "General Services"
+          },
+          "priority": 1,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1041,
+              "name": {
+                "fa": "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+                "en": "Internet in lobby"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1066,
+              "name": {
+                "fa": "آسانسور",
+                "en": "Elevator"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 71,
+              "name": {
+                "fa": "نمازخانه",
+                "en": "Chapel/shrine"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1040,
+              "name": {
+                "fa": "تاکسی سرویس",
+                "en": "Cab"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": {
+            "fa": "امکانات اتاق‌ها",
+            "en": "Room Facilities"
+          },
+          "priority": 2,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1046,
+              "name": {
+                "fa": "سرویس بهداشتی فرنگی",
+                "en": "Toilet"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1050,
+              "name": {
+                "fa": "تلویزیون",
+                "en": "Television"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1053,
+              "name": {
+                "fa": "یخچال",
+                "en": "Refrigerator"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1042,
+              "name": {
+                "fa": "مبلمان راحتی",
+                "en": "Furniture"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1045,
+              "name": {
+                "fa": "حمام",
+                "en": "Bathroom"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1048,
+              "name": {
+                "fa": "گاو صندوق",
+                "en": "Safe box"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1051,
+              "name": {
+                "fa": "سشوار",
+                "en": "Hairdryer"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1049,
+              "name": {
+                "fa": "تلفن",
+                "en": "Telephone"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1052,
+              "name": {
+                "fa": "سیستم تهویه هوا",
+                "en": "Air conditioning"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": {
+            "fa": "رستوران و امکانات پذیرایی",
+            "en": "Restaurants"
+          },
+          "priority": 4,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 3,
+              "name": {
+                "fa": "رستوران",
+                "en": "Restaurant"
+              },
+              "priority": 4,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1057,
+              "name": {
+                "fa": "کافی‌شاپ",
+                "en": "Coffe shop"
+              },
+              "priority": 4,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": {
+            "fa": "استخر و امکانات ورزشی",
+            "en": "Pool and Sport Services"
+          },
+          "priority": 7,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 11,
+              "name": {
+                "fa": "سالن بدنسازی",
+                "en": "Fitness centre"
+              },
+              "priority": 7,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": {
+            "fa": "امکانات تفریحی",
+            "en": "Entertainment Facilities"
+          },
+          "priority": 8,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 60,
+              "name": {
+                "fa": "فروشگاه و خرید",
+                "en": "Gift shop"
+              },
+              "priority": 8,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": {
+            "fa": "ایمنی",
+            "en": "Safety and Security"
+          },
+          "priority": 9,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1063,
+              "name": {
+                "fa": "اعلام حریق",
+                "en": "Fire alarm"
+              },
+              "priority": 9,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": {
+            "fa": "خدمات اتاق",
+            "en": "Room Service"
+          },
+          "priority": 10,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1044,
+              "name": {
+                "fa": "سرویس روزانه اتاق",
+                "en": "Room service"
+              },
+              "priority": 10,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 22,
+              "name": {
+                "fa": "خدمات خشکشویی",
+                "en": "Laundry"
+              },
+              "priority": 10,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": {
+            "fa": "سایر امکانات",
+            "en": ""
+          },
+          "priority": 11,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1064,
+              "name": {
+                "fa": "سالن اجتماعات",
+                "en": "Conference hall"
+              },
+              "priority": 11,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1065,
+              "name": {
+                "fa": "سالن کنفرانس",
+                "en": "Conference hall"
+              },
+              "priority": 11,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 27,
+              "name": {
+                "fa": "خدمات آرایشگاه و زیبایی",
+                "en": "Barber/beauty shop"
+              },
+              "priority": 11,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        }
+      ],
+      "popularFacilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 3,
+          "name": {
+            "fa": "رستوران",
+            "en": "Restaurant"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 1057,
+          "name": {
+            "fa": "کافی‌شاپ",
+            "en": "Coffe shop"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 11,
+          "name": {
+            "fa": "سالن بدنسازی",
+            "en": "Fitness centre"
+          },
+          "priority": 6,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "faq": [
+        {
+          "_id": "7155623955938672641",
+          "answer": "هتل فردوسی تهران با اتاق‌های یک الی چهار نفره، جزو هتل‌های دو ستاره شهر تهران محسوب ‌می‌شود.",
+          "question": "هتل فردوسی تهران چند ستاره است؟"
+        },
+        {
+          "_id": "7155623955938672642",
+          "answer": "هریک از هتل‌ها قوانین کنسلی مخصوص خودشان را دارند. اما معمولا این قوانین در روزهای پیک گردشگری و نوروز تغییر می‌کند. برای اطلاع از قوانین کنسلی هتل فردوسی هم می‌توانید هنگام رزرو از سایت علی بابا اطلاعات لازم را به‌دست آورید.\nبه‌طورکلی کنسلی از زمان رزرو تا 48 ساعت پیش از ورود به هتل، شامل 20 درصد هزینه اقامت یک شب به‌عنوان جریمه پرداخت می‌شود. اگر کنسلی از 48 تا 24 ساعت پیش از ورود صورت گیرد، باید 40 درصد هزینه اقامت یک شب را بپردازید. این جریمه از پیش‌پرداخت شما برداشته می‌شود.\n",
+          "question": "قوانین کنسلی هتل فردوسی تهران چگونه است؟"
+        },
+        {
+          "_id": "7155623955938672643",
+          "answer": "هرکدام از اتاق‌های هتل فردوسی تهران سرویس بهداشتی فرنگی، حمام، تلویزیون، یخچال و سرویس روزانه اتاق دارند. اینترنت وای‌فای و آسانسور هم از خدمات هتل محسوب ‌می‌شود.",
+          "question": "امکانات هتل فردوسی تهران چیست؟"
+        },
+        {
+          "_id": "7155623955938672644",
+          "answer": "زمان ورود به هتل فردوسی تهران ساعت 14 است. یعنی روز ورودتان از ساعت 14 به بعد اتاق به شما تحویل داده ‌می‌شود. هم‌چنین روز آخر، نهایتا تا ساعت 12 ظهر فرصت دارید کلید اتاق را به پرسنل پذیرش هتل برگردانید.",
+          "question": "زمان‌های ورود و خروج در هتل فردوسی تهران چگونه است؟"
+        },
+        {
+          "_id": "7155623955938672645",
+          "answer": "بیمارستان‌های متعددی اطراف هتل فردوسی تهران وجود دارند. بیمارستان امیراعلم با 600 متر فاصله، نزدیک‌ترین بیمارستان به هتل فردوسی تهران است.\nمسیرهای مختلفی از هتل فردوسی به فرودگاه مهرآباد می‌رسد. همه این مسیرها درصورتی که ترافیک نباشد، تقریبا 30 دقیقه مسافت زمانی تا هتل دارند.\n",
+          "question": "فاصله هتل فردوسی تهران تا فرودگاه و بیمارستان تهران چقدر است؟"
+        },
+        {
+          "_id": "7155623955938672646",
+          "answer": "این هتل در خیابان فردوسی، خیابان شهید تقوی، کوچه بهداشت واقع شده ‌است. هتل فردوسی تهران در موقعیت خوبی نسبت به بسیاری از جاذبه‌های دیدنی شهر تهران قرار دارد.\nاز هتل فردوسی تهران می‌توانید به‌راحتی و طی چند دقیقه خود را به موزه عبرت، موزه پست و تلگراف، موزه جواهرات ملی، خیابان لاله‌زار و خیلی از جاهای دیدنی دیگر تهران برسانید.\n",
+          "question": "موقعیت جغرافیایی هتل فردوسی تهران کجاست و فاصله آن تا مکان‌های مهم تهران چقدر است؟"
+        },
+        {
+          "_id": "7155623955938672647",
+          "answer": "معرفی کامل هتل، شرح اتاق‌ها، قوانین و مقررات کنسلی، فهرست امکانات و خدمات، قیمت رزرو هتل، نظرات کاربران و فهرست هتل‌های مشابه بخشی از اطلاعاتی است که در سایت رزرو هتل داخلی یا اپلیکیشن علی بابا به آن دسترسی خواهید داشت.",
+          "question": "چرا هتل فردوسی تهران را از علی بابا رزرو کنیم؟"
+        }
+      ],
+      "fax": "",
+      "hotelId": "407777",
+      "image": {
+        "sourceUrl": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510ecab97af82119120d0_2023-07-15-37e6f57d-33dd-4fe4-bd8e-b401f4a8355b.webp"
+      },
+      "images": [
+        {
+          "imageId": "7155623955938672648",
+          "isPrimary": true,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510ecab97af82119120d0_2023-07-15-37e6f57d-33dd-4fe4-bd8e-b401f4a8355b.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955938672649",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510ec2cf976539175fb7e_2023-07-15-04c4ba81-fd2f-4873-9051-12da669324bc.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955938672650",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510ed0fe27c5a5df8f448_2023-07-15-c6c1b034-1f21-42a7-8d3f-fc83a420543d.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672651",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510ed299de7a7748d25c4_2023-07-15-011f3387-75da-45a0-9338-7c97e12a85cb.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955938672652",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510ee6af0f999b10abfbf_2023-07-15-28d04c3c-f189-43eb-a6e5-e01bb25f7bc0.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955938672653",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510eeb347cc1bd8f4c01e_2023-07-15-e34ef107-f1f5-411f-86a1-73a13d11d5bb.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "sports_complex"
+          ]
+        },
+        {
+          "imageId": "7155623955938672654",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510efab97af82119120d1_2023-07-15-084ad4f2-635d-4f63-bec2-bb71d8860ea1.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672655",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510ef0fe27c5a5df8f449_2023-07-15-f522dc55-3961-4f89-9e6c-298f08040733.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672656",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f0906add960f28e27b_2023-07-15-f214f744-53e0-4b9f-9eac-bcf42a5d368f.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672657",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f00fe27c5a5df8f44a_2023-07-15-dd9f93bc-5089-413a-a727-22336d03ad62.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672658",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f1ab97af82119120d2_2023-07-15-6581bd3a-7a7d-4f6f-849f-3417453c5f80.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672659",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f1b347cc1bd8f4c01f_2023-07-15-70c5711c-dd75-4790-a0a9-ca2f3d898b14.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672660",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f20fe27c5a5df8f44b_2023-07-15-10e2aa1c-7f96-4233-b6be-8acddbef7639.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672661",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f2906add960f28e27c_2023-07-15-4e028afa-344f-4db4-8ce7-e461791db98e.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955938672662",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f3ab97af82119120d3_2023-07-15-1824e8e0-2d91-4a91-ac9a-2a31735bcef4.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672663",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f3ab97af82119120d4_2023-07-15-29bc6b71-9205-42df-a1ee-41b88877489b.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672664",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f4b347cc1bd8f4c020_2023-07-15-ace16789-a674-4ab0-9109-b99601d7c824.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672665",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f476f5bf0b3af633b3_2023-07-15-5d95634d-29c6-4929-a831-bd037b1ec642.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672666",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f5359857c3c5f4a753_2023-07-15-bb42cd2e-dc62-4f1f-851b-99d1f769f9d3.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672667",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f5359857c3c5f4a754_2023-07-15-501ac2e3-85f3-49e3-abf0-07c1f2190a47.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672668",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f6b347cc1bd8f4c021_2023-07-15-c82b21d4-5b66-41e2-8a9d-27e9e875ff57.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672669",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f66af0f999b10abfc0_2023-07-15-48f33854-925b-4ce0-89da-7eaeaf19f40a.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623955938672670",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f72cf976539175fb7f_2023-07-15-db92ad6c-2822-4f42-b6e7-c2b9bbaa36e2.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955938672671",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f76af0f999b10abfc1_2023-07-15-a8ea3bf3-0162-46ac-92c6-d28d6b8bfca4.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955938672672",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f8ab97af82119120d5_2023-07-15-3beeb078-2776-4df4-8d35-56b1779c73d3.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "7155623955938672673",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f8359857c3c5f4a755_2023-07-15-5205ace8-e44b-4dbb-af77-2e405fbb1a0f.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955938672674",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f90fe27c5a5df8f44c_2023-07-15-e7596102-b476-4364-a1e5-2e19e8dbdd13.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955938672675",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510f9ab97af82119120d6_2023-07-15-3b9339e8-4265-4caf-b061-0d6aec0e224b.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955938672676",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510fa6af0f999b10abfc2_2023-07-15-bdaa1f4f-f050-4f11-8ef5-197d72b0ee7a.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955938672677",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510fa299de7a7748d25c5_2023-07-15-67e1379a-1d93-4bf6-97c3-4b708ee8a8c4.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955938672678",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510fbb347cc1bd8f4c022_2023-07-15-13b73ff6-f0e5-4d9e-a12b-7f9b51d303aa.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955938672679",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510fbab97af82119120d7_2023-07-15-99241239-9cce-45f8-9d91-ecafb6312901.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955938672680",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510fc666674792fccc27a_2023-07-15-27c41e31-73eb-49c5-89aa-1d6c587b8da1.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955938672681",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510fc2cf976539175fb80_2023-07-15-73366dd6-1311-4fe2-9ed6-0443cc42bc9c.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955938672682",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510fd76f5bf0b3af633b4_2023-07-15-28bd2c49-6854-4ba3-9471-bf49c98210d9.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955938672683",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510fd359857c3c5f4a756_2023-07-15-57740fc7-6c27-44e1-ad64-ddf278bb484d.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955938672684",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510fe906add960f28e27d_2023-07-15-78ee46e5-7fdb-4e5e-a432-a9f91629a366.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955938672685",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510fe906add960f28e27e_2023-07-15-09bb088f-d021-4dda-82c3-c3bbed7e563a.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955938672686",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510ff76f5bf0b3af633b5_2023-07-15-95fb99ef-225e-4c03-84d5-bcbdd9c37945.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955938672687",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670510ff2cf976539175fb81_2023-07-15-4ed1a00d-ea0f-40b2-b369-91fe5ccc3119.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955942866944",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670511006af0f999b10abfc3_2023-07-15-0e3d396e-37c8-4962-9498-2ad61a3feb4e.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955942866945",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051100ab97af82119120d8_2023-07-15-efe7a3ff-8215-4a6f-baa5-8a411a5982eb.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955942866946",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705110176f5bf0b3af633b6_2023-07-15-fa1b9d38-1cc2-4e78-af92-49aa54637c7b.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955942866947",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670511012cf976539175fb82_2023-07-15-4a8c8c6f-a6c3-4b13-8f57-befc2d417be4.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955942866948",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670511026af0f999b10abfc4_2023-07-15-36ddfd5a-1b6e-403a-838b-bfe26110865c.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955942866949",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051102666674792fccc27b_2023-07-15-315afdfa-37a5-48f6-a512-2052e2bdfb95.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955942866950",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705110376f5bf0b3af633b7_2023-07-15-a266c381-e871-43fd-9099-ae597ce8b68c.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955942866951",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051103299de7a7748d25c6_2023-07-15-ea81498b-709d-4109-a0a3-605947954b7d.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "7155623955942866952",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670511046af0f999b10abfc5_2023-07-15-6ef81656-4e5c-4368-813a-d1097c82bf77.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955942866953",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051104ab97af82119120d9_2023-07-15-fb57238c-db3b-43ce-b2b3-d11fbc71fd9d.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955942866954",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670511050fe27c5a5df8f44d_2023-07-15-0ae96fc1-5d32-4eec-8526-fc033ddf5682.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955942866955",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051106299de7a7748d25c7_2023-07-15-3c628d10-59e9-461a-a07a-01c7a76212f2.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623955942866956",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705110676f5bf0b3af633b8_2023-07-15-3d41a3ab-a98c-46f4-aa40-4ec5e8a5fc43.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955942866957",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051106666674792fccc27c_2023-07-15-d0cc5217-03e2-4a8b-8371-c23b8c034e7e.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623955942866958",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670511076af0f999b10abfc6_2023-07-15-aeb63a9f-1cbd-4a29-813f-b201271193cf.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "sports_complex"
+          ]
+        },
+        {
+          "imageId": "7155623955942866959",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670511072cf976539175fb83_2023-07-15-2ffe84d9-be52-41e4-b310-2e5f78170ed8.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "sports_complex"
+          ]
+        },
+        {
+          "imageId": "7155623955942866960",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670511086af0f999b10abfc7_2023-07-15-f63bbc8f-0687-47f6-a441-2ab3d05094af.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        }
+      ],
+      "totalImagesCount": 57,
+      "instruction": {
+        "fa": "",
+        "en": ""
+      },
+      "mandatoryFee": {
+        "fa": "شرایط اقامت کودک و امکان استفاده از تخت اضافه در هر اتاق، بر اساس «نشان» نمایش داده شده مشخص میشود. در صورتی که نشان «محاسبه آنلاین نرخ کودک» را مشاهده میکنید، هزینه اقامت کودک در قیمت نهایی رزرو لحاظ شده است. اما اگر نشان «هزینه کودک به صورت حضوری» نمایش داده شود، هزینه اقامت کودک مطابق قوانین هتل و در زمان پذیرش از مسافر دریافت خواهد شد.",
+        "en": "Accommodation fee for children aged 2-6 is according to the policy of each hotel."
+      },
+      "messages": [],
+      "metaDescription": "رزرو هتل فردوسی تهران. رزرو آنلاین با بهترین قیمت هتل فردوسی تهران به همراه امکانات، عکس، آدرس و اتاق های موجود. با پشتیبانی ۲۴ ساعته علی بابا",
+      "link": "ir-tehran/tehran-ferdowsi",
+      "location": {
+        "coordinates": [
+          51.4194417432,
+          35.688322737765
+        ],
+        "type": "Point"
+      },
+      "name": {
+        "fa": "بزرگ فردوسی",
+        "en": "tehran-ferdowsi"
+      },
+      "phone": "",
+      "places": [
+        {
+          "distance": 555.6902947208354,
+          "location": [
+            51.418673,
+            35.693744
+          ],
+          "name": "موزه جواهرات ملی ایران",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 2,
+            "onFoot": 7
+          },
+          "type": "",
+          "_id": "7124410456428511258"
+        },
+        {
+          "distance": 831.1764235555271,
+          "location": [
+            51.420904,
+            35.680057
+          ],
+          "name": "کاخ گلستان",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 3,
+            "onFoot": 10
+          },
+          "type": "",
+          "_id": "7124410456428511259"
+        },
+        {
+          "distance": 94.55994570620314,
+          "location": [
+            51.419667,
+            35.687328
+          ],
+          "name": "موزه عبرت ایران",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 1,
+            "onFoot": 2
+          },
+          "type": "",
+          "_id": "7124410456428511263"
+        },
+        {
+          "distance": 215.20563022793252,
+          "location": [
+            51.418493,
+            35.686458
+          ],
+          "name": "موزه ارتباطات",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 1,
+            "onFoot": 3
+          },
+          "type": "",
+          "_id": "7124410456428511264"
+        },
+        {
+          "distance": 886.7199541753471,
+          "location": [
+            51.428409,
+            35.689646
+          ],
+          "name": "عمارت مسعودیه",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 3,
+            "onFoot": 11
+          },
+          "type": "",
+          "_id": "7124410456428511266"
+        },
+        {
+          "distance": 637.0376746655174,
+          "location": [
+            51.414884,
+            35.684045
+          ],
+          "name": "موزه صلح تهران",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 2,
+            "onFoot": 8
+          },
+          "type": "",
+          "_id": "7124410456428511267"
+        },
+        {
+          "distance": 1526.3500136387906,
+          "location": [
+            51.433301,
+            35.695099
+          ],
+          "name": "باغ موزه نگارستان",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 5,
+            "onFoot": 19
+          },
+          "type": "",
+          "_id": "7124410456432705539"
+        },
+        {
+          "distance": 780.085938045259,
+          "location": [
+            51.413954,
+            35.682942
+          ],
+          "name": "پارک شهر",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 3,
+            "onFoot": 10
+          },
+          "type": "",
+          "_id": "7124410456441094199"
+        },
+        {
+          "distance": 1833.4735815852505,
+          "location": [
+            51.406237,
+            35.700775
+          ],
+          "name": "پارک شهر",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 5,
+            "onFoot": 22
+          },
+          "type": "",
+          "_id": "7124410456445288449"
+        },
+        {
+          "distance": 965.8324060990229,
+          "location": [
+            51.410183,
+            35.686354
+          ],
+          "name": "میدان حسن آباد",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 3,
+            "onFoot": 12
+          },
+          "type": "",
+          "_id": "7124410456445288474"
+        },
+        {
+          "distance": 1494.1671935137979,
+          "location": [
+            51.404759,
+            35.687028
+          ],
+          "name": "موزه مقدم",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 4,
+            "onFoot": 18
+          },
+          "type": "",
+          "_id": "7124410456445288477"
+        },
+        {
+          "distance": 833.8714118653576,
+          "location": [
+            51.420507,
+            35.679979
+          ],
+          "name": "کاخ گلستان",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 3,
+            "onFoot": 10
+          },
+          "type": "",
+          "_id": "7124410456445288480"
+        },
+        {
+          "distance": 1178.3075536577985,
+          "location": [
+            51.429738,
+            35.69436
+          ],
+          "name": "خانه ابوالحسن صبا",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 4,
+            "onFoot": 15
+          },
+          "type": "",
+          "_id": "7124410456445288481"
+        },
+        {
+          "distance": 1766.534458481745,
+          "location": [
+            51.433993,
+            35.677963
+          ],
+          "name": "موزه کاظمی",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 5,
+            "onFoot": 22
+          },
+          "type": "",
+          "_id": "7124410456445288485"
+        },
+        {
+          "distance": 631.7226085274999,
+          "location": [
+            51.414583,
+            35.684499
+          ],
+          "name": "موزه آکواریوم و صلح ",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 2,
+            "onFoot": 8
+          },
+          "type": "",
+          "_id": "7124410456445288486"
+        }
+      ],
+      "score": {
+        "score": 3.4,
+        "count": 2
+      },
+      "seoLinks": [],
+      "seoTitle": "هتل فردوسی تهران : رزرو با 35% تخفیف+ پشتیبانی| علی بابا",
+      "special": false,
+      "isStrategic": false,
+      "star": 4,
+      "state": {
+        "fa": "",
+        "en": "Tehran"
+      },
+      "_id": "5be3ef45e9a116befc5513e7",
+      "newHotelId": "7155623955938672640",
+      "type": "hotel",
+      "title": {
+        "fa": "هتل بزرگ فردوسی تهران",
+        "en": "Hotel tehran-ferdowsi Tehran"
+      },
+      "video": null,
+      "rooms": [
+        {
+          "id": "1669759261934096384",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "سوئیت رویال",
+          "name": "سوئیت رویال"
+        },
+        {
+          "id": "1669764682807775232",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "اتاق دو تخته",
+          "name": "اتاق دو تخته"
+        },
+        {
+          "id": "1669764740252962816",
+          "capacity": 1,
+          "extraBed": 0,
+          "name_en": "اتاق یک تخته",
+          "name": "اتاق یک تخته"
+        },
+        {
+          "id": "1792108988813283328",
+          "capacity": 1,
+          "extraBed": 0,
+          "name_en": "اتاق یکتخته رویال",
+          "name": "اتاق یکتخته رویال"
+        },
+        {
+          "id": "1792109042798170112",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "اتاق دوتخته رویال",
+          "name": "اتاق دوتخته رویال"
+        },
+        {
+          "id": "1792109199719665664",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "سوئیت پرزیدنت",
+          "name": "سوئیت پرزیدنت"
+        }
+      ],
+      "childAgeRanges": {
+        "infantFromAge": 0,
+        "noBedFromAge": 0,
+        "withBedFromAge": 0,
+        "withBedToAge": 0,
+        "adultFromAge": 1
+      },
+      "tehranZone": {
+        "code": "center",
+        "fa": "مرکز",
+        "en": "center"
+      },
+      "facilitiesAggregate": "خدمات اينترنت بی‌سیم در قسمت پذیرش، آسانسور، نمازخانه، تاکسی سرویس، سرویس بهداشتی فرنگی، تلویزیون، یخچال، مبلمان راحتی، حمام، گاو صندوق، سشوار، تلفن، سیستم تهویه هوا، رستوران، کافی‌شاپ، سالن بدنسازی، فروشگاه و خرید، اعلام حریق، سرویس روزانه اتاق، خدمات خشکشویی، سالن اجتماعات، سالن کنفرانس، خدمات آرایشگاه و زیبایی"
+    },
+    "filterablePois": [
+      {
+        "id": "2293763928",
+        "title": "فرودگاه بین المللی امام خمینی",
+        "coordinate": [
+          51.15562974,
+          35.40961946
+        ],
+        "category": "airportTower",
+        "boundingBox": [
+          35.402619460000004,
+          51.148629740000004,
+          35.41661946,
+          51.16262974
+        ]
+      },
+      {
+        "id": "4422152047",
+        "title": "برج آزادی",
+        "coordinate": [
+          51.33806665,
+          35.69973509
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.69273509,
+          51.331066650000004,
+          35.706735089999995,
+          51.34506665
+        ]
+      },
+      {
+        "id": "7995498706",
+        "title": "بازار بزرگ تهران",
+        "coordinate": [
+          51.42337293,
+          35.676776
+        ],
+        "category": "shoppingBag",
+        "boundingBox": [
+          35.669776,
+          51.41637293,
+          35.683775999999995,
+          51.43037293
+        ]
+      },
+      {
+        "id": "9264896876",
+        "title": "برج میلاد",
+        "coordinate": [
+          51.37552463,
+          35.74481373
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.73781373,
+          51.36852463,
+          35.751813729999995,
+          51.38252463
+        ]
+      }
+    ],
+    "nextPurchaseCashback": {
+      "currency": "IRR",
+      "amount": 0
+    },
+    "groupLinks": [
+      {
+        "name": "هتل اسپیناس پالاس",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+      },
+      {
+        "name": "هتل لاله تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-laleh"
+      },
+      {
+        "name": "هتل استقلال تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-esteghlal"
+      },
+      {
+        "name": "هتل اسپیناس بلوار کشاورز",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas"
+      },
+      {
+        "name": "هتل پارسیان آزادی",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-azadi"
+      },
+      {
+        "name": "هتل هما تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-homa"
+      },
+      {
+        "name": "هتل المپیک تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-olympic"
+      },
+      {
+        "name": "هتل پرشین پلازا",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-persianpelaza"
+      },
+      {
+        "name": "هتل اوین تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-evin"
+      },
+      {
+        "name": "هتل توچال",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-tochal"
+      },
+      {
+        "name": "هتل فردوسی تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-ferdowsi"
+      },
+      {
+        "name": "هتل هویزه تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-howeyzeh"
+      },
+      {
+        "name": "هتل بزرگ تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-grand"
+      },
+      {
+        "name": "هتل انقلاب تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-enghelab"
+      },
+      {
+        "name": "هتل های تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran"
+      }
+    ]
+  }
+}

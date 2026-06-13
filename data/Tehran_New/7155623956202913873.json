@@ -1,0 +1,1852 @@
+{
+  "status": "success",
+  "error": false,
+  "result": {
+    "hotel": {
+      "accomodation": {
+        "id": 204
+      },
+      "address": "تهران، سهروردی شمالی، چهارراه کیهان، خیابان میرزایی زینالی شرقی (اندیشه 5)، شماره 31",
+      "badges": [],
+      "checkinTime": "14:00",
+      "checkoutTime": "12:00",
+      "city": {
+        "id": 0,
+        "_id": "7101534970300072022",
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": {
+        "code": "IR",
+        "id": "7094321840323039334",
+        "fa": "ایران",
+        "en": "Iran"
+      },
+      "description": {
+        "fa": "",
+        "en": ""
+      },
+      "disabled": false,
+      "email": "",
+      "facilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1041,
+          "name": {
+            "fa": "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+            "en": "Internet in lobby"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1066,
+          "name": {
+            "fa": "آسانسور",
+            "en": "Elevator"
+          },
+          "priority": 5,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1047,
+          "name": {
+            "fa": "سرویس بهداشتی ایرانی",
+            "en": "Squat toilet"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1050,
+          "name": {
+            "fa": "تلویزیون",
+            "en": "Television"
+          },
+          "priority": 3,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1053,
+          "name": {
+            "fa": "یخچال",
+            "en": "Refrigerator"
+          },
+          "priority": 4,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1042,
+          "name": {
+            "fa": "مبلمان راحتی",
+            "en": "Furniture"
+          },
+          "priority": 11,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1043,
+          "name": {
+            "fa": "آشپزخانه",
+            "en": "Kitchen"
+          },
+          "priority": 12,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1048,
+          "name": {
+            "fa": "گاو صندوق",
+            "en": "Safe box"
+          },
+          "priority": 14,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1049,
+          "name": {
+            "fa": "تلفن",
+            "en": "Telephone"
+          },
+          "priority": 16,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1052,
+          "name": {
+            "fa": "سیستم تهویه هوا",
+            "en": "Air conditioning"
+          },
+          "priority": 25,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "رستوران و امکانات پذیرایی",
+              "en": "Restaurants"
+            },
+            "priority": 4
+          },
+          "groupId": 6,
+          "id": 3,
+          "name": {
+            "fa": "رستوران",
+            "en": "Restaurant"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "رستوران و امکانات پذیرایی",
+              "en": "Restaurants"
+            },
+            "priority": 4
+          },
+          "groupId": 6,
+          "id": 1057,
+          "name": {
+            "fa": "کافی‌شاپ",
+            "en": "Coffe shop"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "استخر و امکانات ورزشی",
+              "en": "Pool and Sport Services"
+            },
+            "priority": 7
+          },
+          "groupId": 2,
+          "id": 103,
+          "name": {
+            "fa": "استخر سرپوشیده",
+            "en": "Indoor pool"
+          },
+          "priority": 3,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "استخر و امکانات ورزشی",
+              "en": "Pool and Sport Services"
+            },
+            "priority": 7
+          },
+          "groupId": 2,
+          "id": 11,
+          "name": {
+            "fa": "سالن بدنسازی",
+            "en": "Fitness centre"
+          },
+          "priority": 6,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات اتاق",
+              "en": "Room Service"
+            },
+            "priority": 10
+          },
+          "groupId": 5,
+          "id": 1044,
+          "name": {
+            "fa": "سرویس روزانه اتاق",
+            "en": "Room service"
+          },
+          "priority": 0,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "facilityGroups": [
+        {
+          "id": 1,
+          "name": {
+            "fa": "خدمات و امکانات کلی",
+            "en": "General Services"
+          },
+          "priority": 1,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1041,
+              "name": {
+                "fa": "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+                "en": "Internet in lobby"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1066,
+              "name": {
+                "fa": "آسانسور",
+                "en": "Elevator"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": {
+            "fa": "امکانات اتاق‌ها",
+            "en": "Room Facilities"
+          },
+          "priority": 2,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1047,
+              "name": {
+                "fa": "سرویس بهداشتی ایرانی",
+                "en": "Squat toilet"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1050,
+              "name": {
+                "fa": "تلویزیون",
+                "en": "Television"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1053,
+              "name": {
+                "fa": "یخچال",
+                "en": "Refrigerator"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1042,
+              "name": {
+                "fa": "مبلمان راحتی",
+                "en": "Furniture"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1043,
+              "name": {
+                "fa": "آشپزخانه",
+                "en": "Kitchen"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1045,
+              "name": {
+                "fa": "حمام",
+                "en": "Bathroom"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1048,
+              "name": {
+                "fa": "گاو صندوق",
+                "en": "Safe box"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1049,
+              "name": {
+                "fa": "تلفن",
+                "en": "Telephone"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1052,
+              "name": {
+                "fa": "سیستم تهویه هوا",
+                "en": "Air conditioning"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": {
+            "fa": "رستوران و امکانات پذیرایی",
+            "en": "Restaurants"
+          },
+          "priority": 4,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 3,
+              "name": {
+                "fa": "رستوران",
+                "en": "Restaurant"
+              },
+              "priority": 4,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1057,
+              "name": {
+                "fa": "کافی‌شاپ",
+                "en": "Coffe shop"
+              },
+              "priority": 4,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": {
+            "fa": "استخر و امکانات ورزشی",
+            "en": "Pool and Sport Services"
+          },
+          "priority": 7,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 103,
+              "name": {
+                "fa": "استخر سرپوشیده",
+                "en": "Indoor pool"
+              },
+              "priority": 7,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 11,
+              "name": {
+                "fa": "سالن بدنسازی",
+                "en": "Fitness centre"
+              },
+              "priority": 7,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": {
+            "fa": "خدمات اتاق",
+            "en": "Room Service"
+          },
+          "priority": 10,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1044,
+              "name": {
+                "fa": "سرویس روزانه اتاق",
+                "en": "Room service"
+              },
+              "priority": 10,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        }
+      ],
+      "popularFacilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 3,
+          "name": {
+            "fa": "رستوران",
+            "en": "Restaurant"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 1057,
+          "name": {
+            "fa": "کافی‌شاپ",
+            "en": "Coffe shop"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 103,
+          "name": {
+            "fa": "استخر سرپوشیده",
+            "en": "Indoor pool"
+          },
+          "priority": 3,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "faq": [],
+      "fax": "",
+      "hotelId": "dh-fd2959fd07fd58",
+      "image": {
+        "sourceUrl": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c276f5bf0b3af634b1_66e806c415cb665e88c899ea_هتل ونوس - نمای هتل.webp"
+      },
+      "images": [
+        {
+          "imageId": "1835625174238498816",
+          "isPrimary": true,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c276f5bf0b3af634b1_66e806c415cb665e88c899ea_هتل ونوس - نمای هتل.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "1835625309018263552",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c3666674792fccc399_66e806e315cb665e88c899ec_هتل ونوس - آپارتمان یک خواب دوتخته دبل (3).webp",
+          "roomType": {
+            "id": "1670523178826338304",
+            "title": "آپارتمان یک خوابه دو نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523178826338304",
+              "title": "آپارتمان یک خوابه دو نفره"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625309110538240",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c2359857c3c5f4a879_66e806e315cb665e88c899eb_هتل ونوس - آپارتمان دوخواب چهارنفره سینگل (5).webp",
+          "roomType": {
+            "id": "1670523219846631424",
+            "title": "آپارتمان دو خوابه VIP - چهار تخته"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523219846631424",
+              "title": "آپارتمان دو خوابه VIP - چهار تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625358590742528",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c36af0f999b10ac0e5_66e806ed0865d826250ba7d3_هتل ونوس - رستوران (1).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "1835625359844839424",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c4666674792fccc39a_66e806ed15cb665e88c899ed_هتل ونوس - استخر (1).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "swimming_pool"
+          ]
+        },
+        {
+          "imageId": "1835625438358016000",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c4359857c3c5f4a87a_66e807010865d826250ba7d4_هتل ونوس - آپارتمان دوخواب چهارتخته دبل سینگل (2).webp",
+          "roomType": {
+            "id": "1670523128507273216",
+            "title": "آپارتمان دو خوابه چهار نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523128507273216",
+              "title": "آپارتمان دو خوابه چهار نفره"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625438362210304",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c6b347cc1bd8f4c12a_66e8070115cb665e88c899ef_هتل ونوس - آپارتمان دوخواب چهارتخته دبل سینگل (4).webp",
+          "roomType": {
+            "id": "1670523128507273216",
+            "title": "آپارتمان دو خوابه چهار نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523128507273216",
+              "title": "آپارتمان دو خوابه چهار نفره"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625438362210305",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c66af0f999b10ac0e6_66e807010865d826250ba7d5_هتل ونوس - آپارتمان دوخواب چهارتخته دبل سینگل (1).webp",
+          "roomType": {
+            "id": "1670523128507273216",
+            "title": "آپارتمان دو خوابه چهار نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523128507273216",
+              "title": "آپارتمان دو خوابه چهار نفره"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625438362210306",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c62cf976539175fc86_66e8070115cb665e88c899f0_هتل ونوس - آپارتمان دوخواب چهارتخته دبل سینگل (5).webp",
+          "roomType": {
+            "id": "1670523128507273216",
+            "title": "آپارتمان دو خوابه چهار نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523128507273216",
+              "title": "آپارتمان دو خوابه چهار نفره"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625438362210307",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c6906add960f28e3a1_66e8070115cb665e88c899ee_هتل ونوس - آپارتمان دوخواب چهارتخته دبل سینگل (6).webp",
+          "roomType": {
+            "id": "1670523128507273216",
+            "title": "آپارتمان دو خوابه چهار نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523128507273216",
+              "title": "آپارتمان دو خوابه چهار نفره"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625438412541952",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c72cf976539175fc87_66e807010865d826250ba7d6_هتل ونوس - آپارتمان دوخواب چهارتخته دبل سینگل (3).webp",
+          "roomType": {
+            "id": "1670523128507273216",
+            "title": "آپارتمان دو خوابه چهار نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523128507273216",
+              "title": "آپارتمان دو خوابه چهار نفره"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625817854447616",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c7ab97af82119121f3_66e8075b0865d826250ba7da_هتل ونوس - آپارتمان دوخواب چهارتخته دبل سینگل (8).webp",
+          "roomType": {
+            "id": "1670523128507273216",
+            "title": "آپارتمان دو خوابه چهار نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523128507273216",
+              "title": "آپارتمان دو خوابه چهار نفره"
+            }
+          ],
+          "categories": [
+            "rooms",
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1835625817854447617",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c8906add960f28e3a2_66e8075b15cb665e88c899f1_هتل ونوس - آپارتمان دوخواب چهارتخته دبل سینگل (7).webp",
+          "roomType": {
+            "id": "1670523128507273216",
+            "title": "آپارتمان دو خوابه چهار نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523128507273216",
+              "title": "آپارتمان دو خوابه چهار نفره"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625817858641920",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c976f5bf0b3af634b2_66e8075b0865d826250ba7dc_هتل ونوس - آپارتمان دوخواب چهارتخته دبل سینگل (9).webp",
+          "roomType": {
+            "id": "1670523128507273216",
+            "title": "آپارتمان دو خوابه چهار نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523128507273216",
+              "title": "آپارتمان دو خوابه چهار نفره"
+            }
+          ],
+          "categories": [
+            "rooms",
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1835625817862836224",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c9b347cc1bd8f4c12b_66e8075b0865d826250ba7d7_هتل ونوس - آپارتمان دوخواب چهارنفره سینگل (2).webp",
+          "roomType": {
+            "id": "1670523219846631424",
+            "title": "آپارتمان دو خوابه VIP - چهار تخته"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523219846631424",
+              "title": "آپارتمان دو خوابه VIP - چهار تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625817867030528",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524c9299de7a7748d26ce_66e8075b0865d826250ba7db_هتل ونوس - آپارتمان دوخواب چهارنفره سینگل (3).webp",
+          "roomType": {
+            "id": "1670523219846631424",
+            "title": "آپارتمان دو خوابه VIP - چهار تخته"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523219846631424",
+              "title": "آپارتمان دو خوابه VIP - چهار تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625817867030529",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524ca0fe27c5a5df8f55f_66e8075b0865d826250ba7d8_هتل ونوس - آپارتمان دوخواب چهارنفره سینگل (1).webp",
+          "roomType": {
+            "id": "1670523219846631424",
+            "title": "آپارتمان دو خوابه VIP - چهار تخته"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523219846631424",
+              "title": "آپارتمان دو خوابه VIP - چهار تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625817988665344",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524cab347cc1bd8f4c12c_66e8075b0865d826250ba7d9_هتل ونوس - آپارتمان دوخواب چهارنفره سینگل (4).webp",
+          "roomType": {
+            "id": "1670523219846631424",
+            "title": "آپارتمان دو خوابه VIP - چهار تخته"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523219846631424",
+              "title": "آپارتمان دو خوابه VIP - چهار تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625875068948480",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524cb0fe27c5a5df8f560_66e807670865d826250ba7e1_هتل ونوس - آپارتمان دوخواب چهارنفره سینگل (7).webp",
+          "roomType": {
+            "id": "1670523219846631424",
+            "title": "آپارتمان دو خوابه VIP - چهار تخته"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523219846631424",
+              "title": "آپارتمان دو خوابه VIP - چهار تخته"
+            }
+          ],
+          "categories": [
+            "rooms",
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1835625875073142784",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524cc2cf976539175fc88_66e807670865d826250ba7dd_هتل ونوس - آپارتمان دوخواب چهارنفره سینگل (6).webp",
+          "roomType": {
+            "id": "1670523219846631424",
+            "title": "آپارتمان دو خوابه VIP - چهار تخته"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523219846631424",
+              "title": "آپارتمان دو خوابه VIP - چهار تخته"
+            }
+          ],
+          "categories": [
+            "rooms",
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1835625875073142785",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524cc906add960f28e3a3_66e807670865d826250ba7df_هتل ونوس - آپارتمان یک خواب دوتخته دبل (4).webp",
+          "roomType": {
+            "id": "1670523178826338304",
+            "title": "آپارتمان یک خوابه دو نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523178826338304",
+              "title": "آپارتمان یک خوابه دو نفره"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625875102502912",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524cc359857c3c5f4a87b_66e8076715cb665e88c899f2_هتل ونوس - آپارتمان یک خواب دوتخته دبل (2).webp",
+          "roomType": {
+            "id": "1670523178826338304",
+            "title": "آپارتمان یک خوابه دو نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523178826338304",
+              "title": "آپارتمان یک خوابه دو نفره"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625875131863040",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524cd2cf976539175fc89_66e807670865d826250ba7de_هتل ونوس - آپارتمان یک خواب دوتخته دبل (1).webp",
+          "roomType": {
+            "id": "1670523178826338304",
+            "title": "آپارتمان یک خوابه دو نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523178826338304",
+              "title": "آپارتمان یک خوابه دو نفره"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625875157028864",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524ce2cf976539175fc8a_66e8076715cb665e88c899f3_هتل ونوس - آپارتمان یک خواب دوتخته دبل (6).webp",
+          "roomType": {
+            "id": "1670523178826338304",
+            "title": "آپارتمان یک خوابه دو نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523178826338304",
+              "title": "آپارتمان یک خوابه دو نفره"
+            }
+          ],
+          "categories": [
+            "rooms",
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1835625877325484032",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524ce666674792fccc39b_66e807670865d826250ba7e0_هتل ونوس - آپارتمان یک خواب دوتخته دبل (5).webp",
+          "roomType": {
+            "id": "1670523178826338304",
+            "title": "آپارتمان یک خوابه دو نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523178826338304",
+              "title": "آپارتمان یک خوابه دو نفره"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625949232631808",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524cf76f5bf0b3af634b3_66e8077815cb665e88c899f5_هتل ونوس - آپارتمان یک خواب دوتخته دبل (7).webp",
+          "roomType": {
+            "id": "1670523178826338304",
+            "title": "آپارتمان یک خوابه دو نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523178826338304",
+              "title": "آپارتمان یک خوابه دو نفره"
+            }
+          ],
+          "categories": [
+            "rooms",
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1835625949232631809",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524cf666674792fccc39c_66e807780865d826250ba7e3_هتل ونوس - آپارتمان یک خواب دوتخته سینگل (1).webp",
+          "roomType": {
+            "id": "1670523262372679680",
+            "title": "آپارتمان یک خوابه VIP - دو تخته"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523262372679680",
+              "title": "آپارتمان یک خوابه VIP - دو تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625949241020416",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d0666674792fccc39d_66e807780865d826250ba7e2_هتل ونوس - آپارتمان یک خواب دوتخته دبل (8).webp",
+          "roomType": {
+            "id": "1670523178826338304",
+            "title": "آپارتمان یک خوابه دو نفره"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523178826338304",
+              "title": "آپارتمان یک خوابه دو نفره"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625949249409024",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d0359857c3c5f4a87c_66e8077815cb665e88c899f6_هتل ونوس - آپارتمان یک خواب دوتخته سینگل (4).webp",
+          "roomType": {
+            "id": "1670523262372679680",
+            "title": "آپارتمان یک خوابه VIP - دو تخته"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523262372679680",
+              "title": "آپارتمان یک خوابه VIP - دو تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625949253603328",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d1b347cc1bd8f4c12d_66e8077815cb665e88c899f8_هتل ونوس - آپارتمان یک خواب دوتخته سینگل (2).webp",
+          "roomType": {
+            "id": "1670523262372679680",
+            "title": "آپارتمان یک خوابه VIP - دو تخته"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523262372679680",
+              "title": "آپارتمان یک خوابه VIP - دو تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625949278769152",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d10fe27c5a5df8f561_66e8077815cb665e88c899f7_هتل ونوس - آپارتمان یک خواب دوتخته سینگل (3).webp",
+          "roomType": {
+            "id": "1670523262372679680",
+            "title": "آپارتمان یک خوابه VIP - دو تخته"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523262372679680",
+              "title": "آپارتمان یک خوابه VIP - دو تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625949312323584",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d16af0f999b10ac0e7_66e8077815cb665e88c899f9_هتل ونوس - آپارتمان یک خواب دوتخته سینگل (5).webp",
+          "roomType": {
+            "id": "1670523262372679680",
+            "title": "آپارتمان یک خوابه VIP - دو تخته"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523262372679680",
+              "title": "آپارتمان یک خوابه VIP - دو تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625996145922048",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d2ab97af82119121f4_66e807840865d826250ba7e5_هتل ونوس - استخر (2).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "swimming_pool"
+          ]
+        },
+        {
+          "imageId": "1835625996145922049",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d376f5bf0b3af634b4_66e807840865d826250ba7e6_هتل ونوس - جکوزی.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "swimming_pool"
+          ]
+        },
+        {
+          "imageId": "1835625996145922050",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d3ab97af82119121f5_66e807840865d826250ba7e4_هتل ونوس - آپارتمان یک خواب دوتخته سینگل (6).webp",
+          "roomType": {
+            "id": "1670523262372679680",
+            "title": "آپارتمان یک خوابه VIP - دو تخته"
+          },
+          "roomTypes": [
+            {
+              "id": "1670523262372679680",
+              "title": "آپارتمان یک خوابه VIP - دو تخته"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1835625996154310656",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d4906add960f28e3a4_66e8078415cb665e88c899fa_هتل ونوس - جیم (1).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "sports_complex"
+          ]
+        },
+        {
+          "imageId": "1835625996179476480",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d42cf976539175fc8b_66e807840865d826250ba7e8_هتل ونوس - پارکینگ.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "parking_lot"
+          ]
+        },
+        {
+          "imageId": "1835625996217225216",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d576f5bf0b3af634b5_66e807840865d826250ba7e7_هتل ونوس - پذیرش.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1835625996347248640",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d5666674792fccc39e_66e807850865d826250ba7e9_هتل ونوس - جیم (2).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "sports_complex"
+          ]
+        },
+        {
+          "imageId": "1835626045764538368",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d50fe27c5a5df8f562_66e8079015cb665e88c899fc_هتل ونوس - لابی (2).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1835626045764538369",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d66af0f999b10ac0e8_66e8079015cb665e88c899fb_هتل ونوس - راهروی طبقات.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "1835626045793898496",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d7906add960f28e3a5_66e807900865d826250ba7eb_هتل ونوس - لابی (1).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1835626045764538370",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d7b347cc1bd8f4c12e_66e807900865d826250ba7ea_هتل ونوس - رستوران (2).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "1835626045806481408",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d876f5bf0b3af634b6_66e8079015cb665e88c899fe_هتل ونوس - سونا.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "swimming_pool"
+          ]
+        },
+        {
+          "imageId": "1835626045835841536",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d8359857c3c5f4a87d_66e8079015cb665e88c899fd_هتل ونوس - فضای سبز.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "exterior"
+          ]
+        },
+        {
+          "imageId": "1835626045873590272",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d9906add960f28e3a6_66e8079015cb665e88c899ff_هتل ونوس - لابی (3).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1835626086373789696",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524d9299de7a7748d26cf_66e8079b15cb665e88c89a00_هتل ونوس - لابی (6).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1835626086373789697",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524dab347cc1bd8f4c12f_66e8079b0865d826250ba7ee_هتل ونوس - لابی (4).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1835626086377984000",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524da666674792fccc39f_66e8079b0865d826250ba7ef_هتل ونوس - ورودی هتل.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "exterior"
+          ]
+        },
+        {
+          "imageId": "1835626086453481472",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524dbb347cc1bd8f4c130_66e8079b0865d826250ba7ed_هتل ونوس - لابی (5).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1835626086457675776",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670524db666674792fccc3a0_66e8079b0865d826250ba7ec_هتل ونوس - نمای اتاقها.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "view"
+          ]
+        }
+      ],
+      "totalImagesCount": 51,
+      "instruction": {
+        "fa": "",
+        "en": ""
+      },
+      "mandatoryFee": {
+        "fa": "شرایط اقامت کودک و امکان استفاده از تخت اضافه در هر اتاق، بر اساس «نشان» نمایش داده شده مشخص میشود. در صورتی که نشان «محاسبه آنلاین نرخ کودک» را مشاهده میکنید، هزینه اقامت کودک در قیمت نهایی رزرو لحاظ شده است. اما اگر نشان «هزینه کودک به صورت حضوری» نمایش داده شود، هزینه اقامت کودک مطابق قوانین هتل و در زمان پذیرش از مسافر دریافت خواهد شد.",
+        "en": "Accommodation fee for children aged 2-6 is according to the policy of each hotel."
+      },
+      "messages": [],
+      "metaDescription": "رزرو هتل ونوس تهران در علی بابا، معتبرترین سامانه رزرو هتل در ایران - رزرو هتل های تهران با تخفیف - گارانتی بهترین قیمت و پشتیبانی  24 ساعته- مشاهده آنلاین مشخصات، امکانات، تصاویر هتل ونوس تهران",
+      "link": "ir-tehran/tehran-venoos",
+      "location": {
+        "coordinates": [
+          51.4405708711428,
+          35.72880784040418
+        ],
+        "type": "Point"
+      },
+      "name": {
+        "fa": "ونوس",
+        "en": "Venoos Tehran"
+      },
+      "phone": "",
+      "places": [],
+      "score": {
+        "score": 2.6,
+        "count": 2
+      },
+      "seoLinks": [],
+      "seoTitle": "رزرو هتل ونوس در تهران | علی بابا",
+      "special": false,
+      "isStrategic": false,
+      "star": 3,
+      "state": {
+        "fa": "",
+        "en": "Tehran"
+      },
+      "_id": "5e283ac6ff42b8e4bc768f9c",
+      "newHotelId": "7155623956202913873",
+      "type": "hotel",
+      "title": {
+        "fa": "هتل ونوس تهران",
+        "en": "Hotel Venoos Tehran Tehran"
+      },
+      "video": null,
+      "rooms": [
+        {
+          "id": "1670523128507273216",
+          "capacity": 4,
+          "extraBed": 0,
+          "name_en": "آپارتمان دو خوابه چهار نفره",
+          "name": "آپارتمان دو خوابه چهار نفره"
+        },
+        {
+          "id": "1670523178826338304",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "آپارتمان یک خوابه دو نفره",
+          "name": "آپارتمان یک خوابه دو نفره"
+        },
+        {
+          "id": "1670523219846631424",
+          "capacity": 4,
+          "extraBed": 0,
+          "name_en": "آپارتمان دو خوابه VIP - چهار تخته",
+          "name": "آپارتمان دو خوابه VIP - چهار تخته"
+        },
+        {
+          "id": "1670523262372679680",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "آپارتمان یک خوابه VIP - دو تخته",
+          "name": "آپارتمان یک خوابه VIP - دو تخته"
+        },
+        {
+          "id": "1752361294876381184",
+          "capacity": 4,
+          "extraBed": 0,
+          "name_en": "آپارتمان چهار تخته vip بازسازی شده ",
+          "name": "آپارتمان چهار تخته vip بازسازی شده "
+        }
+      ],
+      "childAgeRanges": {
+        "infantFromAge": 0,
+        "noBedFromAge": 0,
+        "withBedFromAge": 0,
+        "withBedToAge": 0,
+        "adultFromAge": 0
+      },
+      "tehranZone": {
+        "code": "east",
+        "fa": "شرق",
+        "en": "east"
+      },
+      "facilitiesAggregate": "خدمات اينترنت بی‌سیم در قسمت پذیرش، آسانسور، سرویس بهداشتی ایرانی، تلویزیون، یخچال، مبلمان راحتی، آشپزخانه، حمام، گاو صندوق، تلفن، سیستم تهویه هوا، رستوران، کافی‌شاپ، استخر سرپوشیده، سالن بدنسازی، سرویس روزانه اتاق"
+    },
+    "filterablePois": [
+      {
+        "id": "2293763928",
+        "title": "فرودگاه بین المللی امام خمینی",
+        "coordinate": [
+          51.15562974,
+          35.40961946
+        ],
+        "category": "airportTower",
+        "boundingBox": [
+          35.402619460000004,
+          51.148629740000004,
+          35.41661946,
+          51.16262974
+        ]
+      },
+      {
+        "id": "4422152047",
+        "title": "برج آزادی",
+        "coordinate": [
+          51.33806665,
+          35.69973509
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.69273509,
+          51.331066650000004,
+          35.706735089999995,
+          51.34506665
+        ]
+      },
+      {
+        "id": "7995498706",
+        "title": "بازار بزرگ تهران",
+        "coordinate": [
+          51.42337293,
+          35.676776
+        ],
+        "category": "shoppingBag",
+        "boundingBox": [
+          35.669776,
+          51.41637293,
+          35.683775999999995,
+          51.43037293
+        ]
+      },
+      {
+        "id": "9264896876",
+        "title": "برج میلاد",
+        "coordinate": [
+          51.37552463,
+          35.74481373
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.73781373,
+          51.36852463,
+          35.751813729999995,
+          51.38252463
+        ]
+      }
+    ],
+    "nextPurchaseCashback": {
+      "currency": "IRR",
+      "amount": 0
+    },
+    "groupLinks": [
+      {
+        "name": "هتل اسپیناس پالاس",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+      },
+      {
+        "name": "هتل لاله تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-laleh"
+      },
+      {
+        "name": "هتل استقلال تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-esteghlal"
+      },
+      {
+        "name": "هتل اسپیناس بلوار کشاورز",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas"
+      },
+      {
+        "name": "هتل پارسیان آزادی",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-azadi"
+      },
+      {
+        "name": "هتل هما تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-homa"
+      },
+      {
+        "name": "هتل المپیک تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-olympic"
+      },
+      {
+        "name": "هتل پرشین پلازا",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-persianpelaza"
+      },
+      {
+        "name": "هتل اوین تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-evin"
+      },
+      {
+        "name": "هتل توچال",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-tochal"
+      },
+      {
+        "name": "هتل فردوسی تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-ferdowsi"
+      },
+      {
+        "name": "هتل هویزه تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-howeyzeh"
+      },
+      {
+        "name": "هتل بزرگ تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-grand"
+      },
+      {
+        "name": "هتل انقلاب تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-enghelab"
+      },
+      {
+        "name": "هتل های تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran"
+      }
+    ]
+  }
+}

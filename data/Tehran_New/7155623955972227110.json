@@ -1,0 +1,1556 @@
+{
+  "status": "success",
+  "error": false,
+  "result": {
+    "hotel": {
+      "accomodation": {
+        "id": 204
+      },
+      "address": "تهران، خیابان فردوسی جنوبی، کوچه بانک ملی، پلاک ۱۸",
+      "badges": [
+        {
+          "color": {
+            "background": "",
+            "border": "",
+            "text": "",
+            "variant": ""
+          },
+          "text": "نزدیک به بازار",
+          "_id": "",
+          "variant": "GENERAL",
+          "description": "",
+          "icon": "pin"
+        }
+      ],
+      "checkinTime": "14:00",
+      "checkoutTime": "12:00",
+      "city": {
+        "id": 0,
+        "_id": "7101534970300072022",
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": {
+        "code": "IR",
+        "id": "7094321840323039334",
+        "fa": "ایران",
+        "en": "Iran"
+      },
+      "description": {
+        "fa": "معرفی هتل حافظ تهران\nدر سفر به تهران اگر می‌خواهید در هتلی باکیفیت و هزینه کم اقامت داشته باشید که به مراکز تجاری و فرهنگی نزدیک باشد، هتل حافظ یکی از گزینه‌های مناسب است. هتل حافظ تهران که هتلی دو ستاره با معماری کلاسیک است، در سال ۱۳۵۰ تاسیس شده و در سال ۱۳۹۶ برای ارائه خدمات بهتر بازسازی شده‌ است. این هتل با سه طبقه و ۳۲ اتاق و در مجموع ۹۷ تخت به مسافران خدمت‌‌‌‌رسانی می‌کند. البته باید توجه داشته‌باشید با توجه به قدیمی بودن ساخت بنا، هتل فاقد آسانسور است. نزدیکی این هتل به مراکز تجاری و اداری مهم و همچنین هزینه مناسب اقامت، این هتل را به یکی از بهترین گزینه‌های انتخابی برای افرادی که قصد سفر کاری به تهران را دارند، تبدیل کرده ‌است.\nآدرس هتل حافظ تهران\nهتل حافظ اقامتگاهی در منطقه دوازده تهران در خیابان فردوسی جنوبی، کوچه بانک ملی است. خیابان فردوسی یکی از قدیمی‌ترین و جذاب‌‌ترین خیابان‌های تهران است که تاریخ معماری قاجار در ساختمان‌های این خیابان را می‌بینیم. با چند دقیقه پیاده‌روی از خیابان فردوسی به خیابان منوچهری که فروشگاه‌های پوشاک چرم و عتیقه فروشی‌ها در آنجاست و چهارراه استانبول، می‌توانید بازارگردی خوبی را تجربه کنید. همچنین هتل حافظ به مکان‌هایی چون سفارت آلمان و انگلیس، وزارت خارجه، موزه جواهرات ملی، موزه عبرت ایران، موزه ارتباطات و بازار بزرگ تهران نزدیک است که از هر کدام حدود پنج تا ده دقیقه فاصله دارد. دسترسی آسان به وسایل حمل و نقل عمومی مانند سه خط مترو فردوسی، امام خمینی و سعدی و اتوبوس و تاکسی از ویژگی‌های مثبت این هتل است. اگر با وسیله نقلیه شخصی به شهر تهران سفر کردید و در هتل حافظ می‌خواهید اقامت داشته باشید، باید در نظر داشته باشید که هتل حافظ تهران در محدوده طرح ترافیک و طرح کنترل آلودگی هوا قرار دارد.\nخدمات رایگان هتل تهران\nاز خدمات رایگان هتل حافظ می‌‌‌توان به اینترنت نامحدود رایگان در اتاق‌ها و لابی هتل اشاره کرد. همچنین اگر به خدماتی چون فکس و کپی، پرینتر نیاز داشتید به راحتی می‌توانید به طور رایگان از این خدمات استفاده کنید. اتاق چمدان، نمازخانه و خدمات باربری از دیگر خدمات رایگان ارائه ‌شده در هتل حافظ تهران است. اتاق‌ها دارای امکاناتی مانند یخچال، چای‌ساز، تلفن، تلویزیون، شبکه پخش کننده فیلم است. تعداد و اندازه مبلمان موجود در اتاق‌ها با توجه به اندازه و چند تخته بودن اتاق‌ها، متفاوت است. سرویس بهداشتی ایرانی و فرنگی هر دو در اتاق‌ها وجود دارد. از دیگر امکاناتی که همه اتاق‌های هتل حافظ تهران دارند می‌توان به کمد لباس، صندوق امانات، سیستم تهویه مطبوع، سیستم گرمایشی و سرمایشی اشاره کرد.\nرستوران هتل حافظ تهران\nاگر می‌خواهید وعده‌های غذایی خود را در رستوران هتل حافظ میل کنید، رستوران حافظ با غذاهای خوشمزه ایرانی مانند انواع کباب‌ها، دیزی، انواع خورش‌های ایرانی، پذیرای مسافران است. همچنین کافی‌شاپ این هتل با سرو انواع فست‌فود مانند انواع پیتزا، ساندویچ، پاستا، نوشیدنی‌های سرد مانند انواع آب‌میوه‌ها و انواع نوشیدنی‌های گرم مانند انواع قهوه و کاپوچینو و دسرهای جذاب از مسافران پذیرایی می‌کند. برای وعده صبحانه شما می‌توانید ساعت نه صبح به رستوران و کافی‌شاپ هتل مراجعه کرده و انواع املت و نیمرو یا صبحانه سرد سفارش دهید. رستوران و کافی‌شاپ هتل حافظ در طبقه همکف این هتل واقع شده که پنجاه نفر ظرفیت دارد و ساعت کاری رستوران حافظ از ساعت ۹ صبح تا 12 نیمه شب است.\nانواع اتاق های هتل حافظ تهران\nاندازه اتاق‌های هتل حافظ با توجه به قدیمی بودن، متفاوت است. اتاق‌های موجود در هتل حافظ تهران چهار نوع مختلف است: اتاق یک‌تخته که یک‌تخت یک‌نفره دارد. اتاق دوتخته دبل که یک‌تخت دونفره دارد. اتاق دوتخته توئین که دو تخت یک‌نفره دارد. اتاق سه تخته که یک‌تخت دونفره و یک‌تخت یک‌نفره دارد. در نظر داشته‌باشید که واحدهای اقامتی یک‌تخته، ظرفیت نفر اضافه یا مهمان ندارند. در بقیه واحدها ظرفیت نفر اضافه وجود دارد و سرویس‌ اضافه به‌صورت کاناپه تخت شو در اختیار مهمانان قرار می‌گیرد. اتاق یک‌تخته بدون پنجره هست و بعضی از اتاق‌های دوتخته، سه‌تخته و چهارتخته تراس دارد. منظره بعضی از اتاق‌های هتل حافظ کوچه باغ عمارت تاریخی سردار اسعد است. اتاق دوتخته ویلایی به دلیل وجود پله برای معلولین مناسب نیست.",
+        "en": ""
+      },
+      "disabled": true,
+      "email": "",
+      "facilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1041,
+          "name": {
+            "fa": "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+            "en": "Internet in lobby"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1040,
+          "name": {
+            "fa": "تاکسی سرویس",
+            "en": "Cab"
+          },
+          "priority": 12,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1047,
+          "name": {
+            "fa": "سرویس بهداشتی ایرانی",
+            "en": "Squat toilet"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1046,
+          "name": {
+            "fa": "سرویس بهداشتی فرنگی",
+            "en": "Toilet"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1050,
+          "name": {
+            "fa": "تلویزیون",
+            "en": "Television"
+          },
+          "priority": 3,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1053,
+          "name": {
+            "fa": "یخچال",
+            "en": "Refrigerator"
+          },
+          "priority": 4,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1042,
+          "name": {
+            "fa": "مبلمان راحتی",
+            "en": "Furniture"
+          },
+          "priority": 11,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1048,
+          "name": {
+            "fa": "گاو صندوق",
+            "en": "Safe box"
+          },
+          "priority": 14,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1049,
+          "name": {
+            "fa": "تلفن",
+            "en": "Telephone"
+          },
+          "priority": 16,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1052,
+          "name": {
+            "fa": "سیستم تهویه هوا",
+            "en": "Air conditioning"
+          },
+          "priority": 25,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "رستوران و امکانات پذیرایی",
+              "en": "Restaurants"
+            },
+            "priority": 4
+          },
+          "groupId": 6,
+          "id": 1057,
+          "name": {
+            "fa": "کافی‌شاپ",
+            "en": "Coffe shop"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "ایمنی",
+              "en": "Safety and Security"
+            },
+            "priority": 9
+          },
+          "groupId": 9,
+          "id": 1063,
+          "name": {
+            "fa": "اعلام حریق",
+            "en": "Fire alarm"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات اتاق",
+              "en": "Room Service"
+            },
+            "priority": 10
+          },
+          "groupId": 5,
+          "id": 1044,
+          "name": {
+            "fa": "سرویس روزانه اتاق",
+            "en": "Room service"
+          },
+          "priority": 0,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "facilityGroups": [
+        {
+          "id": 1,
+          "name": {
+            "fa": "خدمات و امکانات کلی",
+            "en": "General Services"
+          },
+          "priority": 1,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1041,
+              "name": {
+                "fa": "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+                "en": "Internet in lobby"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1040,
+              "name": {
+                "fa": "تاکسی سرویس",
+                "en": "Cab"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": {
+            "fa": "امکانات اتاق‌ها",
+            "en": "Room Facilities"
+          },
+          "priority": 2,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1047,
+              "name": {
+                "fa": "سرویس بهداشتی ایرانی",
+                "en": "Squat toilet"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1046,
+              "name": {
+                "fa": "سرویس بهداشتی فرنگی",
+                "en": "Toilet"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1050,
+              "name": {
+                "fa": "تلویزیون",
+                "en": "Television"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1053,
+              "name": {
+                "fa": "یخچال",
+                "en": "Refrigerator"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1042,
+              "name": {
+                "fa": "مبلمان راحتی",
+                "en": "Furniture"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1045,
+              "name": {
+                "fa": "حمام",
+                "en": "Bathroom"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1048,
+              "name": {
+                "fa": "گاو صندوق",
+                "en": "Safe box"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1049,
+              "name": {
+                "fa": "تلفن",
+                "en": "Telephone"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1052,
+              "name": {
+                "fa": "سیستم تهویه هوا",
+                "en": "Air conditioning"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": {
+            "fa": "رستوران و امکانات پذیرایی",
+            "en": "Restaurants"
+          },
+          "priority": 4,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1057,
+              "name": {
+                "fa": "کافی‌شاپ",
+                "en": "Coffe shop"
+              },
+              "priority": 4,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": {
+            "fa": "ایمنی",
+            "en": "Safety and Security"
+          },
+          "priority": 9,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1063,
+              "name": {
+                "fa": "اعلام حریق",
+                "en": "Fire alarm"
+              },
+              "priority": 9,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": {
+            "fa": "خدمات اتاق",
+            "en": "Room Service"
+          },
+          "priority": 10,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1044,
+              "name": {
+                "fa": "سرویس روزانه اتاق",
+                "en": "Room service"
+              },
+              "priority": 10,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        }
+      ],
+      "popularFacilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 1057,
+          "name": {
+            "fa": "کافی‌شاپ",
+            "en": "Coffe shop"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 1044,
+          "name": {
+            "fa": "سرویس روزانه اتاق",
+            "en": "Room service"
+          },
+          "priority": 0,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "faq": [],
+      "fax": "",
+      "hotelId": "562108",
+      "image": {
+        "sourceUrl": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670512620fe27c5a5df8f468_79ab737a-7479-471e-8719-aa55e5967a7b_هتل حافظ - نمای هتل.webp"
+      },
+      "images": [
+        {
+          "imageId": "1799338313920811008",
+          "isPrimary": true,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670512620fe27c5a5df8f468_79ab737a-7479-471e-8719-aa55e5967a7b_هتل حافظ - نمای هتل.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "1799338535539445760",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670512636af0f999b10abfef_66499be4-ba2a-42eb-8113-53fd4e4eb300_هتل حافظ - اتاق چهارتخته (1) (با مبل تخت شو).webp",
+          "roomType": {
+            "id": "1669822914372833280",
+            "title": "اتاق برای چهار نفر (3 تخته + کاناپه تخت شو)"
+          },
+          "roomTypes": [
+            {
+              "id": "1669822914372833280",
+              "title": "اتاق برای چهار نفر (3 تخته + کاناپه تخت شو)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1799338691437531136",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051263b347cc1bd8f4c040_e598e057-d8e8-4a87-b16a-6a931927e7ae_هتل حافظ - اتاق دو تخته (2).webp",
+          "roomType": {
+            "id": "1669822771976212480",
+            "title": "اتاق دوتخته (باندل)"
+          },
+          "roomTypes": [
+            {
+              "id": "1669822771976212480",
+              "title": "اتاق دوتخته (باندل)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1799338791941443584",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051264b347cc1bd8f4c041_d5bdafc0-a62c-4bd3-9373-4eac81258c60_هتل حافظ - لابی (2).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1799339498539061248",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670512640fe27c5a5df8f469_5b2141bf-72f5-4f5a-839a-8b1413af7dc8_هتل حافظ - رستوران.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "1799339688746553344",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705126576f5bf0b3af633ce_b14c50f3-daab-4490-8f8e-092d8f99cf57_هتل حافظ - اتاق پنج تخته (با مبل تخت شو) (1).webp",
+          "roomType": {
+            "id": "1669822968936534016",
+            "title": "اتاق برای پنج نفر (3 تخته+2 کاناپه تخت شو)"
+          },
+          "roomTypes": [
+            {
+              "id": "1669822968936534016",
+              "title": "اتاق برای پنج نفر (3 تخته+2 کاناپه تخت شو)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1799339688746553345",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705126576f5bf0b3af633cf_74230764-f5d8-4f25-8908-0c31814171c9_هتل حافظ - اتاق پنج تخته (با مبل تخت شو) (2).webp",
+          "roomType": {
+            "id": "1669822968936534016",
+            "title": "اتاق برای پنج نفر (3 تخته+2 کاناپه تخت شو)"
+          },
+          "roomTypes": [
+            {
+              "id": "1669822968936534016",
+              "title": "اتاق برای پنج نفر (3 تخته+2 کاناپه تخت شو)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1799339688746553346",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051266299de7a7748d25e1_acbca516-56a9-4a3e-b8b2-4a5bfc17ed3e_هتل حافظ - اتاق چهارتخته (2) (با مبل تخت شو).webp",
+          "roomType": {
+            "id": "1669822914372833280",
+            "title": "اتاق برای چهار نفر (3 تخته + کاناپه تخت شو)"
+          },
+          "roomTypes": [
+            {
+              "id": "1669822914372833280",
+              "title": "اتاق برای چهار نفر (3 تخته + کاناپه تخت شو)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1799339688763330560",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705126676f5bf0b3af633d0_792d4e6c-21d3-41bb-a2ba-4ddd50150194_هتل حافظ - اتاق چهارتخته (3) (با مبل تخت شو).webp",
+          "roomType": {
+            "id": "1669822914372833280",
+            "title": "اتاق برای چهار نفر (3 تخته + کاناپه تخت شو)"
+          },
+          "roomTypes": [
+            {
+              "id": "1669822914372833280",
+              "title": "اتاق برای چهار نفر (3 تخته + کاناپه تخت شو)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1799339688767524864",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051267299de7a7748d25e2_161d0918-b694-480d-a14f-1ee44221963e_هتل حافظ - اتاق دو تخته (1).webp",
+          "roomType": {
+            "id": "1669822771976212480",
+            "title": "اتاق دوتخته (باندل)"
+          },
+          "roomTypes": [
+            {
+              "id": "1669822771976212480",
+              "title": "اتاق دوتخته (باندل)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1799340010323841024",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670512670fe27c5a5df8f46a_96b5c38e-5715-42ed-a1ca-00d83117c59c_هتل حافظ - اتاق سه تخته (1).webp",
+          "roomType": {
+            "id": "1669822730318385152",
+            "title": "اتاق سه تخته (باندل)"
+          },
+          "roomTypes": [
+            {
+              "id": "1669822730318385152",
+              "title": "اتاق سه تخته (باندل)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1799340010328035328",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051268b347cc1bd8f4c042_f6632657-c5c2-4a9b-8322-fb1814a93363_هتل حافظ - اتاق دو تخته (3).webp",
+          "roomType": {
+            "id": "1669822771976212480",
+            "title": "اتاق دوتخته (باندل)"
+          },
+          "roomTypes": [
+            {
+              "id": "1669822771976212480",
+              "title": "اتاق دوتخته (باندل)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1799340010353201152",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051268906add960f28e2a2_2899e0aa-1987-462b-9176-b67dccf6ec4f_هتل حافظ - اتاق سه تخته (4).webp",
+          "roomType": {
+            "id": "1669822730318385152",
+            "title": "اتاق سه تخته (باندل)"
+          },
+          "roomTypes": [
+            {
+              "id": "1669822730318385152",
+              "title": "اتاق سه تخته (باندل)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1799340010353201153",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67051269b347cc1bd8f4c043_c8d39e09-aa01-4bfd-a249-0428a2517246_هتل حافظ - اتاق سه تخته (2).webp",
+          "roomType": {
+            "id": "1669822730318385152",
+            "title": "اتاق سه تخته (باندل)"
+          },
+          "roomTypes": [
+            {
+              "id": "1669822730318385152",
+              "title": "اتاق سه تخته (باندل)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1799340010353201154",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670512696af0f999b10abff0_2fbdd5fa-5041-4e70-b852-62fa2241ae65_هتل حافظ - اتاق سه تخته (3).webp",
+          "roomType": {
+            "id": "1669822730318385152",
+            "title": "اتاق سه تخته (باندل)"
+          },
+          "roomTypes": [
+            {
+              "id": "1669822730318385152",
+              "title": "اتاق سه تخته (باندل)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1799340195376533505",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705126a666674792fccc296_b053c8d5-81d1-4ae2-907b-71205ab71e15_هتل حافظ - سرویس بهداشتی.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1799340195376533504",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705126a2cf976539175fba3_d247417e-f443-4ec6-97a5-39180c3c2e48_هتل حافظ - راهروی طبقات.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "1799340195414282240",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705126b2cf976539175fba4_947f2fbc-2e99-404c-890c-a62180250f59_هتل حافظ - اتاق سه تخته (5).webp",
+          "roomType": {
+            "id": "1669822730318385152",
+            "title": "اتاق سه تخته (باندل)"
+          },
+          "roomTypes": [
+            {
+              "id": "1669822730318385152",
+              "title": "اتاق سه تخته (باندل)"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1799340195431059456",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705126b906add960f28e2a3_04ef0e81-b7cf-4de5-9e7b-459090779d4f_هتل حافظ - لابی (1).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "1799340195447836672",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705126cab97af82119120f3_1c56579e-a31e-4a62-839c-5c2266406a45_هتل حافظ - پذیرش.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        }
+      ],
+      "totalImagesCount": 20,
+      "instruction": {
+        "fa": "",
+        "en": ""
+      },
+      "mandatoryFee": {
+        "fa": "شرایط اقامت کودک و امکان استفاده از تخت اضافه در هر اتاق، بر اساس «نشان» نمایش داده شده مشخص میشود. در صورتی که نشان «محاسبه آنلاین نرخ کودک» را مشاهده میکنید، هزینه اقامت کودک در قیمت نهایی رزرو لحاظ شده است. اما اگر نشان «هزینه کودک به صورت حضوری» نمایش داده شود، هزینه اقامت کودک مطابق قوانین هتل و در زمان پذیرش از مسافر دریافت خواهد شد.",
+        "en": "Accommodation fee for children aged 2-6 is according to the policy of each hotel."
+      },
+      "messages": [],
+      "metaDescription": "رزرو هتل حافظ-tehran-hafez در علی بابا، معتبرترین سامانه رزرو هتل در ایران - رزرو هتل های تهران با تخفیف - گارانتی بهترین قیمت و پشتیبانی  24 ساعته- مشاهده آنلاین مشخصات، امکانات، تصاویر هتل tehran-hafez",
+      "link": "ir-tehran/tehran-hafez",
+      "location": {
+        "coordinates": [
+          51.4188849180937,
+          35.6908663370827
+        ],
+        "type": "Point"
+      },
+      "name": {
+        "fa": "حافظ",
+        "en": "hafez"
+      },
+      "phone": "",
+      "places": [
+        {
+          "distance": 288.54554482854275,
+          "location": [
+            51.418673,
+            35.693744
+          ],
+          "name": "موزه جواهرات ملی ایران",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 1,
+            "onFoot": 4
+          },
+          "type": "",
+          "_id": "7124410456428511258"
+        },
+        {
+          "distance": 1099.6293007731192,
+          "location": [
+            51.420904,
+            35.680057
+          ],
+          "name": "کاخ گلستان",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 3,
+            "onFoot": 14
+          },
+          "type": "",
+          "_id": "7124410456428511259"
+        },
+        {
+          "distance": 362.3738596943363,
+          "location": [
+            51.419667,
+            35.687328
+          ],
+          "name": "موزه عبرت ایران",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 1,
+            "onFoot": 5
+          },
+          "type": "",
+          "_id": "7124410456428511263"
+        },
+        {
+          "distance": 442.5724305341478,
+          "location": [
+            51.418493,
+            35.686458
+          ],
+          "name": "موزه ارتباطات",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 2,
+            "onFoot": 6
+          },
+          "type": "",
+          "_id": "7124410456428511264"
+        },
+        {
+          "distance": 960.1945571253304,
+          "location": [
+            51.428409,
+            35.689646
+          ],
+          "name": "عمارت مسعودیه",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 3,
+            "onFoot": 12
+          },
+          "type": "",
+          "_id": "7124410456428511266"
+        },
+        {
+          "distance": 790.8096179764239,
+          "location": [
+            51.414884,
+            35.684045
+          ],
+          "name": "موزه صلح تهران",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 3,
+            "onFoot": 10
+          },
+          "type": "",
+          "_id": "7124410456428511267"
+        },
+        {
+          "distance": 1814.7306025891198,
+          "location": [
+            51.424206,
+            35.708216
+          ],
+          "name": "سفارت پیشین آمریکا",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 5,
+            "onFoot": 22
+          },
+          "type": "",
+          "_id": "7124410456428511281"
+        },
+        {
+          "distance": 1502.4608244494516,
+          "location": [
+            51.433301,
+            35.695099
+          ],
+          "name": "باغ موزه نگارستان",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 4,
+            "onFoot": 18
+          },
+          "type": "",
+          "_id": "7124410456432705539"
+        },
+        {
+          "distance": 933.3224064983206,
+          "location": [
+            51.413954,
+            35.682942
+          ],
+          "name": "پارک شهر",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 3,
+            "onFoot": 12
+          },
+          "type": "",
+          "_id": "7124410456441094199"
+        },
+        {
+          "distance": 1606.7091613409755,
+          "location": [
+            51.406237,
+            35.700775
+          ],
+          "name": "پارک شهر",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 5,
+            "onFoot": 20
+          },
+          "type": "",
+          "_id": "7124410456445288449"
+        },
+        {
+          "distance": 980.2273433105729,
+          "location": [
+            51.410183,
+            35.686354
+          ],
+          "name": "میدان حسن آباد",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 3,
+            "onFoot": 12
+          },
+          "type": "",
+          "_id": "7124410456445288474"
+        },
+        {
+          "distance": 1463.8114412399725,
+          "location": [
+            51.404759,
+            35.687028
+          ],
+          "name": "موزه مقدم",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 4,
+            "onFoot": 18
+          },
+          "type": "",
+          "_id": "7124410456445288477"
+        },
+        {
+          "distance": 1100.7509185236704,
+          "location": [
+            51.420507,
+            35.679979
+          ],
+          "name": "کاخ گلستان",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 3,
+            "onFoot": 14
+          },
+          "type": "",
+          "_id": "7124410456445288480"
+        },
+        {
+          "distance": 1140.1537942072866,
+          "location": [
+            51.429738,
+            35.69436
+          ],
+          "name": "خانه ابوالحسن صبا",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 4,
+            "onFoot": 14
+          },
+          "type": "",
+          "_id": "7124410456445288481"
+        },
+        {
+          "distance": 1986.8322696124003,
+          "location": [
+            51.433993,
+            35.677963
+          ],
+          "name": "موزه کاظمی",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 6,
+            "onFoot": 24
+          },
+          "type": "",
+          "_id": "7124410456445288485"
+        },
+        {
+          "distance": 768.4365999199616,
+          "location": [
+            51.414583,
+            35.684499
+          ],
+          "name": "موزه آکواریوم و صلح ",
+          "priority": 0,
+          "travelTime": {
+            "byCar": 3,
+            "onFoot": 10
+          },
+          "type": "",
+          "_id": "7124410456445288486"
+        }
+      ],
+      "score": {
+        "score": 2.9,
+        "count": 11
+      },
+      "seoLinks": [],
+      "seoTitle": "رزرو هتل حافظ در تهران | علی بابا",
+      "special": true,
+      "isStrategic": false,
+      "star": 2,
+      "state": {
+        "fa": "",
+        "en": "Tehran"
+      },
+      "_id": "5be3f17de9a116befc5a68b5",
+      "newHotelId": "7155623955972227110",
+      "type": "hotel",
+      "title": {
+        "fa": "هتل حافظ تهران",
+        "en": "Hotel hafez Tehran"
+      },
+      "video": null,
+      "rooms": [
+        {
+          "id": "1669822730318385152",
+          "capacity": 3,
+          "extraBed": 0,
+          "name_en": "اتاق سه تخته (باندل)",
+          "name": "اتاق سه تخته (باندل)"
+        },
+        {
+          "id": "1669822771976212480",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "اتاق دوتخته (باندل)",
+          "name": "اتاق دوتخته (باندل)"
+        },
+        {
+          "id": "1669822809590730752",
+          "capacity": 1,
+          "extraBed": 0,
+          "name_en": "اتاق یک تخته (باندل)",
+          "name": "اتاق یک تخته (باندل)"
+        },
+        {
+          "id": "1669822853328932864",
+          "capacity": 1,
+          "extraBed": 0,
+          "name_en": "دو تخته برای یک نفر",
+          "name": "دو تخته برای یک نفر"
+        },
+        {
+          "id": "1669822914372833280",
+          "capacity": 4,
+          "extraBed": 0,
+          "name_en": "اتاق برای چهار نفر (3 تخته + کاناپه تخت شو)",
+          "name": "اتاق برای چهار نفر (3 تخته + کاناپه تخت شو)"
+        },
+        {
+          "id": "1669822968936534016",
+          "capacity": 5,
+          "extraBed": 0,
+          "name_en": "اتاق برای پنج نفر (3 تخته+2 کاناپه تخت شو)",
+          "name": "اتاق برای پنج نفر (3 تخته+2 کاناپه تخت شو)"
+        },
+        {
+          "id": "1669823012955754496",
+          "capacity": 3,
+          "extraBed": 0,
+          "name_en": "اتاق سه تخته",
+          "name": "اتاق سه تخته"
+        },
+        {
+          "id": "1669823053309153280",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "اتاق دو تخته",
+          "name": "اتاق دو تخته"
+        },
+        {
+          "id": "1669823093889044480",
+          "capacity": 1,
+          "extraBed": 0,
+          "name_en": "اتاق یک تخته",
+          "name": "اتاق یک تخته"
+        },
+        {
+          "id": "1822598388953124864",
+          "capacity": 1,
+          "extraBed": 0,
+          "name_en": "اتاق یک تخته اقتصادی(بدون سرویس بهداشتی و حمام اختصاصی)",
+          "name": "اتاق یک تخته اقتصادی(بدون سرویس بهداشتی و حمام اختصاصی)"
+        },
+        {
+          "id": "1822598592423006208",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "اتاق دو تخته اقتصادی (بدون سرویس بهداشتی و حمام اختصاصی)",
+          "name": "اتاق دو تخته اقتصادی (بدون سرویس بهداشتی و حمام اختصاصی)"
+        }
+      ],
+      "childAgeRanges": {
+        "infantFromAge": 0,
+        "noBedFromAge": 0,
+        "withBedFromAge": 0,
+        "withBedToAge": 0,
+        "adultFromAge": 0
+      },
+      "tehranZone": {
+        "code": "center",
+        "fa": "مرکز",
+        "en": "center"
+      },
+      "facilitiesAggregate": "خدمات اينترنت بی‌سیم در قسمت پذیرش، تاکسی سرویس، سرویس بهداشتی ایرانی، سرویس بهداشتی فرنگی، تلویزیون، یخچال، مبلمان راحتی، حمام، گاو صندوق، تلفن، سیستم تهویه هوا، کافی‌شاپ، اعلام حریق، سرویس روزانه اتاق"
+    },
+    "filterablePois": [
+      {
+        "id": "2293763928",
+        "title": "فرودگاه بین المللی امام خمینی",
+        "coordinate": [
+          51.15562974,
+          35.40961946
+        ],
+        "category": "airportTower",
+        "boundingBox": [
+          35.402619460000004,
+          51.148629740000004,
+          35.41661946,
+          51.16262974
+        ]
+      },
+      {
+        "id": "4422152047",
+        "title": "برج آزادی",
+        "coordinate": [
+          51.33806665,
+          35.69973509
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.69273509,
+          51.331066650000004,
+          35.706735089999995,
+          51.34506665
+        ]
+      },
+      {
+        "id": "7995498706",
+        "title": "بازار بزرگ تهران",
+        "coordinate": [
+          51.42337293,
+          35.676776
+        ],
+        "category": "shoppingBag",
+        "boundingBox": [
+          35.669776,
+          51.41637293,
+          35.683775999999995,
+          51.43037293
+        ]
+      },
+      {
+        "id": "9264896876",
+        "title": "برج میلاد",
+        "coordinate": [
+          51.37552463,
+          35.74481373
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.73781373,
+          51.36852463,
+          35.751813729999995,
+          51.38252463
+        ]
+      }
+    ],
+    "nextPurchaseCashback": {
+      "currency": "IRR",
+      "amount": 0
+    },
+    "groupLinks": [
+      {
+        "name": "هتل اسپیناس پالاس",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+      },
+      {
+        "name": "هتل لاله تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-laleh"
+      },
+      {
+        "name": "هتل استقلال تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-esteghlal"
+      },
+      {
+        "name": "هتل اسپیناس بلوار کشاورز",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas"
+      },
+      {
+        "name": "هتل پارسیان آزادی",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-azadi"
+      },
+      {
+        "name": "هتل هما تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-homa"
+      },
+      {
+        "name": "هتل المپیک تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-olympic"
+      },
+      {
+        "name": "هتل پرشین پلازا",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-persianpelaza"
+      },
+      {
+        "name": "هتل اوین تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-evin"
+      },
+      {
+        "name": "هتل توچال",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-tochal"
+      },
+      {
+        "name": "هتل فردوسی تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-ferdowsi"
+      },
+      {
+        "name": "هتل هویزه تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-howeyzeh"
+      },
+      {
+        "name": "هتل بزرگ تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-grand"
+      },
+      {
+        "name": "هتل انقلاب تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-enghelab"
+      },
+      {
+        "name": "هتل های تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran"
+      }
+    ]
+  }
+}

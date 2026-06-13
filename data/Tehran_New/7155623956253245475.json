@@ -1,0 +1,546 @@
+{
+  "status": "success",
+  "error": false,
+  "result": {
+    "hotel": {
+      "accomodation": {
+        "id": 204
+      },
+      "address": "تهران، میدان بهارستان، خیابان مصطفی خمینی، کوچه نظامیه، کوچه اصالت، بن‌بست پنجم، پلاک ۲",
+      "badges": [],
+      "checkinTime": "14:00",
+      "checkoutTime": "12:00",
+      "city": {
+        "id": 0,
+        "_id": "7101534970300072022",
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": {
+        "code": "IR",
+        "id": "7094321840323039334",
+        "fa": "ایران",
+        "en": "Iran"
+      },
+      "description": {
+        "fa": "اقامتگاه سنتی نظامیه تهران در مرکز شهر و در میدان بهارستان قرار دارد. این اقامتگاه که به نام بوتیک هتل نظامیه هم شناخته می‌شود، قدمتش به سال 1308 بر می‌گردد و در سال 1392 پس از مرمت و بازسازی درهای خود را بر روی مسافران گشود. اکنون با تعداد 5 اتاق در 2 طبقه از مهمانان پذیرایی می‌کند. اتاق‌های اقامتگاه سنتی نظامیه تهران به زیبایی چیده شده‌اند و تمیز و نورگیر هستند. برای صرف نوشیدنی هم می‌توانید به کافی‌شاپ فضای باز و دنج اقامتگاه سر بزنید و حال و هوایی عوض کنید. حیاط اقامتگاه هم برای کمی قدم زدن مناسب است و حوض پر آبی که در آن قرار دارد به فضا آرامش بیشتری می‌دهد.\nعمارت مسعودیه، از مکان‌های تاریخی و دیدنی تهران، تنها 5 دقیقه پیاده از اقامتگاه سنتی نظامیه تهران فاصله دارد. با 10 دقیقه رانندگی هم از موزه مقدم می‌توانید بازدید کنید. با کمتر از 10 دقیقه پیاده‌روی به ایستگاه اتوبوس و مترو بهارستان می‌رسید و از تاکسی‌های خیابان مصطفی خمینی هم می‌توانید برای رفت و آمد در تهران استفاده کنید. برای خرید در شهر تهران، بازار بزرگ تهران در 5 کیلومتری اقامتگاه سنتی نظامیه تهران گزینه مناسبی است. حتی اگر قصد خرید هم نداشته باشید سر زدن به این بازار قدیمی خالی از لطف نیست.",
+        "en": ""
+      },
+      "disabled": false,
+      "email": "",
+      "facilityGroups": [],
+      "popularFacilities": [],
+      "faq": [],
+      "fax": "",
+      "hotelId": "dh-3f4ffdfd5efd00",
+      "image": {
+        "sourceUrl": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052773ab97af8211912242_2022-12-04-a20aa67c-3690-4736-9452-16a2991624b1.webp"
+      },
+      "images": [
+        {
+          "imageId": "7155623956253245476",
+          "isPrimary": true,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052773ab97af8211912242_2022-12-04-a20aa67c-3690-4736-9452-16a2991624b1.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623956253245477",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670527730fe27c5a5df8f5af_2022-12-04-d28721c8-4e40-429c-a83c-93cad91ad6af.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245478",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670527746af0f999b10ac144_2022-12-04-8d968f8d-d03a-47fc-8e3b-38e40d75ed8b.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245479",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052774299de7a7748d271a_2022-12-04-227478cc-74ff-439e-b920-80e773833681.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245480",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052775299de7a7748d271b_2022-12-04-b80ffe97-4a81-47fc-9783-5c2c2fc18056.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245481",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052775b347cc1bd8f4c187_2022-12-04-ed137294-83ac-4d24-9a9f-466110b61cde.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245482",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052776ab97af8211912243_2022-12-04-51f9e3e2-a015-4656-8398-c0c149167788.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245483",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052776ab97af8211912244_2022-12-04-ad085952-0a14-48ea-a4fa-fbf4466db89a.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245484",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052777299de7a7748d271c_2022-12-04-c38ca9cc-412e-454b-8459-c2be17e2aced.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245485",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670527772cf976539175fcd4_2022-12-04-e63b6224-91a0-4055-83f9-e37a9af2eb51.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245486",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052778b347cc1bd8f4c188_2022-12-04-444ec390-b5a9-44fd-8ece-224578683c60.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245487",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670527780fe27c5a5df8f5b0_2022-12-04-3ebc4cc7-f77f-4d0c-a05e-5b227b294f56.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245488",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052779ab97af8211912245_2022-12-04-5675f48e-df45-4b36-b431-c8b0940ac87b.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245489",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052779906add960f28e3f5_2022-12-04-b277d965-0f0f-4b30-abc2-4502aa0108d7.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245490",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705277a299de7a7748d271d_2022-12-04-ea50d24b-b12d-491d-b206-3ee23a8cdbe1.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623956253245491",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705277a6af0f999b10ac145_2022-12-04-5b6ecdfd-1040-4069-b37e-7980e5fcdf1c.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245492",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705277b299de7a7748d271e_2022-12-04-af37a886-7100-4e31-b8e5-f4afc76147a9.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623956253245493",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705277b2cf976539175fcd5_2022-12-04-1f3d21ea-82bc-4c9c-9fa5-729ff429a19b.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956253245494",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705277c6af0f999b10ac146_2022-12-04-d8b475b5-de56-4bfd-97ea-6fe8fbf41c0a.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623956253245495",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705277c359857c3c5f4a8ca_2022-12-04-c9e4161e-70d0-49f5-8749-bc0887029b04.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        }
+      ],
+      "totalImagesCount": 20,
+      "instruction": {
+        "fa": "",
+        "en": ""
+      },
+      "mandatoryFee": {
+        "fa": "هزینه اقامت کودک کوچک‌تر از دو سال، رایگان است.\nهزینه اقامت کودک دو تا شش سال طبق قوانین هتل در هتل دریافت می‌شود.\nهزینه اقامت کودک بزرگ‌تر از شش سال به صورت یک فرد کامل محاسبه می‌شود.\nنرخ مهمان خارجی با ایرانی، متفاوت است.",
+        "en": "Accommodation fee for children aged 2-6 is according to the policy of each hotel."
+      },
+      "messages": [
+        {
+          "message": "نرخ مهمان خارجی با ایرانی، متفاوت است.",
+          "_id": "7155623956253245496",
+          "color": {
+            "background": "#eafaee",
+            "border": "#84e199",
+            "text": "#1e7b33",
+            "variant": ""
+          }
+        }
+      ],
+      "metaDescription": "",
+      "link": "ir-tehran/tehran-nezamieh",
+      "location": {
+        "coordinates": [
+          51.430270811417714,
+          35.6894870138604
+        ],
+        "type": "Point"
+      },
+      "name": {
+        "fa": "بوتیک هتل نظامیه",
+        "en": "nezamieh"
+      },
+      "phone": "",
+      "places": [],
+      "score": {
+        "score": 2.4,
+        "count": 2
+      },
+      "seoLinks": [],
+      "seoTitle": "",
+      "special": false,
+      "isStrategic": false,
+      "star": 1,
+      "state": {
+        "fa": "",
+        "en": "Tehran"
+      },
+      "_id": "638c6788db652e0728a9bea4",
+      "newHotelId": "7155623956253245475",
+      "type": "hotel",
+      "title": {
+        "fa": "هتل بوتیک هتل نظامیه تهران",
+        "en": "Hotel nezamieh Tehran"
+      },
+      "video": null,
+      "rooms": [
+        {
+          "id": "1669454938675089408",
+          "capacity": 4,
+          "extraBed": 0,
+          "name_en": "کانکت برای چهار نفر",
+          "name": "کانکت برای چهار نفر"
+        },
+        {
+          "id": "1669454976201527296",
+          "capacity": 3,
+          "extraBed": 0,
+          "name_en": "کانکت برای سه نفر",
+          "name": "کانکت برای سه نفر"
+        },
+        {
+          "id": "1669455023349698560",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "اتاق بالاخانه سوئیت",
+          "name": "اتاق بالاخانه سوئیت"
+        },
+        {
+          "id": "1669455056203681792",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "اتاق گوشواره تویین",
+          "name": "اتاق گوشواره تویین"
+        },
+        {
+          "id": "1669455092773818368",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "اتاق خانم جان دبل",
+          "name": "اتاق خانم جان دبل"
+        },
+        {
+          "id": "1669455132871364608",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "اتاق عالم تاج دبل",
+          "name": "اتاق عالم تاج دبل"
+        },
+        {
+          "id": "1669455172905996288",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "اتاق کاظم خان دبل",
+          "name": "اتاق کاظم خان دبل"
+        }
+      ],
+      "childAgeRanges": {
+        "infantFromAge": 0,
+        "noBedFromAge": 0,
+        "withBedFromAge": 0,
+        "withBedToAge": 0,
+        "adultFromAge": 0
+      },
+      "tehranZone": {
+        "code": "center",
+        "fa": "مرکز",
+        "en": "center"
+      },
+      "facilitiesAggregate": ""
+    },
+    "filterablePois": [
+      {
+        "id": "2293763928",
+        "title": "فرودگاه بین المللی امام خمینی",
+        "coordinate": [
+          51.15562974,
+          35.40961946
+        ],
+        "category": "airportTower",
+        "boundingBox": [
+          35.402619460000004,
+          51.148629740000004,
+          35.41661946,
+          51.16262974
+        ]
+      },
+      {
+        "id": "4422152047",
+        "title": "برج آزادی",
+        "coordinate": [
+          51.33806665,
+          35.69973509
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.69273509,
+          51.331066650000004,
+          35.706735089999995,
+          51.34506665
+        ]
+      },
+      {
+        "id": "7995498706",
+        "title": "بازار بزرگ تهران",
+        "coordinate": [
+          51.42337293,
+          35.676776
+        ],
+        "category": "shoppingBag",
+        "boundingBox": [
+          35.669776,
+          51.41637293,
+          35.683775999999995,
+          51.43037293
+        ]
+      },
+      {
+        "id": "9264896876",
+        "title": "برج میلاد",
+        "coordinate": [
+          51.37552463,
+          35.74481373
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.73781373,
+          51.36852463,
+          35.751813729999995,
+          51.38252463
+        ]
+      }
+    ],
+    "nextPurchaseCashback": {
+      "currency": "IRR",
+      "amount": 0
+    },
+    "groupLinks": [
+      {
+        "name": "هتل اسپیناس پالاس",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+      },
+      {
+        "name": "هتل لاله تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-laleh"
+      },
+      {
+        "name": "هتل استقلال تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-esteghlal"
+      },
+      {
+        "name": "هتل اسپیناس بلوار کشاورز",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas"
+      },
+      {
+        "name": "هتل پارسیان آزادی",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-azadi"
+      },
+      {
+        "name": "هتل هما تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-homa"
+      },
+      {
+        "name": "هتل المپیک تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-olympic"
+      },
+      {
+        "name": "هتل پرشین پلازا",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-persianpelaza"
+      },
+      {
+        "name": "هتل اوین تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-evin"
+      },
+      {
+        "name": "هتل توچال",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-tochal"
+      },
+      {
+        "name": "هتل فردوسی تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-ferdowsi"
+      },
+      {
+        "name": "هتل هویزه تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-howeyzeh"
+      },
+      {
+        "name": "هتل بزرگ تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-grand"
+      },
+      {
+        "name": "هتل انقلاب تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-enghelab"
+      },
+      {
+        "name": "هتل های تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran"
+      }
+    ]
+  }
+}

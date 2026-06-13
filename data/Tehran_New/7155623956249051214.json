@@ -1,0 +1,2088 @@
+{
+  "status": "success",
+  "error": false,
+  "result": {
+    "hotel": {
+      "accomodation": {
+        "id": 204
+      },
+      "address": "تهران، خیابان جردن، خیابان عاطفی شرقی، کوی رفیع، شبنم غربی",
+      "badges": [
+        {
+          "color": {
+            "background": "",
+            "border": "",
+            "text": "",
+            "variant": ""
+          },
+          "text": "تازه تاسیس",
+          "_id": "",
+          "variant": "GENERAL",
+          "description": "",
+          "icon": "hotel"
+        }
+      ],
+      "checkinTime": "14:00",
+      "checkoutTime": "12:00",
+      "city": {
+        "id": 0,
+        "_id": "7101534970300072022",
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": {
+        "code": "IR",
+        "id": "7094321840323039334",
+        "fa": "ایران",
+        "en": "Iran"
+      },
+      "description": {
+        "fa": "معرفی هتل رونیا تهران\nاگر در سفر به تهران قصد اقامت در شمال این شهر را داشتید، هتل چهار ستاره رونیا می‌تواند انتخاب مناسبی برای شما باشد. هتل رونیا، در خیابان جردن واقع شده است. این هتل در سال 1401 افتتاح شد و یکی از هتل‌های مدرن تهران به حساب می‌آید. هتل رونیا دارای 14 طبقه و 24 اتاق است. موقعیت مکانی این هتل به گونه‌ای است که هم می‌توانید به خیابان ولیعصر و ادارات، رستوران‌ها و کافه‌های این خیابان و هم مکان‌های دیدنی تهران دسترسی خوبی داشته باشید. با وجودی که در جلوی ورودی هتل، تعدادی پله وجود دارد، این هتل خدمات خود را به معلولان عزیز نیز ارائه می‌کند.\nآدرس هتل رونیا تهران\nهتل رونیا در خیابان جردن (بلوار نلسون ماندلا) قرار دارد. برای دسترسی به هتل، کمی بالاتر از اسفندیار به خیابان عاطفی شرقی و سپس کوی رفیع بروید. در کوچه شبنم غربی، پلاک 33 می‌توانید هتل را پیدا کنید. موقعیت مکانی هتل خارج از منطقه کنترل آلودگی هوا و طرح ترافیک است و نیازی نیست بابت رفت و آمد به هتل با خودروی شخصی نگرانی داشته باشید. علاوه بر این، هتل برای راحتی مهمانان برای گشت و گذار در شهر یا رفتن به ترمینال‌ها امکان استفاده از تاکسی سرویس مخصوص هتل را فراهم کرده است تا به راحتی بتوانید در شهر تردد کنید.\nهتل رونیا تا فرودگاه مهرآباد 21.8 کیلومتر، تا ترمینال جنوب 24.7 کیلومتر، تا ترمینال غرب 20.6 کیلومتر و تا ترمینال شرق 24.7 کیلومتر فاصله دارد. همچنین فاصله این هتل تا سفارت امارات متحده عربی و آرژانتین تنها پنج دقیقه با خودرو است و با دو دقیقه پیاده‌روی می‌توانید به سفارت عمان برسید. پل طبیعت، عمارت مسعودیه، بوستان آب و آتش، کاخ گلستان و باغ موزه نگارستان چند مورد از مکان‌های دیدنی تهران هستند که در فاصله کمی از هتل رونیا قرار دارند و می‌توانید آشنایی با تاریخ و فرهنگ تهران را با بازدید از این مکان‌ها شروع کنید. چند کوچه بالا‌تر از هتل نیز بیمارستان تندیس و داروخانه‌های متعددی قرار دارد که در صورت نیاز می‌توانید به سراغشان بروید.\nانواع اتاق های هتل رونیا تهران\nهتل رونیا تهران دارای سوئیت‌های مختلفی است که بنا به نیازتان می‌توانید از بین آنها یکی را برای اقامت خود انتخاب کنید. سوئیت‌های تک نفره، سوئیت‌های دو نفره (1 تخت دبل و 2 تخت سینگل) و سوئیت‌های چهار نفره هتل، تمامی امکانات رفاهی مورد نیاز شما را دارند و اقامت شما به همراه صبحانه خواهد بود. تمامی سوئیت‌ها دارای اینترنت، یخچال، چای‌ساز، دراور، کمد لباس، صندوق امانات، تلویزیون، حمام، سرویس فرنگی و لوازم بهداشتی هستند. اگر خودروی شخصی به همراه دارید، می‌توانید آن را در پارکینگ هتل پارک کنید. پارکینگ هتل در طبقه منفی یک تا منفی شش قرار دارد و می‌تواند تعداد 70 خودرو را در خود جای دهد.\nاگر از آن دسته افرادی هستید که به سلامتی بدن خود اهمیت می‌دهند و در حین سفر نمی‌خواهید برنامه ورزش خود را تعطیل کنید، می‌توانید از امکانات سالن ورزش هتل و همچنین سالن بیلیارد استفاده کنید. همچنین پس از یک روز پرمشغله در تهران می‌توانید به استخر هتل رفته و از سونا و جکوزی آن لذت ببرید. توصیه می‌شود خدمات ماساژ را نیز امتحان کنید. در صورتی که قصد دارید پس از اقامت در هتل عازم کشورهای خارجی شوید، می‌توانید از خدمات صرافی و تهیه بلیط هتل استفاده کنید.\nرستوران هتل رونیا تهران\nیکی از ویژگی‌های مهم این هتل، رستوران فوق‌العاده آن است که می‌تواند حتی برای برگزاری مراسم‌های مختلف استفاده شود. این رستوران که از نوع رستوران بام است در طبقه چهاردهم واقع شده و با منوی متنوعی از انواع غذاهای رنگارنگ و خوش‌طعم از شما پذیرایی می‌کند. برای سرو صبحانه (رایگان) از ساعت 7:30 تا 10 صبح، برای سرو ناهار از ساعت 12 ظهر و برای سرو شام از ساعت 18:30 عصر می‌توانید به رستوران هتل مراجعه کنید. با این حال می‌توانید در سوئیت خودتان هم پخت و پز انجام دهید یا غذای مورد نظرتان را فست‌فودها و رستوران‌هایی که تنها یک خیابان با هتل فاصله دارند، تهیه کنید.\nکافی شاپ هتل رونیا تهران\nاین کافه دارای دکوراسیونی بسیار زیبا و مجلل است و از ساعت 11 ظهر تا 23 شب از مهمانان پذیرایی می‌کند. شما می‌توانید در فضای باز یا فضای داخلی کافه بنشینید و از نوشیدن انواع نوشیدنی‌های گرم و سرد متنوعی که در منوی کافه وجود دارد، لذت ببرید. در کنار نوشیدنی‌های دلچسب این کافه توصیه می‌شود میان‌وعده‌های سبک، مافین و شیرینی‌های خوشمزه‌ای را که توسط باریستای خوش ذوق کافه تهیه می‌شوند، میل کنید. اگر مایل به سیگار کشیدن هستید، می‌توانید از لانژ اختصاصی سیگار استفاده کنید.\nقوانین و شرایط کنسلی هتل رونیا تهران\nدر صورتی که تا 48 ساعت قبل از ورود به هتل، کنسلی خود را اعلام کنید، جریمه نخواهید شد. اگر کنسلی 24 ساعت قبل از ورود اعلام شود، پنجاه درصد از قیمت اتاق به ازای یک شب دریافت می‌شود. اگر در لحظه آخر بخواهید اتاق خود را کنسل کنید، کل هزینه اتاق به ازای یک شب به عنوان جریمه دریافت می‌شود. لازم به ذکر است که جریمه کنسل کردن در ا",
+        "en": ""
+      },
+      "disabled": false,
+      "email": "",
+      "facilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1066,
+          "name": {
+            "fa": "آسانسور",
+            "en": "Elevator"
+          },
+          "priority": 5,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 1058,
+          "name": {
+            "fa": "دستگاه خودپرداز بانک",
+            "en": "ATM"
+          },
+          "priority": 6,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 53,
+          "name": {
+            "fa": "صرافی",
+            "en": "Currency exchange"
+          },
+          "priority": 7,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 16,
+          "name": {
+            "fa": "ممنوعیت سیگار در اتاق‌ها",
+            "en": "Non-smoking rooms"
+          },
+          "priority": 17,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "خدمات و امکانات کلی",
+              "en": "General Services"
+            },
+            "priority": 1
+          },
+          "groupId": 1,
+          "id": 109,
+          "name": {
+            "fa": "تهویه مطبوع",
+            "en": "Air conditioning"
+          },
+          "priority": 23,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1046,
+          "name": {
+            "fa": "سرویس بهداشتی فرنگی",
+            "en": "Toilet"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1050,
+          "name": {
+            "fa": "تلویزیون",
+            "en": "Television"
+          },
+          "priority": 3,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1053,
+          "name": {
+            "fa": "یخچال",
+            "en": "Refrigerator"
+          },
+          "priority": 4,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1029,
+          "name": {
+            "fa": "چای‌ساز",
+            "en": "Tea maker"
+          },
+          "priority": 5,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1017,
+          "name": {
+            "fa": "کمد/دراور",
+            "en": "Closet"
+          },
+          "priority": 9,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1042,
+          "name": {
+            "fa": "مبلمان راحتی",
+            "en": "Furniture"
+          },
+          "priority": 11,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1048,
+          "name": {
+            "fa": "گاو صندوق",
+            "en": "Safe box"
+          },
+          "priority": 14,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1051,
+          "name": {
+            "fa": "سشوار",
+            "en": "Hairdryer"
+          },
+          "priority": 15,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "امکانات اتاق‌ها",
+              "en": "Room Facilities"
+            },
+            "priority": 2
+          },
+          "groupId": 4,
+          "id": 1049,
+          "name": {
+            "fa": "تلفن",
+            "en": "Telephone"
+          },
+          "priority": 16,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "رستوران و امکانات پذیرایی",
+              "en": "Restaurants"
+            },
+            "priority": 4
+          },
+          "groupId": 6,
+          "id": 3,
+          "name": {
+            "fa": "رستوران",
+            "en": "Restaurant"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "رستوران و امکانات پذیرایی",
+              "en": "Restaurants"
+            },
+            "priority": 4
+          },
+          "groupId": 6,
+          "id": 1057,
+          "name": {
+            "fa": "کافی‌شاپ",
+            "en": "Coffe shop"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "پارکینگ",
+              "en": "Parking"
+            },
+            "priority": 5
+          },
+          "groupId": 8,
+          "id": 2,
+          "name": {
+            "fa": "پارکینگ",
+            "en": "Parking"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "استخر و امکانات ورزشی",
+              "en": "Pool and Sport Services"
+            },
+            "priority": 7
+          },
+          "groupId": 2,
+          "id": 103,
+          "name": {
+            "fa": "استخر سرپوشیده",
+            "en": "Indoor pool"
+          },
+          "priority": 3,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "استخر و امکانات ورزشی",
+              "en": "Pool and Sport Services"
+            },
+            "priority": 7
+          },
+          "groupId": 2,
+          "id": 1026,
+          "name": {
+            "fa": "سونا",
+            "en": "Sauna"
+          },
+          "priority": 5,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "ایمنی",
+              "en": "Safety and Security"
+            },
+            "priority": 9
+          },
+          "groupId": 9,
+          "id": 1022,
+          "name": {
+            "fa": "سیستم اطفای حریق",
+            "en": "Fire extinguishing system"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "ایمنی",
+              "en": "Safety and Security"
+            },
+            "priority": 9
+          },
+          "groupId": 9,
+          "id": 1063,
+          "name": {
+            "fa": "اعلام حریق",
+            "en": "Fire alarm"
+          },
+          "priority": 2,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "facilityGroups": [
+        {
+          "id": 1,
+          "name": {
+            "fa": "خدمات و امکانات کلی",
+            "en": "General Services"
+          },
+          "priority": 1,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1066,
+              "name": {
+                "fa": "آسانسور",
+                "en": "Elevator"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1058,
+              "name": {
+                "fa": "دستگاه خودپرداز بانک",
+                "en": "ATM"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 53,
+              "name": {
+                "fa": "صرافی",
+                "en": "Currency exchange"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 16,
+              "name": {
+                "fa": "ممنوعیت سیگار در اتاق‌ها",
+                "en": "Non-smoking rooms"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 109,
+              "name": {
+                "fa": "تهویه مطبوع",
+                "en": "Air conditioning"
+              },
+              "priority": 1,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": {
+            "fa": "امکانات اتاق‌ها",
+            "en": "Room Facilities"
+          },
+          "priority": 2,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1046,
+              "name": {
+                "fa": "سرویس بهداشتی فرنگی",
+                "en": "Toilet"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1050,
+              "name": {
+                "fa": "تلویزیون",
+                "en": "Television"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1053,
+              "name": {
+                "fa": "یخچال",
+                "en": "Refrigerator"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1029,
+              "name": {
+                "fa": "چای‌ساز",
+                "en": "Tea maker"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1017,
+              "name": {
+                "fa": "کمد/دراور",
+                "en": "Closet"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1042,
+              "name": {
+                "fa": "مبلمان راحتی",
+                "en": "Furniture"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1045,
+              "name": {
+                "fa": "حمام",
+                "en": "Bathroom"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1048,
+              "name": {
+                "fa": "گاو صندوق",
+                "en": "Safe box"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1051,
+              "name": {
+                "fa": "سشوار",
+                "en": "Hairdryer"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1049,
+              "name": {
+                "fa": "تلفن",
+                "en": "Telephone"
+              },
+              "priority": 2,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": {
+            "fa": "رستوران و امکانات پذیرایی",
+            "en": "Restaurants"
+          },
+          "priority": 4,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 3,
+              "name": {
+                "fa": "رستوران",
+                "en": "Restaurant"
+              },
+              "priority": 4,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1057,
+              "name": {
+                "fa": "کافی‌شاپ",
+                "en": "Coffe shop"
+              },
+              "priority": 4,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": {
+            "fa": "پارکینگ",
+            "en": "Parking"
+          },
+          "priority": 5,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 2,
+              "name": {
+                "fa": "پارکینگ",
+                "en": "Parking"
+              },
+              "priority": 5,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": {
+            "fa": "استخر و امکانات ورزشی",
+            "en": "Pool and Sport Services"
+          },
+          "priority": 7,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 103,
+              "name": {
+                "fa": "استخر سرپوشیده",
+                "en": "Indoor pool"
+              },
+              "priority": 7,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1026,
+              "name": {
+                "fa": "سونا",
+                "en": "Sauna"
+              },
+              "priority": 7,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": {
+            "fa": "ایمنی",
+            "en": "Safety and Security"
+          },
+          "priority": 9,
+          "facilities": [
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1022,
+              "name": {
+                "fa": "سیستم اطفای حریق",
+                "en": "Fire extinguishing system"
+              },
+              "priority": 9,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            },
+            {
+              "group": {
+                "name": {
+                  "fa": "",
+                  "en": ""
+                }
+              },
+              "id": 1063,
+              "name": {
+                "fa": "اعلام حریق",
+                "en": "Fire alarm"
+              },
+              "priority": 9,
+              "withCost": false,
+              "subtitle": {
+                "fa": "",
+                "en": ""
+              }
+            }
+          ]
+        }
+      ],
+      "popularFacilities": [
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 53,
+          "name": {
+            "fa": "صرافی",
+            "en": "Currency exchange"
+          },
+          "priority": 7,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 16,
+          "name": {
+            "fa": "ممنوعیت سیگار در اتاق‌ها",
+            "en": "Non-smoking rooms"
+          },
+          "priority": 17,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 1045,
+          "name": {
+            "fa": "حمام",
+            "en": "Bathroom"
+          },
+          "priority": 13,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        },
+        {
+          "group": {
+            "name": {
+              "fa": "",
+              "en": ""
+            }
+          },
+          "id": 3,
+          "name": {
+            "fa": "رستوران",
+            "en": "Restaurant"
+          },
+          "priority": 1,
+          "withCost": false,
+          "subtitle": {
+            "fa": "",
+            "en": ""
+          }
+        }
+      ],
+      "faq": [],
+      "fax": "",
+      "hotelId": "dh-10fdfdfd14fdfd",
+      "image": {
+        "sourceUrl": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052732ab97af821191223e_2023-07-02-39830463-825e-4b55-93d4-79ed66a0b7eb.webp"
+      },
+      "images": [
+        {
+          "imageId": "7155623956249051216",
+          "isPrimary": true,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052732ab97af821191223e_2023-07-02-39830463-825e-4b55-93d4-79ed66a0b7eb.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623956249051217",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670527326af0f999b10ac13e_2023-07-02-94ce6a38-7f01-4fc3-b949-26856b6e65e6.webp",
+          "roomType": {
+            "id": "1668991183373733888",
+            "title": "سوئیت توئین رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991183373733888",
+              "title": "سوئیت توئین رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956249051218",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052733b347cc1bd8f4c17f_2023-07-02-ebf53caf-56c2-4ff2-8699-1f41dd300116.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "7155623956249051219",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052733666674792fccc408_2023-07-02-5c7aa3eb-5bde-42eb-a505-250933ed844d.webp",
+          "roomType": {
+            "id": "1668990983578062848",
+            "title": "اتاق دبل ویژه رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668990983578062848",
+              "title": "اتاق دبل ویژه رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956249051220",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052734906add960f28e3ea_2023-07-02-17964bdf-edd1-49cc-9a11-40d98e09bc3c.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "7155623956249051221",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052734666674792fccc409_2023-07-02-64010195-d4ab-446c-9e89-11ea97f8c9f6.webp",
+          "roomType": {
+            "id": "1668990983578062848",
+            "title": "اتاق دبل ویژه رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668990983578062848",
+              "title": "اتاق دبل ویژه رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956249051222",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670527350fe27c5a5df8f5ad_2023-07-02-b2fcdf23-f5fc-4189-bc09-fcd41047e5b7.webp",
+          "roomType": {
+            "id": "1668990983578062848",
+            "title": "اتاق دبل ویژه رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668990983578062848",
+              "title": "اتاق دبل ویژه رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956249051223",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052735359857c3c5f4a8c7_2023-07-02-3e50b37d-2086-4b14-a70d-17e709aee76c.webp",
+          "roomType": {
+            "id": "1668990983578062848",
+            "title": "اتاق دبل ویژه رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668990983578062848",
+              "title": "اتاق دبل ویژه رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956249051224",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670527362cf976539175fccb_2023-07-02-540bdcf0-9cc4-49d4-8e3d-cde8c21d2811.webp",
+          "roomType": {
+            "id": "1668990983578062848",
+            "title": "اتاق دبل ویژه رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668990983578062848",
+              "title": "اتاق دبل ویژه رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956249051225",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705273676f5bf0b3af63502_2023-07-02-cafe0bf0-8c9a-460b-b805-49da83177dfb.webp",
+          "roomType": {
+            "id": "1668990983578062848",
+            "title": "اتاق دبل ویژه رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668990983578062848",
+              "title": "اتاق دبل ویژه رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956249051226",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052737906add960f28e3eb_2023-07-02-87494cf5-e3cc-4f96-ae3d-e71c40432f98.webp",
+          "roomType": {
+            "id": "1668991183373733888",
+            "title": "سوئیت توئین رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991183373733888",
+              "title": "سوئیت توئین رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956249051227",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052738ab97af821191223f_2023-07-02-ddb584d3-5f4c-4c6c-978d-10ce46d5d60d.webp",
+          "roomType": {
+            "id": "1668991183373733888",
+            "title": "سوئیت توئین رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991183373733888",
+              "title": "سوئیت توئین رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "7155623956249051228",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052738666674792fccc40a_2023-07-02-ed7d10b9-c8b4-46be-a4de-fe5b3e2802e7.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "swimming_pool"
+          ]
+        },
+        {
+          "imageId": "7155623956249051229",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670527386af0f999b10ac13f_2023-07-02-2d79d5f6-f708-43b5-973d-0fbeff8bca6c.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "swimming_pool"
+          ]
+        },
+        {
+          "imageId": "7155623956249051231",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052739906add960f28e3ec_2023-07-02-c15da719-fe01-48cf-aa87-b71ddfd638ff.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "swimming_pool"
+          ]
+        },
+        {
+          "imageId": "7155623956249051232",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052739299de7a7748d2715_2023-07-02-b56849b4-65d0-4929-9158-bb14f5357e37.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "parking_lot"
+          ]
+        },
+        {
+          "imageId": "7155623956249051233",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705273a2cf976539175fccc_2023-07-02-8b325c9a-99ca-4b41-81d5-80eec039e794.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623956249051234",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705273ab347cc1bd8f4c180_2023-07-02-b988f816-6e29-447e-87f0-86e5b7db82d1.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623956249051235",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705273b2cf976539175fccd_2023-07-02-ea65aabc-98b6-409c-b00c-d49cca3f933a.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "7155623956249051236",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705273c666674792fccc40b_2023-07-02-bd61e9a9-a3a9-4ceb-9bcc-15ddab0990b1.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623956249051237",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705273cb347cc1bd8f4c181_2023-07-02-fa5af27e-a3fb-4688-81fb-c37907a1ba9b.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623956249051238",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705273d76f5bf0b3af63503_2023-07-02-c946ec8d-e708-49b7-a04b-311252503581.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "restaurant-cafe"
+          ]
+        },
+        {
+          "imageId": "7155623956249051239",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705273d666674792fccc40c_2023-07-02-af5a8b64-5ee4-40cb-b50c-17d5fd966fe6.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "7155623956249051242",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705273d906add960f28e3ed_2023-07-02-a4fcad8b-a966-47cc-bb2b-63dca11fbf31.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "swimming_pool"
+          ]
+        },
+        {
+          "imageId": "7155623956249051243",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705273e299de7a7748d2716_2023-07-02-c6368232-3f5f-45f3-b938-2dbbc0c35fe4.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "swimming_pool"
+          ]
+        },
+        {
+          "imageId": "7155623956249051244",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705273e906add960f28e3ee_2023-07-02-72d9ac9d-12a2-41c9-a4b5-9a25332cbfea.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "7155623956249051245",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705273f299de7a7748d2717_2023-07-02-58c17c98-ae04-4de0-bbde-b22e9e83e358.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "7155623956249051246",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/6705273f906add960f28e3ef_2023-07-02-6c749a1e-e1fa-4c42-a09b-80631c84231e.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "7155623956249051247",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670527400fe27c5a5df8f5ae_2023-07-02-e59c65d5-3682-408c-9b74-17051db4b7fc.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "lobby"
+          ]
+        },
+        {
+          "imageId": "7155623956249051250",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052740666674792fccc40d_2023-07-02-70ddf827-4e0e-4298-88f2-81f0158b3f58.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "exterior"
+          ]
+        },
+        {
+          "imageId": "7155623956249051252",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/67052741906add960f28e3f0_2023-07-02-486f700e-0d97-4ab4-952f-e205829b7286.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "exterior"
+          ]
+        },
+        {
+          "imageId": "7155623956249051254",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/670527412cf976539175fcce_2023-07-02-742f6926-9f43-4a5f-ad76-fb48e658ef2c.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "exterior"
+          ]
+        },
+        {
+          "imageId": "1967897109541687296",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93a9aac13a7ed0d865dc6_سوئیت کانکت رونیا کلاس (1).webp",
+          "roomType": {
+            "id": "1668991279842725888",
+            "title": "سوئیت کانکت چهارنفره رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991279842725888",
+              "title": "سوئیت کانکت چهارنفره رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1967897298641883136",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93aa6a1e6f83605b7e3a4_سوئیت کانکت رونیا کلاس (2).webp",
+          "roomType": {
+            "id": "1668991279842725888",
+            "title": "سوئیت کانکت چهارنفره رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991279842725888",
+              "title": "سوئیت کانکت چهارنفره رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1967897298738352128",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93aa6a1e6f83605b7e3a5_سوئیت کانکت رونیا کلاس (3).webp",
+          "roomType": {
+            "id": "1668991279842725888",
+            "title": "سوئیت کانکت چهارنفره رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991279842725888",
+              "title": "سوئیت کانکت چهارنفره رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1967897298839015424",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93aa6ac13a7ed0d865dc7_سوئیت کانکت رونیا کلاس (4).webp",
+          "roomType": {
+            "id": "1668991279842725888",
+            "title": "سوئیت کانکت چهارنفره رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991279842725888",
+              "title": "سوئیت کانکت چهارنفره رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms",
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1967897298952261632",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93aa6a1e6f83605b7e3a6_سوئیت کانکت رونیا کلاس (5).webp",
+          "roomType": {
+            "id": "1668991279842725888",
+            "title": "سوئیت کانکت چهارنفره رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991279842725888",
+              "title": "سوئیت کانکت چهارنفره رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1967897299052924928",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93aa7a1e6f83605b7e3a7_سوئیت کانکت رونیا کلاس (6).webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        },
+        {
+          "imageId": "1967897299157782528",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93aa7ac13a7ed0d865dc8_سوئیت کانکت رونیا کلاس (7).webp",
+          "roomType": {
+            "id": "1668991279842725888",
+            "title": "سوئیت کانکت چهارنفره رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991279842725888",
+              "title": "سوئیت کانکت چهارنفره رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1967897785365696512",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93b3aac13a7ed0d865dc9_سوئیت رونیا کلاس برای یک نفر (1).webp",
+          "roomType": {
+            "id": "1668991319122382848",
+            "title": "سوئیت رونیا کلاس برای یک نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991319122382848",
+              "title": "سوئیت رونیا کلاس برای یک نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1967897860804448256",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93b47a1e6f83605b7e3a8_سوئیت رونیا کلاس برای یک نفر (2).webp",
+          "roomType": {
+            "id": "1668991319122382848",
+            "title": "سوئیت رونیا کلاس برای یک نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991319122382848",
+              "title": "سوئیت رونیا کلاس برای یک نفر"
+            }
+          ],
+          "categories": [
+            "rooms",
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1967897860917694464",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93b47ac13a7ed0d865dca_سوئیت رونیا کلاس برای یک نفر (3).webp",
+          "roomType": {
+            "id": "1668991319122382848",
+            "title": "سوئیت رونیا کلاس برای یک نفر"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991319122382848",
+              "title": "سوئیت رونیا کلاس برای یک نفر"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1967902173190688768",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93f4fa1e6f83605b7e3a9_سوئیت دبل رونیا کلاس (1).webp",
+          "roomType": {
+            "id": "1668991359626776576",
+            "title": "سوئیت دبل رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991359626776576",
+              "title": "سوئیت دبل رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1967902278518050816",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93f5da1e6f83605b7e3aa_سوئیت دبل رونیا کلاس (2).webp",
+          "roomType": {
+            "id": "1668991359626776576",
+            "title": "سوئیت دبل رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991359626776576",
+              "title": "سوئیت دبل رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1967902278639685632",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93f5dac13a7ed0d865dcb_سوئیت دبل رونیا کلاس (3).webp",
+          "roomType": {
+            "id": "1668991359626776576",
+            "title": "سوئیت دبل رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991359626776576",
+              "title": "سوئیت دبل رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1967902278987812864",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c93f5dac13a7ed0d865dcc_سوئیت دبل رونیا کلاس (4).webp",
+          "roomType": {
+            "id": "1668991359626776576",
+            "title": "سوئیت دبل رونیا کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991359626776576",
+              "title": "سوئیت دبل رونیا کلاس"
+            }
+          ],
+          "categories": [
+            "rooms",
+            "bathroom"
+          ]
+        },
+        {
+          "imageId": "1967903523601387520",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c94091a1e6f83605b7e3ab_روف گاردن.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "yard"
+          ]
+        },
+        {
+          "imageId": "1967903523689467904",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c94092ac13a7ed0d865dce_سوئيت تويين سوپر کلاس.webp",
+          "roomType": {
+            "id": "1668991106865434624",
+            "title": "سوئیت توئین سوپر کلاس"
+          },
+          "roomTypes": [
+            {
+              "id": "1668991106865434624",
+              "title": "سوئیت توئین سوپر کلاس"
+            }
+          ],
+          "categories": [
+            "rooms"
+          ]
+        },
+        {
+          "imageId": "1967903523777548288",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c94091ac13a7ed0d865dcd_ماساژ.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": [
+            "swimming_pool"
+          ]
+        },
+        {
+          "imageId": "1967903944516571136",
+          "isPrimary": false,
+          "url": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/68c940fbac13a7ed0d865dcf_سوئيت اسپشيال رونيا کلاس.webp",
+          "roomType": {
+            "id": "",
+            "title": ""
+          },
+          "roomTypes": [],
+          "categories": []
+        }
+      ],
+      "totalImagesCount": 50,
+      "instruction": {
+        "fa": "در حال حاضر صبحانه به صورت پک سرد در اتاق سرو میشود",
+        "en": ""
+      },
+      "mandatoryFee": {
+        "fa": "شرایط اقامت کودک و امکان استفاده از تخت اضافه در هر اتاق، بر اساس «نشان» نمایش داده شده مشخص میشود. در صورتی که نشان «محاسبه آنلاین نرخ کودک» را مشاهده میکنید، هزینه اقامت کودک در قیمت نهایی رزرو لحاظ شده است. اما اگر نشان «هزینه کودک به صورت حضوری» نمایش داده شود، هزینه اقامت کودک مطابق قوانین هتل و در زمان پذیرش از مسافر دریافت خواهد شد.",
+        "en": "Accommodation fee for children aged 2-6 is according to the policy of each hotel."
+      },
+      "messages": [],
+      "metaDescription": "",
+      "link": "ir-tehran/tehran-ronia",
+      "location": {
+        "coordinates": [
+          51.42273875345257,
+          35.772737083228904
+        ],
+        "type": "Point"
+      },
+      "name": {
+        "fa": "رونیا",
+        "en": "Ronia Tehran"
+      },
+      "phone": "",
+      "places": [],
+      "score": {
+        "score": 0,
+        "count": 0
+      },
+      "seoLinks": [],
+      "seoTitle": "",
+      "special": false,
+      "isStrategic": false,
+      "star": 4,
+      "state": {
+        "fa": "",
+        "en": "Tehran"
+      },
+      "_id": "62f888fbf98194d25f517430",
+      "newHotelId": "7155623956249051214",
+      "type": "hotel",
+      "title": {
+        "fa": "هتل رونیا تهران",
+        "en": "Hotel Ronia Tehran Tehran"
+      },
+      "video": null,
+      "rooms": [
+        {
+          "id": "1668990983578062848",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "اتاق دبل ویژه رونیا کلاس",
+          "name": "اتاق دبل ویژه رونیا کلاس"
+        },
+        {
+          "id": "1668991057515253760",
+          "capacity": 4,
+          "extraBed": 0,
+          "name_en": "سوئیت پرزیدنت دو خوابه",
+          "name": "سوئیت پرزیدنت دو خوابه"
+        },
+        {
+          "id": "1668991106865434624",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "سوئیت توئین سوپر کلاس",
+          "name": "سوئیت توئین سوپر کلاس"
+        },
+        {
+          "id": "1668991142655430656",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "سوئیت دبل سوپر کلاس",
+          "name": "سوئیت دبل سوپر کلاس"
+        },
+        {
+          "id": "1668991183373733888",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "سوئیت توئین رونیا کلاس",
+          "name": "سوئیت توئین رونیا کلاس"
+        },
+        {
+          "id": "1668991237245374464",
+          "capacity": 1,
+          "extraBed": 0,
+          "name_en": "سوئیت اقتصادی یک نفره",
+          "name": "سوئیت اقتصادی یک نفره"
+        },
+        {
+          "id": "1668991279842725888",
+          "capacity": 4,
+          "extraBed": 0,
+          "name_en": "سوئیت کانکت چهارنفره رونیا کلاس",
+          "name": "سوئیت کانکت چهارنفره رونیا کلاس"
+        },
+        {
+          "id": "1668991319122382848",
+          "capacity": 1,
+          "extraBed": 0,
+          "name_en": "سوئیت رونیا کلاس برای یک نفر",
+          "name": "سوئیت رونیا کلاس برای یک نفر"
+        },
+        {
+          "id": "1668991359626776576",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "سوئیت دبل رونیا کلاس",
+          "name": "سوئیت دبل رونیا کلاس"
+        },
+        {
+          "id": "1745376889494573056",
+          "capacity": 2,
+          "extraBed": 0,
+          "name_en": "سوئیت اقتصادی دو نفره",
+          "name": "سوئیت اقتصادی دو نفره"
+        }
+      ],
+      "childAgeRanges": {
+        "infantFromAge": 0,
+        "noBedFromAge": 0,
+        "withBedFromAge": 0,
+        "withBedToAge": 0,
+        "adultFromAge": 0
+      },
+      "tehranZone": {
+        "code": "north",
+        "fa": "شمال",
+        "en": "north"
+      },
+      "facilitiesAggregate": "آسانسور، دستگاه خودپرداز بانک، صرافی، ممنوعیت سیگار در اتاق‌ها، تهویه مطبوع، سرویس بهداشتی فرنگی، تلویزیون، یخچال، چای‌ساز، کمد/دراور، مبلمان راحتی، حمام، گاو صندوق، سشوار، تلفن، رستوران، کافی‌شاپ، پارکینگ، استخر سرپوشیده، سونا، سیستم اطفای حریق، اعلام حریق"
+    },
+    "filterablePois": [
+      {
+        "id": "2293763928",
+        "title": "فرودگاه بین المللی امام خمینی",
+        "coordinate": [
+          51.15562974,
+          35.40961946
+        ],
+        "category": "airportTower",
+        "boundingBox": [
+          35.402619460000004,
+          51.148629740000004,
+          35.41661946,
+          51.16262974
+        ]
+      },
+      {
+        "id": "4422152047",
+        "title": "برج آزادی",
+        "coordinate": [
+          51.33806665,
+          35.69973509
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.69273509,
+          51.331066650000004,
+          35.706735089999995,
+          51.34506665
+        ]
+      },
+      {
+        "id": "7995498706",
+        "title": "بازار بزرگ تهران",
+        "coordinate": [
+          51.42337293,
+          35.676776
+        ],
+        "category": "shoppingBag",
+        "boundingBox": [
+          35.669776,
+          51.41637293,
+          35.683775999999995,
+          51.43037293
+        ]
+      },
+      {
+        "id": "9264896876",
+        "title": "برج میلاد",
+        "coordinate": [
+          51.37552463,
+          35.74481373
+        ],
+        "category": "altar",
+        "boundingBox": [
+          35.73781373,
+          51.36852463,
+          35.751813729999995,
+          51.38252463
+        ]
+      }
+    ],
+    "nextPurchaseCashback": {
+      "currency": "IRR",
+      "amount": 0
+    },
+    "groupLinks": [
+      {
+        "name": "هتل اسپیناس پالاس",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+      },
+      {
+        "name": "هتل لاله تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-laleh"
+      },
+      {
+        "name": "هتل استقلال تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-esteghlal"
+      },
+      {
+        "name": "هتل اسپیناس بلوار کشاورز",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-espinas"
+      },
+      {
+        "name": "هتل پارسیان آزادی",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-azadi"
+      },
+      {
+        "name": "هتل هما تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-homa"
+      },
+      {
+        "name": "هتل المپیک تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-olympic"
+      },
+      {
+        "name": "هتل پرشین پلازا",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-persianpelaza"
+      },
+      {
+        "name": "هتل اوین تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-evin"
+      },
+      {
+        "name": "هتل توچال",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-tochal"
+      },
+      {
+        "name": "هتل فردوسی تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-ferdowsi"
+      },
+      {
+        "name": "هتل هویزه تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-howeyzeh"
+      },
+      {
+        "name": "هتل بزرگ تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-grand"
+      },
+      {
+        "name": "هتل انقلاب تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran/tehran-enghelab"
+      },
+      {
+        "name": "هتل های تهران",
+        "url": "https://alibaba.ir/hotel/ir-tehran"
+      }
+    ]
+  }
+}
