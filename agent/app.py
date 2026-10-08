@@ -26,6 +26,58 @@ except ImportError:
 
 APP_CSS = """
 <style>
+    @font-face {
+        font-family: Vazir;
+        src: url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/Vazir-Regular.woff2") format("woff2");
+        font-weight: 400;
+        font-style: normal;
+        font-display: swap;
+    }
+    @font-face {
+        font-family: Vazir;
+        src: url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/Vazir-Medium.woff2") format("woff2");
+        font-weight: 500;
+        font-style: normal;
+        font-display: swap;
+    }
+    @font-face {
+        font-family: Vazir;
+        src: url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/Vazir-Bold.woff2") format("woff2");
+        font-weight: 600;
+        font-style: normal;
+        font-display: swap;
+    }
+    @font-face {
+        font-family: Vazir;
+        src: url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/Vazir-Bold.woff2") format("woff2");
+        font-weight: 700;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    html, body, .stApp,
+    .stApp p, .stApp span, .stApp div, .stApp label, .stApp li,
+    .stApp h1, .stApp h2, .stApp h3, .stApp h4,
+    .stApp button, .stApp input, .stApp textarea,
+    .stApp [data-testid="stMarkdown"],
+    .stApp [data-testid="stCaptionContainer"] {
+        font-family: Vazir, Tahoma, sans-serif !important;
+    }
+    .stApp [data-testid="stIconMaterial"],
+    .stApp span[data-testid="stIconMaterial"] {
+        font-family: "Material Symbols Rounded" !important;
+        font-weight: 400 !important;
+    }
+
+    [data-testid="stMain"],
+    [data-testid="stMainBlockContainer"],
+    .main .block-container,
+    [data-testid="stSidebar"],
+    [data-testid="stDialog"] {
+        direction: rtl;
+        text-align: right;
+    }
+
     .main .block-container {
         max-width: 920px;
         padding-top: 1rem;
@@ -41,6 +93,7 @@ APP_CSS = """
 
     .chat-wrap {
         display: flex;
+        direction: ltr;
         width: 100%;
         margin: 0.65rem 0;
     }
@@ -231,15 +284,59 @@ APP_CSS = """
         }
     }
 
-    [data-testid="stChatInput"] textarea {
+    [data-testid="stChatInput"] textarea,
+    [data-testid="stChatInput"] textarea::placeholder {
         direction: rtl !important;
         text-align: right !important;
+        font-family: Vazir, Tahoma, sans-serif !important;
     }
-    [data-testid="stSidebar"] {
+    [data-testid="stChatInput"] div:has(> div > textarea):has(> div > button) {
+        flex-direction: row-reverse !important;
+    }
+
+    [data-testid="stSidebar"] [data-testid="stHeading"],
+    [data-testid="stSidebar"] [data-testid="stHeading"] *,
+    [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] {
+        text-align: right !important;
         direction: rtl;
-        text-align: right;
     }
-    [data-testid="stDialog"] {
+    [data-testid="stSidebar"] [data-testid="stButton"] button {
+        font-family: Vazir, Tahoma, sans-serif !important;
+    }
+    .session-id {
+        direction: ltr;
+        text-align: right;
+        unicode-bidi: isolate;
+        font-variant-numeric: tabular-nums;
+        margin: 0.25rem 0 0.75rem;
+        color: #666;
+        font-size: 0.9rem;
+    }
+
+    [data-testid="stDialog"] :is(h1, h2, h3, h4, p, span, div, label, li, button) {
+        font-family: Vazir, Tahoma, sans-serif !important;
+    }
+    [data-testid="stDialog"] [data-testid="stIconMaterial"] {
+        font-family: "Material Symbols Rounded" !important;
+        font-weight: 400 !important;
+    }
+    [data-testid="stDialog"] p,
+    [data-testid="stDialog"] li,
+    [data-testid="stDialog"] h1,
+    [data-testid="stDialog"] h2,
+    [data-testid="stDialog"] h3,
+    [data-testid="stDialog"] .stMarkdown,
+    [data-testid="stDialog"] [data-testid="stHeading"],
+    [data-testid="stDialog"] [data-testid="stHeading"] *,
+    [data-testid="stDialog"] [data-testid="stMarkdownContainer"],
+    [data-testid="stDialog"] [data-testid="stCaptionContainer"],
+    [data-testid="stDialog"] [data-testid="stExpander"] {
+        direction: rtl !important;
+        text-align: right !important;
+        unicode-bidi: plaintext;
+    }
+    [data-testid="stDialog"] [data-testid="stExpander"] details,
+    [data-testid="stDialog"] [data-testid="stExpander"] summary {
         direction: rtl;
         text-align: right;
     }
@@ -455,7 +552,10 @@ def main():
 
     with st.sidebar:
         st.subheader("سشن")
-        st.text(st.session_state.thread_id[:16] + "...")
+        st.markdown(
+            f'<p class="session-id" dir="ltr">{html.escape(st.session_state.thread_id[:16])}...</p>',
+            unsafe_allow_html=True,
+        )
         if st.button("شروع گفتگوی جدید"):
             st.session_state.thread_id = str(uuid.uuid4())
             st.session_state.messages_ui = [

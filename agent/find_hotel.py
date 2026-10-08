@@ -1,18 +1,14 @@
 import json
-import os
 from typing import Any
-
-from dotenv import load_dotenv
-from langchain_openai import ChatOpenAI
 
 from agent.chroma_client import get_chroma_collection
 from agent.config import (
-    ENV_FILE,
     FIELD_SEARCH_MAP,
     MAX_RECOMMENDATIONS,
     TOP_K_PER_FIELD,
     ZONE_OPTIONS,
 )
+from agent.llm import build_chat_model
 from agent.hotel_data import get_candidate_rows, get_hotels_by_ids
 from agent.ranker_prompt import RANKER_SYSTEM_PROMPT
 from agent.schemas import FindHotelInput, RankHotelsOutput
@@ -73,9 +69,7 @@ def _rank_candidates(
     user_summary: str,
     candidates: list[dict],
 ) -> RankHotelsOutput:
-    load_dotenv(ENV_FILE)
-    model = os.getenv("GENERATION_MODEL", "gpt-4o")
-    llm = ChatOpenAI(model=model, temperature=0).with_structured_output(RankHotelsOutput)
+    llm = build_chat_model(temperature=0).with_structured_output(RankHotelsOutput)
 
     payload = {
         "user_request": user_summary,

@@ -6,7 +6,6 @@ from __future__ import annotations
 import argparse
 import csv
 import json
-import os
 import re
 import sys
 from datetime import datetime, timezone
@@ -14,8 +13,14 @@ from pathlib import Path
 from typing import Any
 
 import chromadb
-from chromadb.utils.embedding_functions import OpenAIEmbeddingFunction
 from dotenv import load_dotenv
+
+from agent.llm import (
+    build_embedding_function,
+    canonical_embedding_model,
+    embedding_model,
+    openrouter_api_key,
+)
 
 PROJECT_ROOT = Path(__file__).parent
 ENV_FILE = PROJECT_ROOT / ".env"
@@ -26,7 +31,7 @@ CHECKPOINT_FILE = DEFAULT_OUTPUT_DIR / "checkpoint.json"
 AUDIT_JSON_FILE = DEFAULT_OUTPUT_DIR / "embedding_audit.json"
 AUDIT_CSV_FILE = DEFAULT_OUTPUT_DIR / "embedding_audit.csv"
 
-DEFAULT_EMBEDDING_MODEL = "text-embedding-3-large"
+DEFAULT_EMBEDDING_MODEL = "openai/text-embedding-3-large"
 COLLECTION_NAME = "tehran_hotels"
 EMBEDDING_MODEL = DEFAULT_EMBEDDING_MODEL
 
@@ -54,7 +59,7 @@ AUDIT_CSV_COLUMNS = [
 
 
 def load_settings(dry_run: bool) -> str:
-    """Load OPENAI_API_KEY and EMBEDDING_MODEL from .env."""
+    """Load OPENROUTER_API_KEY and EMBEDDING_MODEL from .env."""
     global EMBEDDING_MODEL
 
     if ENV_FILE.exists():
@@ -62,13 +67,13 @@ def load_settings(dry_run: bool) -> str:
     else:
         load_dotenv()
 
-    EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", DEFAULT_EMBEDDING_MODEL).strip()
-    api_key = os.getenv("OPENAI_API_KEY", "").strip()
+    EMBEDDING_MODEL = embedding_model()
 
-    if not dry_run and not api_key:
-        raise SystemExit(
-            f"OPENAI_API_KEY not found. Set it in {ENV_FILE} or your environment."
-        )
+    if not dry_run:
+        try:
+            openrouter_api_key()
+        except RuntimeError as exc:
+            raise SystemExit(str(exc)) from exc
 
     return EMBEDDING_MODEL
 
@@ -256,7 +261,7 @@ def build_audit_entry(
 
 def get_collection(
     client: chromadb.PersistentClient,
-    embedding_fn: OpenAIEmbeddingFunction,
+    embedding_fn: Any,
 ) -> Any:
     return client.get_or_create_collection(
         name=COLLECTION_NAME,
@@ -330,7 +335,7 @@ def main() -> None:
     parser.add_argument(
         "--dry-run",
         action="store_true",
-        help="Build audit preview without OpenAI/Chroma writes",
+        help="Build audit preview without OpenRouter/Chroma writes",
     )
     parser.add_argument(
         "--reset",
@@ -372,7 +377,8 @@ def main() -> None:
         )
     if (
         checkpoint.get("embedding_model")
-        and checkpoint["embedding_model"] != embedding_model
+        and canonical_embedding_model(checkpoint["embedding_model"])
+        != canonical_embedding_model(embedding_model)
         and checkpoint.get("completed_hotel_ids")
     ):
         raise SystemExit(
@@ -388,7 +394,7 @@ def main() -> None:
     client: chromadb.PersistentClient | None = None
 
     if not args.dry_run:
-        embedding_fn = OpenAIEmbeddingFunction(model_name=embedding_model)
+        embedding_fn = build_embedding_function()
         chroma_dir.mkdir(parents=True, exist_ok=True)
         client = chromadb.PersistentClient(path=str(chroma_dir))
         collection = get_collection(client, embedding_fn)

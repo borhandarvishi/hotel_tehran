@@ -1,11 +1,8 @@
 import json
-import os
 from typing import Annotated
 
-from dotenv import load_dotenv
 from langchain_core.messages import AIMessage, HumanMessage, SystemMessage, ToolMessage
 from langchain_core.tools import tool
-from langchain_openai import ChatOpenAI
 from langgraph.checkpoint.memory import MemorySaver
 from langgraph.graph import END, StateGraph
 from langgraph.graph.message import add_messages
@@ -13,9 +10,10 @@ from langgraph.prebuilt import ToolNode
 from typing_extensions import TypedDict
 
 from agent.agent_prompt import SYSTEM_PROMPT
-from agent.config import ENV_FILE, WELCOME_MESSAGE
-from agent.schemas import FindHotelInput
+from agent.config import WELCOME_MESSAGE
 from agent.find_hotel import find_hotel
+from agent.llm import build_chat_model
+from agent.schemas import FindHotelInput
 
 
 class AgentState(TypedDict):
@@ -46,10 +44,8 @@ def find_hotel_tool(
     return json.dumps(result, ensure_ascii=False)
 
 
-def _build_llm() -> ChatOpenAI:
-    load_dotenv(ENV_FILE)
-    model = os.getenv("GENERATION_MODEL", "gpt-4o")
-    return ChatOpenAI(model=model, temperature=0.4)
+def _build_llm():
+    return build_chat_model(temperature=0.4)
 
 
 def _agent_node(state: AgentState):

@@ -1,18 +1,14 @@
 from functools import lru_cache
-import os
 
 import chromadb
-from chromadb.utils.embedding_functions import OpenAIEmbeddingFunction
-from dotenv import load_dotenv
 
-from agent.config import CHROMA_DIR, COLLECTION_NAME, ENV_FILE
+from agent.config import CHROMA_DIR, COLLECTION_NAME
+from agent.llm import build_embedding_function
 
 
 @lru_cache(maxsize=1)
-def get_embedding_function() -> OpenAIEmbeddingFunction:
-    load_dotenv(ENV_FILE)
-    model = os.getenv("EMBEDDING_MODEL", "text-embedding-3-large")
-    return OpenAIEmbeddingFunction(model_name=model)
+def get_embedding_function():
+    return build_embedding_function()
 
 
 @lru_cache(maxsize=1)

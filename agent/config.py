@@ -6,6 +6,10 @@ CHROMA_DIR = DATA_DIR / "chroma_db"
 AUDIT_CSV_PATH = DATA_DIR / "chroma" / "embedding_audit.csv"
 ENV_FILE = PROJECT_ROOT / ".env"
 
+OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
+DEFAULT_GENERATION_MODEL = "openai/gpt-4o"
+DEFAULT_EMBEDDING_MODEL = "openai/text-embedding-3-large"
+
 COLLECTION_NAME = "tehran_hotels"
 WELCOME_MESSAGE = (
     "سلام! من دستیار رزرو هتل تهران هستم. "

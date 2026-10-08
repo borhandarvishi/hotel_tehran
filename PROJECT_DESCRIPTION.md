@@ -30,7 +30,7 @@
 └────────────────────────────┬────────────────────────────────────┘
                              │
 ┌────────────────────────────▼────────────────────────────────────┐
-│              عامل هوشمند (LangGraph + OpenAI)                   │
+│              عامل هوشمند (LangGraph + OpenRouter)              │
 │   گفتگو · جمع‌آوری ترجیحات · فراخوانی ابزار find_hotel         │
 └────────────────────────────┬────────────────────────────────────┘
                              │
@@ -91,7 +91,7 @@
 
 عامل با **LangGraph** پیاده‌سازی شده و شامل:
 
-- **مدل زبانی:** OpenAI GPT (قابل تنظیم از `.env`)
+- **مدل زبانی:** OpenRouter (قابل تنظیم از `.env`، پیش‌فرض `openai/gpt-4o`)
 - **حافظه سشن:** `MemorySaver` با `thread_id` برای ادامه گفتگو در یک سشن
 - **ابزار (Tool):** `find_hotel` — فراخوانی جستجو هنگام کافی بودن اطلاعات
 - **محدوده دقیق (Scope):** عامل فقط درباره هتل تهران پاسخ می‌دهد و سوالات خارج از موضوع را رد می‌کند
@@ -119,8 +119,8 @@
 |------|--------|
 | زبان | Python 3 |
 | عامل و گفتگو | LangGraph, LangChain |
-| مدل زبانی | OpenAI GPT (`GENERATION_MODEL`) |
-| Embedding | OpenAI `text-embedding-3-large` |
+| مدل زبانی | OpenRouter (`GENERATION_MODEL`) |
+| Embedding | OpenRouter `openai/text-embedding-3-large` |
 | پایگاه وکتور | ChromaDB |
 | رابط کاربری | Streamlit |
 | اعتبارسنجی داده | Pydantic |
@@ -166,12 +166,12 @@ maryam_project/
 
 ### پیش‌نیازها
 - Python 3.10+
-- کلید OpenAI در فایل `.env`:
+- کلید OpenRouter در فایل `.env`:
 
 ```env
-OPENAI_API_KEY=your_key
-EMBEDDING_MODEL=text-embedding-3-large
-GENERATION_MODEL=gpt-4o
+OPENROUTER_API_KEY=your_key
+EMBEDDING_MODEL=openai/text-embedding-3-large
+GENERATION_MODEL=openai/gpt-4o
 ```
 
 ### نصب
@@ -211,7 +211,7 @@ streamlit run run_app.py
 ## محدودیت‌ها و توسعه‌های آینده
 
 - دامنه فعلی: فقط هتل‌های تهران (۱۳۳ هتل)
-- وابستگی به API OpenAI برای embed و generation
+- وابستگی به API OpenRouter برای embed و generation
 - فعلاً پیشنهاد هتل است؛ رزرو و پرداخت در scope فعلی نیست
 - توسعه‌های پیشنهادی: افزودن فیلتر قیمت، مقایسه هتل‌ها، پشتیبانی از شهرهای دیگر، ارزیابی کیفیت با معیارهای retrieval
 
